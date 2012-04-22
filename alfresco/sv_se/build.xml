@@ -267,6 +267,9 @@
 		  <replacefilter 
 		    token="@@edition@@" 
 		    value="${edition}"/>
+		  <replacefilter 
+		    token="@@version.alfresco@@" 
+		    value="${version.alfresco}"/>
 		</replace>
 		<replace 
 		    file="${alfresco.amp.dir}/module.properties">
@@ -276,6 +279,9 @@
 		  <replacefilter 
 		    token="@@edition@@" 
 		    value="${edition}"/>
+		  <replacefilter 
+		    token="@@version.alfresco@@" 
+		    value="${version.alfresco}"/>
 		</replace>
 		<replace 
 		    file="${build.dir}/dist/${edition}-${version}-Alfresco-Swedish/readme.txt">
