@@ -1,0 +1,6 @@
+# Swedish localization of Alfresco 
+module.id=alfresco.sv.se
+module.version=@@module.version@@
+module.title=Alfresco Swedish
+module.description=Swedish localization of Alfresco @@edition@@
+ 

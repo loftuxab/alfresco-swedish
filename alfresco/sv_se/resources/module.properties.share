@@ -1,0 +1,7 @@
+# Swedish localization of Share module properties
+module.id=share.sv.se
+module.version=@@module.version@@
+module.title=Share Swedish
+module.description=Swedish localization of Share @@edition@@
+
+ 

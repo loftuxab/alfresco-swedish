@@ -1,0 +1,6 @@
+# Mappings to support adding tiny_mce
+#
+# Custom mappings.  If 'include.default' is false, then this is the complete set.
+#
+include.default=true
+/modules=/modules
