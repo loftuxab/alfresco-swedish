@@ -2208,6 +2208,14 @@ RESULT:
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Access Denied</seg>
+      </tuv>
+      <tuv lang="SV-SE" changeid="peter" changedate="20121010T191319Z">
+        <seg>Åtkomst nekades</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Access Denied.</seg>
       </tuv>
       <tuv lang="SV-SE">
@@ -3592,6 +3600,14 @@ RESULT:
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Alfresco &amp;raquo; Link Google Docs&amp;trade; Account</seg>
+      </tuv>
+      <tuv lang="SV-SE" changeid="peter" changedate="20121010T190619Z">
+        <seg>Alfresco &amp;raquo; Länka Google Docs&amp;trade; konto</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Alfresco &amp;raquo; {0}</seg>
       </tuv>
       <tuv lang="SV-SE" changeid="peter" changedate="20110511T131045Z">
@@ -4204,6 +4220,14 @@ RESULT:
       </tuv>
       <tuv lang="SV-SE">
         <seg>Alla aktiviteter</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>All changes will be lost.</seg>
+      </tuv>
+      <tuv lang="SV-SE" changeid="peter" changedate="20121010T191010Z">
+        <seg>Alla ändringar kommer förloras.</seg>
       </tuv>
     </tu>
     <tu>
@@ -6330,6 +6354,14 @@ RESULT:
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Authorize with Google Docs</seg>
+      </tuv>
+      <tuv lang="SV-SE" changeid="peter" changedate="20121010T191909Z">
+        <seg>Auktorisera med Google Docs</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Auto Deploy</seg>
       </tuv>
       <tuv lang="SV-SE">
@@ -6590,6 +6622,14 @@ RESULT:
       </tuv>
       <tuv lang="SV-SE">
         <seg>Tillbaka</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Back to Alfresco</seg>
+      </tuv>
+      <tuv lang="SV-SE" changeid="peter" changedate="20121010T190956Z">
+        <seg>Tillbaks till Alfresco</seg>
       </tuv>
     </tu>
     <tu>
@@ -8522,6 +8562,14 @@ RESULT:
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Changes may be lost if you continue?</seg>
+      </tuv>
+      <tuv lang="SV-SE" changeid="peter" changedate="20121010T191142Z">
+        <seg>Ändringar kan förloras om du fortsätter?</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Changes storage of aspects on AVM Nodes.</seg>
       </tuv>
       <tuv lang="SV-SE">
@@ -9762,6 +9810,14 @@ RESULT:
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Close page</seg>
+      </tuv>
+      <tuv lang="SV-SE" changeid="peter" changedate="20121010T190917Z">
+        <seg>Stäng sidan</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Cloud</seg>
       </tuv>
       <tuv lang="SV-SE" changeid="peter" changedate="20120810T143634Z">
@@ -10538,6 +10594,14 @@ RESULT:
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Concurrent Editors</seg>
+      </tuv>
+      <tuv lang="SV-SE" changeid="peter" changedate="20121010T191100Z">
+        <seg>Samtidiga redigerare</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Condition</seg>
       </tuv>
       <tuv lang="SV-SE">
@@ -10726,6 +10790,22 @@ RESULT:
       </tuv>
       <tuv lang="SV-SE">
         <seg>Bekräfta</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Confirm Document Format Downgrade</seg>
+      </tuv>
+      <tuv lang="SV-SE" changeid="peter" changedate="20121010T191752Z">
+        <seg>Bekräfta formatnedgradering av dokument</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Confirm Document Format Upgrade</seg>
+      </tuv>
+      <tuv lang="SV-SE" changeid="peter" changedate="20121010T191726Z">
+        <seg>Bekräfta formatuppgradering av dokument</seg>
       </tuv>
     </tu>
     <tu>
@@ -12054,6 +12134,14 @@ RESULT:
       </tuv>
       <tuv lang="SV-SE" changeid="peter" changedate="20110815T105402Z">
         <seg>Kunde inte extrahera metadata.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Could not find return function in parent window</seg>
+      </tuv>
+      <tuv lang="SV-SE" changeid="peter" changedate="20121010T190904Z">
+        <seg>Kunde inte hitta returfunktion i huvudfönstret</seg>
       </tuv>
     </tu>
     <tu>
@@ -13526,6 +13614,30 @@ RESULT:
       </tuv>
       <tuv lang="SV-SE">
         <seg>Skapar utifrån</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Creating Google Docs™ Document...</seg>
+      </tuv>
+      <tuv lang="SV-SE" changeid="peter" changedate="20121010T192051Z">
+        <seg>Skapar Google Docs™ Dokument...</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Creating Google Docs™ Presentation...</seg>
+      </tuv>
+      <tuv lang="SV-SE" changeid="peter" changedate="20121010T192332Z">
+        <seg>Skapar Google Docs™ Presentation...</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Creating Google Docs™ Spreadsheet...</seg>
+      </tuv>
+      <tuv lang="SV-SE" changeid="peter" changedate="20121010T192248Z">
+        <seg>Skapar Google Docs™ Kalkylark...</seg>
       </tuv>
     </tu>
     <tu>
@@ -15650,10 +15762,26 @@ RESULT:
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Discard Changes</seg>
+      </tuv>
+      <tuv lang="SV-SE" changeid="peter" changedate="20121010T190949Z">
+        <seg>Förkasta ändringar</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Discard Template</seg>
       </tuv>
       <tuv lang="SV-SE">
         <seg>Ta bort mall</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Discarding Changes...</seg>
+      </tuv>
+      <tuv lang="SV-SE" changeid="peter" changedate="20121010T191033Z">
+        <seg>Förkastar ändringar...</seg>
       </tuv>
     </tu>
     <tu>
@@ -16066,6 +16194,14 @@ RESULT:
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Do you want to continue?</seg>
+      </tuv>
+      <tuv lang="SV-SE" changeid="peter" changedate="20121010T191021Z">
+        <seg>Vill du fortsätta?</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Do you want to disconnect from Alfresco in the cloud?</seg>
       </tuv>
       <tuv lang="SV-SE" changeid="peter" changedate="20120810T150357Z">
@@ -16230,6 +16366,14 @@ RESULT:
       </tuv>
       <tuv lang="SV-SE">
         <seg>Dokumentarbetsyta</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Document cannot be saved to Alfresco.</seg>
+      </tuv>
+      <tuv lang="SV-SE" changeid="peter" changedate="20121010T191244Z">
+        <seg>Dokumentet kunde inte sparas till Alfresco</seg>
       </tuv>
     </tu>
     <tu>
@@ -17690,6 +17834,14 @@ RESULT:
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Edit in Google Docs™</seg>
+      </tuv>
+      <tuv lang="SV-SE" changeid="peter" changedate="20121010T191508Z">
+        <seg>Redigera i Google Docs™</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Edit item</seg>
       </tuv>
       <tuv lang="SV-SE">
@@ -17926,6 +18078,14 @@ RESULT:
       </tuv>
       <tuv lang="SV-SE">
         <seg>Redigering av '{0}' har avbrutits.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Editing in Google Docs™...</seg>
+      </tuv>
+      <tuv lang="SV-SE" changeid="peter" changedate="20121010T191517Z">
+        <seg>Redigerar i Google Docs™...</seg>
       </tuv>
     </tu>
     <tu>
@@ -20218,6 +20378,30 @@ RESULT:
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Failed to Create Google Docs™ Document.</seg>
+      </tuv>
+      <tuv lang="SV-SE" changeid="peter" changedate="20121010T192116Z">
+        <seg>Misslyckades skapa Google Docs™ Dokument.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Failed to Create Google Docs™ Presentation.</seg>
+      </tuv>
+      <tuv lang="SV-SE" changeid="peter" changedate="20121010T192402Z">
+        <seg>Misslyckades skapa Google Docs™ Presentation.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Failed to Create Google Docs™ Spreadsheet.</seg>
+      </tuv>
+      <tuv lang="SV-SE" changeid="peter" changedate="20121010T192316Z">
+        <seg>Misslyckades skapa Google Docs™ Kalkylark.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Failed to Login</seg>
       </tuv>
       <tuv lang="SV-SE">
@@ -20414,6 +20598,14 @@ RESULT:
       </tuv>
       <tuv lang="SV-SE" changeid="peter" changedate="20110430T073404Z">
         <seg>Misslyckades ändra inställningar för notifieringar.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Failed to connect to Google Docs™</seg>
+      </tuv>
+      <tuv lang="SV-SE" changeid="peter" changedate="20121010T191648Z">
+        <seg>Misslyckades ansluta till Google Docs™</seg>
       </tuv>
     </tu>
     <tu>
@@ -20630,6 +20822,14 @@ RESULT:
       </tuv>
       <tuv lang="SV-SE">
         <seg>Misslyckades med att avgöra om arbetsflödesdefinition redan dstribuerats.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Failed to discard changes.</seg>
+      </tuv>
+      <tuv lang="SV-SE" changeid="peter" changedate="20121010T191046Z">
+        <seg>Misslyckades förkasta ändringar.</seg>
       </tuv>
     </tu>
     <tu>
@@ -20854,6 +21054,14 @@ RESULT:
       </tuv>
       <tuv lang="SV-SE">
         <seg>Misslyckades ansluta användare {0} till sajt {1}</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Failed to link Google Docs&amp;trade; Account.</seg>
+      </tuv>
+      <tuv lang="SV-SE" changeid="peter" changedate="20121010T190748Z">
+        <seg>Misslyckades länka Google Docs&amp;trade; konto.</seg>
       </tuv>
     </tu>
     <tu>
@@ -21526,6 +21734,14 @@ RESULT:
       </tuv>
       <tuv lang="SV-SE">
         <seg>Misslyckades att köra funktioner pga felet: {0}</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Failed to save Google Doc to Alfresco.</seg>
+      </tuv>
+      <tuv lang="SV-SE" changeid="peter" changedate="20121010T191218Z">
+        <seg>Misslyckades spara Google Doc till Alfresco</seg>
       </tuv>
     </tu>
     <tu>
@@ -23834,6 +24050,38 @@ RESULT:
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Google Docs™ Document...</seg>
+      </tuv>
+      <tuv lang="SV-SE" changeid="peter" changedate="20121010T192032Z">
+        <seg>Google Docs™ Dokument...</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Google Docs™ Presentation...</seg>
+      </tuv>
+      <tuv lang="SV-SE" changeid="peter" changedate="20121010T192325Z">
+        <seg>Google Docs™ Presentation...</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Google Docs™ Spreadsheet...</seg>
+      </tuv>
+      <tuv lang="SV-SE" changeid="peter" changedate="20121010T192229Z">
+        <seg>Google Docs™ Kalkylark...</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Google Docs™ Temporarily Disabled</seg>
+      </tuv>
+      <tuv lang="SV-SE" changeid="peter" changedate="20121010T192459Z">
+        <seg>Google Docs™ temporärt otillgängligt</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Google User Name</seg>
       </tuv>
       <tuv lang="SV-SE" changeid="peter" changedate="20110430T061934Z">
@@ -25130,6 +25378,22 @@ RESULT:
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>If the errors occurs again please contact your System Administrator.</seg>
+      </tuv>
+      <tuv lang="SV-SE" changeid="peter" changedate="20121010T191625Z">
+        <seg>Om felet uppstår igen, kontakta din Systemadministratör.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>If the issue continues, please contact your System Administrator.</seg>
+      </tuv>
+      <tuv lang="SV-SE" changeid="peter" changedate="20121010T190839Z">
+        <seg>Om problemet fortsätter, vänligen kontakta din systemadministratör.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>If the new layout has less columns than the current layout, columns are removed from right side and any dashlets in those columns will not be consolidated into remaining columns.</seg>
       </tuv>
       <tuv lang="SV-SE">
@@ -25142,6 +25406,14 @@ RESULT:
       </tuv>
       <tuv lang="SV-SE">
         <seg>Om den nya layouten har färre kolumner än den nuvarande kommer kolumnerna tas bort från höger sida.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>If the page does not close, clink the link below</seg>
+      </tuv>
+      <tuv lang="SV-SE" changeid="peter" changedate="20121010T190730Z">
+        <seg>Om sidan inte stängs, klicka länken nedan</seg>
       </tuv>
     </tu>
     <tu>
@@ -26214,6 +26486,14 @@ RESULT:
       </tuv>
       <tuv lang="SV-SE">
         <seg>Ogiltig 'minVärdes' egenskap: {0}</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Invalid Filename</seg>
+      </tuv>
+      <tuv lang="SV-SE" changeid="peter" changedate="20121010T191227Z">
+        <seg>Ogiltigt filnamn</seg>
       </tuv>
     </tu>
     <tu>
@@ -28492,6 +28772,14 @@ RESULT:
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Link to Google Docs&amp;trade; Account Complete.</seg>
+      </tuv>
+      <tuv lang="SV-SE" changeid="peter" changedate="20121010T190704Z">
+        <seg>Länk till Google Docs&amp;trade; konto komplett.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Link to Rule Set</seg>
       </tuv>
       <tuv lang="SV-SE" changeid="peter" changedate="20120421T095437Z">
@@ -29248,6 +29536,14 @@ RESULT:
       </tuv>
       <tuv lang="SV-SE">
         <seg>Låst:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Log into Google Docs™.</seg>
+      </tuv>
+      <tuv lang="SV-SE" changeid="peter" changedate="20121010T191416Z">
+        <seg>Loga in till Google Docs™.</seg>
       </tuv>
     </tu>
     <tu>
@@ -34958,6 +35254,14 @@ RESULT:
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Other users are editing this document.</seg>
+      </tuv>
+      <tuv lang="SV-SE" changeid="peter" changedate="20121010T191114Z">
+        <seg>Andar användare redigerar detta dokument.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Other users' activities only</seg>
       </tuv>
       <tuv lang="SV-SE">
@@ -36190,6 +36494,14 @@ RESULT:
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Please contact your system administrator for further information.</seg>
+      </tuv>
+      <tuv lang="SV-SE" changeid="peter" changedate="20121010T192619Z">
+        <seg>Kontakta din systemadministratör för ytterligare information</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Please contact your system administrator.</seg>
       </tuv>
       <tuv lang="SV-SE">
@@ -36462,10 +36774,26 @@ RESULT:
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Please try again at a later time.</seg>
+      </tuv>
+      <tuv lang="SV-SE" changeid="peter" changedate="20121010T190812Z">
+        <seg>Vänligen försök igen vid senare tillfällen.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Please try again later.</seg>
       </tuv>
       <tuv lang="SV-SE" changeid="peter" changedate="20111011T061025Z">
         <seg>Vänligen försök igen senare.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Please try again.</seg>
+      </tuv>
+      <tuv lang="SV-SE" changeid="peter" changedate="20121010T191448Z">
+        <seg>Vänligen försök igen.</seg>
       </tuv>
     </tu>
     <tu>
@@ -40366,6 +40694,14 @@ RESULT:
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Resume Editing in Google Docs™</seg>
+      </tuv>
+      <tuv lang="SV-SE" changeid="peter" changedate="20121010T191703Z">
+        <seg>Återuppta redigering i Google Docs™</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Return</seg>
       </tuv>
       <tuv lang="SV-SE">
@@ -41382,6 +41718,14 @@ RESULT:
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Save to Alfresco</seg>
+      </tuv>
+      <tuv lang="SV-SE" changeid="peter" changedate="20121010T190937Z">
+        <seg>Spara till Alresco</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Saved Query</seg>
       </tuv>
       <tuv lang="SV-SE">
@@ -41410,6 +41754,14 @@ RESULT:
       </tuv>
       <tuv lang="SV-SE">
         <seg>Sparade sökningar</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Saving Google Doc™...</seg>
+      </tuv>
+      <tuv lang="SV-SE" changeid="peter" changedate="20121010T191203Z">
+        <seg>Sparar Google Doc™...</seg>
       </tuv>
     </tu>
     <tu>
@@ -49015,6 +49367,14 @@ RESULT:
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>The Google Docs™ functionality has been temporarily disabled.</seg>
+      </tuv>
+      <tuv lang="SV-SE" changeid="peter" changedate="20121010T192601Z">
+        <seg>Google Docs™ funktionaliteten har temporärt blivit otillgänglig.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>The HTTP reader was unable to authenticate on the remote server: {0}</seg>
       </tuv>
       <tuv lang="SV-SE">
@@ -49600,6 +49960,22 @@ Identifikationen för en grupp kan inte ändras då den redan är fastställd. <
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>The current document format will be downgraded when saved back into Alfresco.</seg>
+      </tuv>
+      <tuv lang="SV-SE" changeid="peter" changedate="20121010T191851Z">
+        <seg>Det aktuella dokumentformatet kommer nedgraderas när det sparas in i Alfresco</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>The current document format will be upgraded when saved back into Alfresco.</seg>
+      </tuv>
+      <tuv lang="SV-SE" changeid="peter" changedate="20121010T191839Z">
+        <seg>Det aktuella dokumentformatet kommer uppgraderas när det sparas in i Alfresco</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>The current document is not managed by Alfresco.</seg>
       </tuv>
       <tuv lang="SV-SE">
@@ -49884,6 +50260,14 @@ Identifikationen för en grupp kan inte ändras då den redan är fastställd. <
       </tuv>
       <tuv lang="SV-SE">
         <seg>Filändelser inkluderas i filnamn vid matchning.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>The filename contains illegal characters.</seg>
+      </tuv>
+      <tuv lang="SV-SE" changeid="peter" changedate="20121010T191310Z">
+        <seg>Filnamnet innehåller ogiltiga tecken</seg>
       </tuv>
     </tu>
     <tu>
@@ -52039,6 +52423,14 @@ Värdet {0} är ogiltigt för aktivitetens egenskap {1}.</seg>
       </tuv>
       <tuv lang="SV-SE" changeid="peter" changedate="20120421T100341Z">
         <seg>Det uppstod ett fel vid redigering av denna nod</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>There was an error opening the document in Google Docs™.</seg>
+      </tuv>
+      <tuv lang="SV-SE" changeid="peter" changedate="20121010T191559Z">
+        <seg>Det uppstod ett fel när dokument skulle öppnas i Google Docs™.</seg>
       </tuv>
     </tu>
     <tu>
@@ -56216,6 +56608,14 @@ Värdet {0} är ogiltigt för aktivitetens egenskap {1}.</seg>
       </tuv>
       <tuv lang="SV-SE" changeid="peter" changedate="20120421T101732Z">
         <seg>Kunde inte utföra sökningen</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Unable to perform the requested action.</seg>
+      </tuv>
+      <tuv lang="SV-SE" changeid="peter" changedate="20121010T191437Z">
+        <seg>Kunde inte utföra den begärda handlingen.</seg>
       </tuv>
     </tu>
     <tu>
@@ -60925,6 +61325,14 @@ Värdet {0} är ogiltigt för aktivitetens egenskap {1}.</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>You are not logged into Google Docs™, so the document cannot be displayed.</seg>
+      </tuv>
+      <tuv lang="SV-SE" changeid="peter" changedate="20121010T191406Z">
+        <seg>Du är inte inloggad till Google Docs™, så dokumentet kan inte visas.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>You are the only site member.</seg>
       </tuv>
       <tuv lang="SV-SE" changeid="peter" changedate="20120420T164444Z">
@@ -61469,6 +61877,14 @@ Värdet {0} är ogiltigt för aktivitetens egenskap {1}.</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>You must authorize Alfresco to connect to your Google Docs account in order to continue.</seg>
+      </tuv>
+      <tuv lang="SV-SE" changeid="peter" changedate="20121010T192026Z">
+        <seg>Du måste auktorisera Alfresco för anslutningar till ditt Google Docs konto för att fortsätta.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>You must enter a frame between {0} and {1}</seg>
       </tuv>
       <tuv lang="SV-SE">
@@ -61497,6 +61913,14 @@ Värdet {0} är ogiltigt för aktivitetens egenskap {1}.</seg>
       </tuv>
       <tuv lang="SV-SE">
         <seg>Du måste ange inställningar för portleten innan den kan användas.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>You no longer have access to this site.</seg>
+      </tuv>
+      <tuv lang="SV-SE" changeid="peter" changedate="20121010T191340Z">
+        <seg>Du har inte längre tillgång till denna webbplats.</seg>
       </tuv>
     </tu>
     <tu>

@@ -22,6 +22,7 @@
 	<property name="alfresco.amp.file" value="${build.dir}/dist/${edition}-${version}-Alfresco-Swedish/InstallOption2/alfresco_sv_SE" />
 	<property name="alfresco.amp.messages.dir" value="${alfresco.amp.dir}/config/alfresco/messages" />
 	<property name="alfresco.amp.workflow.dir" value="${alfresco.amp.dir}/config/alfresco/workflow" />
+	<property name="alfresco.amp.alfresco.dir" value="${alfresco.amp.dir}/config/alfresco" />
 	<property name="alfresco.amp.scripts.dir" value="${alfresco.amp.dir}/web/scripts" />
 
 	<target name="clean">
@@ -201,6 +202,12 @@
                  from="^([^_]*).properties.alfresco$" 
                  to="\1.properties"/>
 		</copy>		
+		<copy todir="${alfresco.amp.alfresco.dir}">
+			<fileset dir="${project.dir}/target/repository-scripts" defaultexcludes="false" />		
+         	<mapper type="regexp" 
+                 from="^([^_]*)_sv_SE.properties$" 
+                 to="\1_sv.properties"/>
+		</copy>	
 		<copy todir="${alfresco.amp.messages.dir}">
 			<fileset dir="${project.dir}/target/repository" defaultexcludes="false" />		
          	<mapper type="regexp" 
