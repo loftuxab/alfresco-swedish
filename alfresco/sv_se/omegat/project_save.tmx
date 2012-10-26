@@ -2688,6 +2688,14 @@ RESULT:
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Add a custom notice for display to site users</seg>
+      </tuv>
+      <tuv lang="SV-SE" changeid="peter" changedate="20121024T060909Z">
+        <seg>Lägg till anpassad notifiering att visa för webbplatsanvändarna</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Add a tag</seg>
       </tuv>
       <tuv lang="SV-SE" changeid="peter" changedate="20110531T055646Z">
@@ -10690,6 +10698,14 @@ RESULT:
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Configure Site Notice</seg>
+      </tuv>
+      <tuv lang="SV-SE" changeid="peter" changedate="20121024T061306Z">
+        <seg>Konfigurerar webbplatsnotifiering</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Configure Templates</seg>
       </tuv>
       <tuv lang="SV-SE">
@@ -12534,6 +12550,14 @@ RESULT:
       </tuv>
       <tuv lang="SV-SE" changeid="peter" changedate="20110825T175009Z">
         <seg>Kunde inte visa innehåll på grund av del i plugin ''{0}'': {1}</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Couldn''t display content due to missing plugin ''{0}''</seg>
+      </tuv>
+      <tuv lang="SV-SE" changeid="peter" changedate="20121024T061208Z">
+        <seg>Kunde inte visa innehåll då plugin saknas ''{0}''</seg>
       </tuv>
     </tu>
     <tu>
@@ -17114,10 +17138,18 @@ RESULT:
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Duplicate isn't allowed.</seg>
+      </tuv>
+      <tuv lang="SV-SE" changeid="peter" changedate="20121024T060647Z">
+        <seg>Dubbletter tillåts inte.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Duplicate name not allowed</seg>
       </tuv>
-      <tuv lang="SV-SE" changeid="peter" changedate="20120810T180923Z">
-        <seg>Dublettnamn inte tillåtna</seg>
+      <tuv lang="SV-SE" changeid="peter" changedate="20121024T060653Z">
+        <seg>Dubblettnamn inte tillåtna</seg>
       </tuv>
     </tu>
     <tu>
@@ -22450,6 +22482,14 @@ RESULT:
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Filtered discussion Forum summary</seg>
+      </tuv>
+      <tuv lang="SV-SE" changeid="peter" changedate="20121024T060725Z">
+        <seg>Filtrerad diskussion Forumsummering</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Find</seg>
       </tuv>
       <tuv lang="SV-SE">
@@ -25598,6 +25638,14 @@ RESULT:
       </tuv>
       <tuv lang="SV-SE">
         <seg>Bildhantering/Upplösare</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Imap Attachments</seg>
+      </tuv>
+      <tuv lang="SV-SE" changeid="peter" changedate="20121024T060537Z">
+        <seg>Imap bilagor</seg>
       </tuv>
     </tu>
     <tu>
@@ -33820,6 +33868,14 @@ RESULT:
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>No text has been configured</seg>
+      </tuv>
+      <tuv lang="SV-SE" changeid="peter" changedate="20121024T061043Z">
+        <seg>Ingen text har konfigurerats</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>No topic content yet</seg>
       </tuv>
       <tuv lang="SV-SE">
@@ -34024,6 +34080,14 @@ RESULT:
       </tuv>
       <tuv lang="SV-SE" changeid="peter" changedate="20110430T065457Z">
         <seg>Node typen som representerar en överföringslåsning</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Node with email alias ''{0}'' already exists.</seg>
+      </tuv>
+      <tuv lang="SV-SE" changeid="peter" changedate="20121024T060607Z">
+        <seg>Nod med epostalias ''{0}'' existerar redan.</seg>
       </tuv>
     </tu>
     <tu>
@@ -41742,6 +41806,14 @@ RESULT:
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Saved Search Dashlet</seg>
+      </tuv>
+      <tuv lang="SV-SE" changeid="peter" changedate="20121024T060752Z">
+        <seg>Sparad sökning Sökdashlet</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Saved Search Properties</seg>
       </tuv>
       <tuv lang="SV-SE">
@@ -44895,6 +44967,14 @@ RESULT:
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Site Notice</seg>
+      </tuv>
+      <tuv lang="SV-SE" changeid="peter" changedate="20121024T060826Z">
+        <seg>Webbplatsnotifiering</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Site Preset</seg>
       </tuv>
       <tuv lang="SV-SE" changeid="peter" changedate="20120301T191300Z">
@@ -44915,6 +44995,14 @@ RESULT:
       </tuv>
       <tuv lang="SV-SE">
         <seg>Webbplatssökning</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Site Search Dashlet</seg>
+      </tuv>
+      <tuv lang="SV-SE" changeid="peter" changedate="20121024T060812Z">
+        <seg>Webbplatssökning Dashlet</seg>
       </tuv>
     </tu>
     <tu>
@@ -52643,6 +52731,14 @@ Värdet {0} är ogiltigt för aktivitetens egenskap {1}.</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>This dashlet displays a custom message on the dashboard, specified by the site manager</seg>
+      </tuv>
+      <tuv lang="SV-SE" changeid="peter" changedate="20121024T061134Z">
+        <seg>Denna dashlet visar ett anpassat meddelande från webbplatsansvarig på anslagstavlan.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>This dashlet displays the site details.</seg>
       </tuv>
       <tuv lang="SV-SE" changeid="peter" changedate="20110531T063059Z">
@@ -53559,6 +53655,14 @@ Värdet {0} är ogiltigt för aktivitetens egenskap {1}.</seg>
       </tuv>
       <tuv lang="SV-SE">
         <seg>Denna användare är inte ägaren av arbetskopian och kan inte checka in den.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>This value may show as zero if your license has no restriction on the number of users.</seg>
+      </tuv>
+      <tuv lang="SV-SE" changeid="peter" changedate="20121024T061250Z">
+        <seg>Detta värde kan visas som noll då din licens inte har restriktioner på antalet användare.</seg>
       </tuv>
     </tu>
     <tu>
@@ -65985,10 +66089,26 @@ Vänligen kontakta din systemadministratör</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>{1} added folder {0}</seg>
+      </tuv>
+      <tuv lang="SV-SE" changeid="peter" changedate="20121024T060954Z">
+        <seg>{1} lade till mapp {0}</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>{1} added {0} documents</seg>
       </tuv>
       <tuv lang="SV-SE" changeid="peter" changedate="20110412T145158Z">
         <seg>{1} lade till {0} dokument</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>{1} added {0} folders</seg>
+      </tuv>
+      <tuv lang="SV-SE" changeid="peter" changedate="20121024T061016Z">
+        <seg>{1} adderade {0} mappar</seg>
       </tuv>
     </tu>
     <tu>
@@ -66105,6 +66225,22 @@ Vänligen kontakta din systemadministratör</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>{1} deleted document {0}</seg>
+      </tuv>
+      <tuv lang="SV-SE" changeid="peter" changedate="20121024T060939Z">
+        <seg>{1} raderade dokument {0}</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>{1} deleted folder {0}</seg>
+      </tuv>
+      <tuv lang="SV-SE" changeid="peter" changedate="20121024T061003Z">
+        <seg>{1} raderade mapp {0}</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>{1} deleted link {0}</seg>
       </tuv>
       <tuv lang="SV-SE" changeid="peter" changedate="20110412T145543Z">
@@ -66133,6 +66269,14 @@ Vänligen kontakta din systemadministratör</seg>
       </tuv>
       <tuv lang="SV-SE" changeid="peter" changedate="20110412T145227Z">
         <seg>{1} raderade {0} dokument</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>{1} deleted {0} folders</seg>
+      </tuv>
+      <tuv lang="SV-SE" changeid="peter" changedate="20121024T061029Z">
+        <seg>{1} raderade {0} mappar</seg>
       </tuv>
     </tu>
     <tu>
