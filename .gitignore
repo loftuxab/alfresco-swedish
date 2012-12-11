@@ -42,6 +42,9 @@ _translationstatus.txt
 *_CN.properties
 *_en.properties
 *_EN.properties
+*_no.properties
+*_NO.properties
+
 *build.properties
 *module.properties
 *log4j.properties

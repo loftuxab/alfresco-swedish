@@ -73,6 +73,8 @@ if [ ! -f ".gitignore" ]; then
 	echo *_CN.properties >> .gitignore
 	echo *_en.properties >> .gitignore
 	echo *_EN.properties >> .gitignore
+	echo *_no.properties >> .gitignore
+	echo *_NO.properties >> .gitignore
 	echo *build.properties >> .gitignore
 	echo *module.properties >> .gitignore
 	echo *log4j.properties >> .gitignore
@@ -115,6 +117,7 @@ if [ ! -d "alfresco/sv_se/source/repository/.svn" ]; then
 fi
 
 svnget repository $baseurl/projects/repository/config/alfresco/messages $rev
+svnget repository-scripts $baseurl/projects/remote-api/config/alfresco/ $rev
 svnget web-client $baseurl/projects/web-client/config/alfresco/messages $rev
 svnget workflow $baseurl/projects/repository/config/alfresco/workflow $rev
 svnget sharepoint $baseurl/modules/sharepoint/amp/config/alfresco/messages $rev

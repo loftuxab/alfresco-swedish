@@ -81,12 +81,14 @@
                  from="^([^_]*).get_sv_SE.properties$" 
                  to="\1.get_sv.properties"/>
 		</copy>
+<!--
 		<copy todir="${share.amp.dir}/config/alfresco/">
 			<fileset dir="${project.dir}/target/modules-share" defaultexcludes="false" />		
          	<mapper type="regexp" 
                  from="^([^_]*).get_sv_SE.properties$" 
                  to="\1.get_sv.properties"/>
 		</copy>
+-->
 		<copy todir="${share.amp.modules.dir}/components">
 			<fileset dir="${project.dir}/target/slingshot/components" defaultexcludes="false" />		
          	<mapper type="regexp" 
@@ -119,12 +121,14 @@
                  from="^([^_]*).get_sv_SE.properties$" 
                  to="\1.get_sv.properties"/>
 		</copy>	
+<!--
 		<copy todir="${share.jar.dir}/alfresco/">
 			<fileset dir="${project.dir}/target/modules-share" defaultexcludes="false" />		
          	<mapper type="regexp" 
                  from="^([^_]*).get_sv_SE.properties$" 
                  to="\1.get_sv.properties"/>
 		</copy>
+-->
 		<copy todir="${share.jar.dir}/alfresco/messages">
 			<fileset dir="${project.dir}/target/slingshot/messages" defaultexcludes="false" />		
          	<mapper type="regexp" 

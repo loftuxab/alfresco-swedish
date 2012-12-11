@@ -542,6 +542,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>&amp;copy; 2005-2012 Alfresco Software Inc.</seg>
+      </tuv>
+      <tuv lang="SV-SE" changeid="peter" changedate="20121123T171207Z">
+        <seg>&amp;copy; 2005-2012 Alfresco Software Inc.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>&amp;copy; 2005-2012 All rights reserved.</seg>
       </tuv>
       <tuv lang="SV-SE" changeid="peter" changedate="20120223T190135Z">
@@ -658,6 +666,14 @@
       </tuv>
       <tuv lang="SV-SE">
         <seg>''dir.root'' skall sättas så att det pekar mot en specifik folder.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>''valueType'' not recognised: {0}</seg>
+      </tuv>
+      <tuv lang="SV-SE" changeid="peter" changedate="20121128T142939Z">
+        <seg>''valueType'' känns inte igen {0}</seg>
       </tuv>
     </tu>
     <tu>
@@ -2056,6 +2072,14 @@ RESULT:
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>ALF-15828 : DB2: Upgrade script to rename ACT_HI_PROCINST.PROC_INST_ID_ index</seg>
+      </tuv>
+      <tuv lang="SV-SE" changeid="peter" changedate="20121110T092402Z">
+        <seg>ALF-15828 : DB2: Upgrade script to rename ACT_HI_PROCINST.PROC_INST_ID_ index</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>ALF-16038 : DB2: Upgrade script to remove ALFUSER.ACT_HI_ACTINST.OWNER_</seg>
       </tuv>
       <tuv lang="SV-SE" changeid="peter" changedate="20120928T144841Z">
@@ -3072,6 +3096,14 @@ RESULT:
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Additional index for activiti on historic activity (PROC_INST_ID_ and ACTIVITY_ID_)</seg>
+      </tuv>
+      <tuv lang="SV-SE" changeid="peter" changedate="20121119T143148Z">
+        <seg>Additional index for activiti on historic activity (PROC_INST_ID_ and ACTIVITY_ID_)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Additional options</seg>
       </tuv>
       <tuv lang="SV-SE">
@@ -3604,6 +3636,14 @@ RESULT:
       </tuv>
       <tuv lang="SV-SE">
         <seg>Alfresco</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Alfresco &amp;raquo; Channel Authentication Details</seg>
+      </tuv>
+      <tuv lang="SV-SE" changeid="peter" changedate="20121128T143537Z">
+        <seg>Alfresco &amp;raquo; Kanal autentiseringsdetaljer</seg>
       </tuv>
     </tu>
     <tu>
@@ -4504,6 +4544,14 @@ RESULT:
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Already exists</seg>
+      </tuv>
+      <tuv lang="SV-SE" changeid="peter" changedate="20121128T143512Z">
+        <seg>Existerar redan</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Also
 	tenant index directories should be deleted manually.</seg>
       </tuv>
@@ -4974,6 +5022,22 @@ RESULT:
       </tuv>
       <tuv lang="SV-SE">
         <seg>Applikationsinställningar och underhåll</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Application name not supplied.</seg>
+      </tuv>
+      <tuv lang="SV-SE" changeid="peter" changedate="20121128T142835Z">
+        <seg>Applikationsnamn inte angivet.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Application not found: {0}</seg>
+      </tuv>
+      <tuv lang="SV-SE" changeid="peter" changedate="20121128T142845Z">
+        <seg>Applikationen hittades inte: {0}</seg>
       </tuv>
     </tu>
     <tu>
@@ -7066,6 +7130,14 @@ RESULT:
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Blog {0} deleted</seg>
+      </tuv>
+      <tuv lang="SV-SE" changeid="peter" changedate="20121128T143010Z">
+        <seg>Blogg {0} raderad</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Blog: create or edit blog post</seg>
       </tuv>
       <tuv lang="SV-SE">
@@ -7078,6 +7150,14 @@ RESULT:
       </tuv>
       <tuv lang="SV-SE">
         <seg>Blogg: visa post informationsöversikt</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Blue Theme</seg>
+      </tuv>
+      <tuv lang="SV-SE" changeid="peter" changedate="20121128T143758Z">
+        <seg>Blått tema</seg>
       </tuv>
     </tu>
     <tu>
@@ -8084,16 +8164,16 @@ RESULT:
       <tuv lang="EN-US">
         <seg>Cannot synchronize the content: you don't have permission to access the source file.</seg>
       </tuv>
-      <tuv lang="SV-SE" changeid="peter" changedate="20120810T175639Z">
-        <seg>Kan inte synkronisera dokumentet: du saknar rättigheter för källdokumentet.</seg>
+      <tuv lang="SV-SE" changeid="peter" changedate="20121128T143941Z">
+        <seg>Kan inte synkronisera dokumentet: du saknar behörighet för källdokumentet.</seg>
       </tuv>
     </tu>
     <tu>
       <tuv lang="EN-US">
         <seg>Cannot synchronize the content: you don't have permission to access the target file.</seg>
       </tuv>
-      <tuv lang="SV-SE" changeid="peter" changedate="20120810T175617Z">
-        <seg>Kan inte synkronisera dokumentet: du saknar rättigheter för måldokumentet.</seg>
+      <tuv lang="SV-SE" changeid="peter" changedate="20121128T143936Z">
+        <seg>Kan inte synkronisera dokumentet: du saknar behörighet för måldokumentet.</seg>
       </tuv>
     </tu>
     <tu>
@@ -8630,6 +8710,14 @@ RESULT:
       </tuv>
       <tuv lang="SV-SE" changeid="peter" changedate="20110701T071243Z">
         <seg>Kanal</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Channel Authentication</seg>
+      </tuv>
+      <tuv lang="SV-SE" changeid="peter" changedate="20121128T143546Z">
+        <seg>Kanalautentisering</seg>
       </tuv>
     </tu>
     <tu>
@@ -10014,6 +10102,14 @@ RESULT:
       </tuv>
       <tuv lang="SV-SE">
         <seg>Kolumn {0}</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Column {0} (column number {1}) must not be blank, but was on line {2}</seg>
+      </tuv>
+      <tuv lang="SV-SE" changeid="peter" changedate="20121128T143459Z">
+        <seg>Kolumn {0} (Kolumnnummer {1}) får inte vara blankt, men var det på rad {2}</seg>
       </tuv>
     </tu>
     <tu>
@@ -12154,6 +12250,14 @@ RESULT:
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Could not find event: {0}</seg>
+      </tuv>
+      <tuv lang="SV-SE" changeid="peter" changedate="20121128T143632Z">
+        <seg>Kunde inte hitta händelse: {0}</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Could not find return function in parent window</seg>
       </tuv>
       <tuv lang="SV-SE" changeid="peter" changedate="20121010T190904Z">
@@ -13446,6 +13550,14 @@ RESULT:
       </tuv>
       <tuv lang="SV-SE" changeid="peter" changedate="20120421T101450Z">
         <seg>Innehåll skapat baserat på mall ''{0}''</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Created for {0}</seg>
+      </tuv>
+      <tuv lang="SV-SE" changeid="peter" changedate="20121128T143507Z">
+        <seg>Skapade för {0}</seg>
       </tuv>
     </tu>
     <tu>
@@ -16834,6 +16946,14 @@ RESULT:
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Download as Zip</seg>
+      </tuv>
+      <tuv lang="SV-SE" changeid="peter" changedate="20121210T120840Z">
+        <seg>Ladda ner som Zip</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Download cancelled</seg>
       </tuv>
       <tuv lang="SV-SE" changeid="peter" changedate="20120928T144958Z">
@@ -17238,6 +17358,14 @@ RESULT:
       </tuv>
       <tuv lang="SV-SE" changeid="peter" changedate="20120415T074323Z">
         <seg>EEE dd MMM yyyy HH:mm:ss z</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>EEE, dd MMM yyyy HH:mm:ss Z</seg>
+      </tuv>
+      <tuv lang="SV-SE" changeid="peter" changedate="20121210T120846Z">
+        <seg>EEE, dd MMM yyyy HH:mm:ss Z</seg>
       </tuv>
     </tu>
     <tu>
@@ -18154,6 +18282,14 @@ RESULT:
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Editing started on {1} by {0}</seg>
+      </tuv>
+      <tuv lang="SV-SE" changeid="peter" changedate="20121123T171150Z">
+        <seg>Redigering påbörjad {1} av {0}</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Editing started on:</seg>
       </tuv>
       <tuv lang="SV-SE">
@@ -18284,8 +18420,8 @@ RESULT:
       <tuv lang="EN-US">
         <seg>Either you do not have permissions to view the item, it has been removed or it never existed.</seg>
       </tuv>
-      <tuv lang="SV-SE" changeid="peter" changedate="20120707T083042Z">
-        <seg>Du saknar antingen rättigheter att se objektet, det har tagits bort eller det har aldrig existerat.</seg>
+      <tuv lang="SV-SE" changeid="peter" changedate="20121128T143918Z">
+        <seg>Du saknar antingen behörighet att se objektet, det har tagits bort eller det har aldrig existerat.</seg>
       </tuv>
     </tu>
     <tu>
@@ -18606,6 +18742,14 @@ RESULT:
       </tuv>
       <tuv lang="SV-SE">
         <seg>Epostad</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Embed properties as metadata in content</seg>
+      </tuv>
+      <tuv lang="SV-SE" changeid="peter" changedate="20121110T092256Z">
+        <seg>Lägg till egenskaper som metadata i filinnehåll</seg>
       </tuv>
     </tu>
     <tu>
@@ -21284,8 +21428,8 @@ RESULT:
       <tuv lang="EN-US">
         <seg>Failed to recover the item "{0}" as you do not have the appropriate permissions to restore the item to the parent folder, please select a new folder destination.</seg>
       </tuv>
-      <tuv lang="SV-SE">
-        <seg>Misslyckades med att återställa objektet ''{0}'' eftersom du inte har rättighet att återställa objekt till överliggande mapp, välj en ny mappdestination.</seg>
+      <tuv lang="SV-SE" changeid="peter" changedate="20121128T143956Z">
+        <seg>Misslyckades med att återställa objektet ''{0}'' eftersom du inte har behörighet att återställa objekt till överliggande mapp, välj en ny mappdestination.</seg>
       </tuv>
     </tu>
     <tu>
@@ -22206,6 +22350,14 @@ RESULT:
       </tuv>
       <tuv lang="SV-SE" changeid="peter" changedate="20110511T133325Z">
         <seg>Flödesnotifiering påslagen</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Field contains an error.</seg>
+      </tuv>
+      <tuv lang="SV-SE" changeid="peter" changedate="20121123T171224Z">
+        <seg>Fältet innehåller ett fel.</seg>
       </tuv>
     </tu>
     <tu>
@@ -23242,6 +23394,14 @@ RESULT:
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Following ({0})</seg>
+      </tuv>
+      <tuv lang="SV-SE" changeid="peter" changedate="20121127T183533Z">
+        <seg>Följer ({0})</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Following Email Templates</seg>
       </tuv>
       <tuv lang="SV-SE" changeid="peter" changedate="20110722T134047Z">
@@ -23254,6 +23414,14 @@ RESULT:
       </tuv>
       <tuv lang="SV-SE" changeid="peter" changedate="20110623T045545Z">
         <seg>Följer mig</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Following Me ({0})</seg>
+      </tuv>
+      <tuv lang="SV-SE" changeid="peter" changedate="20121127T183521Z">
+        <seg>Följer mig ({0})</seg>
       </tuv>
     </tu>
     <tu>
@@ -25138,6 +25306,14 @@ RESULT:
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>I''m Following ({0})</seg>
+      </tuv>
+      <tuv lang="SV-SE" changeid="peter" changedate="20121127T183501Z">
+        <seg>Jag följer ({0})</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>I'm Editing</seg>
       </tuv>
       <tuv lang="SV-SE">
@@ -25378,6 +25554,14 @@ RESULT:
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>If errors occur run script:</seg>
+      </tuv>
+      <tuv lang="SV-SE" changeid="peter" changedate="20121127T183558Z">
+        <seg>Om fel inträffar kör skript:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>If it does not happen you can use the link next to the timer.</seg>
       </tuv>
       <tuv lang="SV-SE" changeid="peter" changedate="20110809T063146Z">
@@ -25494,6 +25678,14 @@ RESULT:
       </tuv>
       <tuv lang="SV-SE">
         <seg>Om du avbryter redigeringen av ett dokument så kommer den tillhörande arbetskopian att raderas och alla ändringar sedan utcheckning gå förlorade.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>If you do not have Alfresco Mobile installed you will be directed to the App Store&amp;trade; where you can download it for free.</seg>
+      </tuv>
+      <tuv lang="SV-SE" changeid="peter" changedate="20121127T183418Z">
+        <seg>Om du inte har Alfresco Mobile installerat kommer du dirigeras om till App Store&amp;trade;  där du kan ladda ner det gratis.</seg>
       </tuv>
     </tu>
     <tu>
@@ -26542,6 +26734,14 @@ RESULT:
       </tuv>
       <tuv lang="SV-SE" changeid="peter" changedate="20121010T191227Z">
         <seg>Ogiltigt filnamn</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Invalid JSON: {0}</seg>
+      </tuv>
+      <tuv lang="SV-SE" changeid="peter" changedate="20121128T143640Z">
+        <seg>Ogiltig JSON: {0}</seg>
       </tuv>
     </tu>
     <tu>
@@ -33292,6 +33492,14 @@ RESULT:
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>No file was uploaded</seg>
+      </tuv>
+      <tuv lang="SV-SE" changeid="peter" changedate="20121128T143328Z">
+        <seg>Ingen fil laddades upp.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>No files to display, click icon to select file(s) to upload</seg>
       </tuv>
       <tuv lang="SV-SE">
@@ -33440,6 +33648,14 @@ RESULT:
       </tuv>
       <tuv lang="SV-SE">
         <seg>Inga objekt.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>No link found with that name</seg>
+      </tuv>
+      <tuv lang="SV-SE" changeid="peter" changedate="20121128T143058Z">
+        <seg>Ingen länk hittades med det namnet</seg>
       </tuv>
     </tu>
     <tu>
@@ -33616,6 +33832,14 @@ RESULT:
       </tuv>
       <tuv lang="SV-SE">
         <seg>No patches were required.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>No path was supplied after the application name.</seg>
+      </tuv>
+      <tuv lang="SV-SE" changeid="peter" changedate="20121128T142905Z">
+        <seg>Ingen sökväg angiven efter applikationens namn.</seg>
       </tuv>
     </tu>
     <tu>
@@ -33956,6 +34180,14 @@ RESULT:
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>No valid link names supplied</seg>
+      </tuv>
+      <tuv lang="SV-SE" changeid="peter" changedate="20121128T143133Z">
+        <seg>Inga giltigt länknamn angivet</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>No web page to display.</seg>
       </tuv>
       <tuv lang="SV-SE" changeid="peter" changedate="20120420T165117Z">
@@ -34088,6 +34320,22 @@ RESULT:
       </tuv>
       <tuv lang="SV-SE" changeid="peter" changedate="20121024T060607Z">
         <seg>Nod med epostalias ''{0}'' existerar redan.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Node {0} deleted</seg>
+      </tuv>
+      <tuv lang="SV-SE" changeid="peter" changedate="20121128T143021Z">
+        <seg>Nod {0} raderad</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Node {0} marked as removed</seg>
+      </tuv>
+      <tuv lang="SV-SE" changeid="peter" changedate="20121128T143033Z">
+        <seg>Nod {0} markerad som bortagen</seg>
       </tuv>
     </tu>
     <tu>
@@ -35702,6 +35950,14 @@ RESULT:
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Parameter 'action' must be either 'enable' or 'disable'</seg>
+      </tuv>
+      <tuv lang="SV-SE" changeid="peter" changedate="20121128T142926Z">
+        <seg>Parameter 'action' måste vara antingen 'enable' eller 'disable'</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Parent</seg>
       </tuv>
       <tuv lang="SV-SE" changeid="peter" changedate="20110805T085557Z">
@@ -35858,6 +36114,22 @@ RESULT:
       </tuv>
       <tuv lang="SV-SE">
         <seg>Lösenordet måste vara mellan {0} och {1} tecken långt.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Password:</seg>
+      </tuv>
+      <tuv lang="SV-SE" changeid="peter" changedate="20121128T143618Z">
+        <seg>Lösenord:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Passwords do not match.</seg>
+      </tuv>
+      <tuv lang="SV-SE" changeid="peter" changedate="20121123T171841Z">
+        <seg>Lösenorden matchar inte.</seg>
       </tuv>
     </tu>
     <tu>
@@ -36722,6 +36994,14 @@ RESULT:
       </tuv>
       <tuv lang="SV-SE">
         <seg>Vänligen ange minst {0} tecken för att utföra sökning.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Please enter your username and password for {0}</seg>
+      </tuv>
+      <tuv lang="SV-SE" changeid="peter" changedate="20121128T143604Z">
+        <seg>Vänligen ange användarnamn och lösenord för {0}</seg>
       </tuv>
     </tu>
     <tu>
@@ -46975,6 +47255,14 @@ RESULT:
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Strength</seg>
+      </tuv>
+      <tuv lang="SV-SE" changeid="peter" changedate="20121123T171847Z">
+        <seg>Styrka</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>String length of ''{0}'' is not in range [{1}; {2}]</seg>
       </tuv>
       <tuv lang="SV-SE">
@@ -48503,6 +48791,14 @@ RESULT:
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Tap here to open this document in Alfresco Mobile (v1.4+)</seg>
+      </tuv>
+      <tuv lang="SV-SE" changeid="peter" changedate="20121127T183248Z">
+        <seg>Knacka här för att öppna dokumentet i Alfresco Mobile (v1.4+)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Target</seg>
       </tuv>
       <tuv lang="SV-SE">
@@ -49720,6 +50016,22 @@ Identifikationen för en grupp kan inte ändras då den redan är fastställd. <
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>The Wiki Page could not be found</seg>
+      </tuv>
+      <tuv lang="SV-SE" changeid="peter" changedate="20121128T143725Z">
+        <seg>Wikisidan kunde inte hittas</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>The Wiki page could not be found</seg>
+      </tuv>
+      <tuv lang="SV-SE" changeid="peter" changedate="20121128T143718Z">
+        <seg>Wikisidan kunde inte hittas</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>The activities in this list let you follow the changes in the sites you belong to.</seg>
       </tuv>
       <tuv lang="SV-SE" changeid="peter" changedate="20110412T181141Z">
@@ -50352,6 +50664,14 @@ Identifikationen för en grupp kan inte ändras då den redan är fastställd. <
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>The file was corrupted or truncated</seg>
+      </tuv>
+      <tuv lang="SV-SE" changeid="peter" changedate="20121128T143346Z">
+        <seg>Filen var korrupt eller trunkerad</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>The filename contains illegal characters.</seg>
       </tuv>
       <tuv lang="SV-SE" changeid="peter" changedate="20121010T191310Z">
@@ -50428,6 +50748,14 @@ Identifikationen för en grupp kan inte ändras då den redan är fastställd. <
       </tuv>
       <tuv lang="SV-SE" changeid="peter" changedate="20110809T064335Z">
         <seg>Formulär instansdata nod.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>The form wasn't uploaded as multipart</seg>
+      </tuv>
+      <tuv lang="SV-SE" changeid="peter" changedate="20121128T143319Z">
+        <seg>Formuläret blev inte uppladdat som multipart</seg>
       </tuv>
     </tu>
     <tu>
@@ -52507,6 +52835,22 @@ Värdet {0} är ogiltigt för aktivitetens egenskap {1}.</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>There was a problem with creating the users</seg>
+      </tuv>
+      <tuv lang="SV-SE" changeid="peter" changedate="20121128T143403Z">
+        <seg>Det var ett problem med att skapa användarna</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>There was a problem with creating the users: {0}</seg>
+      </tuv>
+      <tuv lang="SV-SE" changeid="peter" changedate="20121128T143418Z">
+        <seg>Det var ett problem med att skapa användarna: {0}</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>There was an error editing this node</seg>
       </tuv>
       <tuv lang="SV-SE" changeid="peter" changedate="20120421T100341Z">
@@ -52599,6 +52943,14 @@ Värdet {0} är ogiltigt för aktivitetens egenskap {1}.</seg>
       </tuv>
       <tuv lang="SV-SE">
         <seg>Denna vecka</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>This action attempts to embed the content's properties as metadata in the file itself</seg>
+      </tuv>
+      <tuv lang="SV-SE" changeid="peter" changedate="20121110T092354Z">
+        <seg>Denna action försöker lägga till dokumentets egenskaper som medata i själva filen</seg>
       </tuv>
     </tu>
     <tu>
@@ -53455,6 +53807,14 @@ Värdet {0} är ogiltigt för aktivitetens egenskap {1}.</seg>
       </tuv>
       <tuv lang="SV-SE">
         <seg>URL till denna sida</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>This page has been moved</seg>
+      </tuv>
+      <tuv lang="SV-SE" changeid="peter" changedate="20121128T143656Z">
+        <seg>Denna sida har flyttats</seg>
       </tuv>
     </tu>
     <tu>
@@ -56163,6 +56523,14 @@ Värdet {0} är ogiltigt för aktivitetens egenskap {1}.</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Unable to convert ''{0}'' to type ''{1}''</seg>
+      </tuv>
+      <tuv lang="SV-SE" changeid="peter" changedate="20121128T142958Z">
+        <seg>Kunde inte konvertera ''{0}'' till typ ''{1}''</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Unable to convert activiti value {0} to Alfresco Value since it is not Serializable.</seg>
       </tuv>
       <tuv lang="SV-SE" changeid="peter" changedate="20110412T183739Z">
@@ -58604,6 +58972,14 @@ Värdet {0} är ogiltigt för aktivitetens egenskap {1}.</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>User Name:</seg>
+      </tuv>
+      <tuv lang="SV-SE" changeid="peter" changedate="20121128T143612Z">
+        <seg>Användarnamn:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>User Not Found</seg>
       </tuv>
       <tuv lang="SV-SE">
@@ -58992,6 +59368,142 @@ Värdet {0} är ogiltigt för aktivitetens egenskap {1}.</seg>
       </tuv>
       <tuv lang="SV-SE">
         <seg>Värdet ''{0}'' matchar med reguljärt uttryck: {1}</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Value contains illegal characters for a name.</seg>
+      </tuv>
+      <tuv lang="SV-SE" changeid="peter" changedate="20121123T171644Z">
+        <seg>Värdet innehåller ogiltiga tecken för ett namn.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Value contains illegal characters.</seg>
+      </tuv>
+      <tuv lang="SV-SE" changeid="peter" changedate="20121123T171743Z">
+        <seg>Värdet innehåller ogiltiga tecken</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Value has incorrect number of characters.</seg>
+      </tuv>
+      <tuv lang="SV-SE" changeid="peter" changedate="20121123T171256Z">
+        <seg>Värdet har felaktigt antal tecken.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Value is not a number.</seg>
+      </tuv>
+      <tuv lang="SV-SE" changeid="peter" changedate="20121123T171515Z">
+        <seg>Värdet är inte ett nummer.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Value is not a valid Node Reference.</seg>
+      </tuv>
+      <tuv lang="SV-SE" changeid="peter" changedate="20121123T171712Z">
+        <seg>Värdet är inte en giltigt Nodreferens.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Value is not a valid URL.</seg>
+      </tuv>
+      <tuv lang="SV-SE" changeid="peter" changedate="20121123T171732Z">
+        <seg>Värdet är inte en giltig URL</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Value is not a valid email address.</seg>
+      </tuv>
+      <tuv lang="SV-SE" changeid="peter" changedate="20121123T171239Z">
+        <seg>Värdet är inte en giltigt epostadress.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Value is not a valid time format.</seg>
+      </tuv>
+      <tuv lang="SV-SE" changeid="peter" changedate="20121123T171722Z">
+        <seg>Värdet är inte ett giltigt tidsformat.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Value is not in list.</seg>
+      </tuv>
+      <tuv lang="SV-SE" changeid="peter" changedate="20121123T171831Z">
+        <seg>Värdet är inte i listan.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Value is not valid date time.</seg>
+      </tuv>
+      <tuv lang="SV-SE" changeid="peter" changedate="20121123T171823Z">
+        <seg>Värdet är inte ett giltigt datum och tid</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Value must a number greater or equals to {min}.</seg>
+      </tuv>
+      <tuv lang="SV-SE" changeid="peter" changedate="20121123T171555Z">
+        <seg>Värdet måste vara större än eller lika med {min}.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Value must a number in the interval.</seg>
+      </tuv>
+      <tuv lang="SV-SE" changeid="peter" changedate="20121123T171529Z">
+        <seg>Värdet måste vara i intervallet.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Value must a number less or equal to {max}.</seg>
+      </tuv>
+      <tuv lang="SV-SE" changeid="peter" changedate="20121123T171612Z">
+        <seg>Värdet måste vara mindre än eller lika med {max}.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Value must be a number between {min} and {max}.</seg>
+      </tuv>
+      <tuv lang="SV-SE" changeid="peter" changedate="20121123T171626Z">
+        <seg>Värdet måste vara mellan {min} och {max}.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Value must have at least {max} characters.</seg>
+      </tuv>
+      <tuv lang="SV-SE" changeid="peter" changedate="20121123T171433Z">
+        <seg>Värdet måste ha max {max} tecken.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Value must have at least {min} characters.</seg>
+      </tuv>
+      <tuv lang="SV-SE" changeid="peter" changedate="20121123T171438Z">
+        <seg>Värdet måste ha minst {min} tecken.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Value must have between {min} and {max} characters.</seg>
+      </tuv>
+      <tuv lang="SV-SE" changeid="peter" changedate="20121123T171505Z">
+        <seg>Värdet måste innehålla mellan {min} och {max} tecken.</seg>
       </tuv>
     </tu>
     <tu>
@@ -61437,6 +61949,14 @@ Värdet {0} är ogiltigt för aktivitetens egenskap {1}.</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>You are now logged out.</seg>
+      </tuv>
+      <tuv lang="SV-SE" changeid="peter" changedate="20121123T171203Z">
+        <seg>Du är nu utloggad.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>You are the only site member.</seg>
       </tuv>
       <tuv lang="SV-SE" changeid="peter" changedate="20120420T164444Z">
@@ -61841,6 +62361,22 @@ Värdet {0} är ogiltigt för aktivitetens egenskap {1}.</seg>
       </tuv>
       <tuv lang="SV-SE" changeid="peter" changedate="20110531T060310Z">
         <seg>Du saknar nödvändiga behörigheter för att utföra denna operation.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>You don't have permission to create a link</seg>
+      </tuv>
+      <tuv lang="SV-SE" changeid="peter" changedate="20121128T143842Z">
+        <seg>Du har inte behörighet att skapa en länk</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>You don't have permission to delete the link with name '{0}'</seg>
+      </tuv>
+      <tuv lang="SV-SE" changeid="peter" changedate="20121128T143245Z">
+        <seg>Du saknar behörighet att radera länk med namn '{0}'</seg>
       </tuv>
     </tu>
     <tu>
@@ -63339,6 +63875,14 @@ targetSchema: {3}.</seg>
       </tuv>
       <tuv lang="SV-SE">
         <seg>header alf-force-success=true</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>here</seg>
+      </tuv>
+      <tuv lang="SV-SE" changeid="peter" changedate="20121128T143704Z">
+        <seg>hit</seg>
       </tuv>
     </tu>
     <tu>
