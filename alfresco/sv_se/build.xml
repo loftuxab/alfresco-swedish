@@ -40,10 +40,11 @@
 		<mkdir dir="${share.amp.dir}" />
 		<mkdir dir="${share.amp.modules.dir}" />
 		<mkdir dir="${share.amp.messages.dir}" />
+		<mkdir dir="${share.amp.dir}/js/alfresco" />
 		<mkdir dir="${alfresco.amp.dir}" />
 		<mkdir dir="${alfresco.amp.messages.dir}" />
 		<mkdir dir="${share.jar.dir}" />
-		<mkdir dir="${share.jar.dir}/META-INF" />
+		<mkdir dir="${share.jar.dir}/META-INF/js/alfresco" />
 		<mkdir dir="${share.jar.dir}/alfresco" />
 		<mkdir dir="${share.jar.dir}/alfresco/messages" />
 		<mkdir dir="${share.jar.dir}/alfresco/workflow" />
@@ -101,6 +102,18 @@
                  from="^([^_]*)_sv_SE.properties$" 
                  to="\1_sv.properties"/>			
 		</copy>
+		<copy todir="${share.amp.modules.dir}/share">
+			<fileset dir="${project.dir}/target/slingshot/share" defaultexcludes="false" />		
+         	<mapper type="regexp" 
+                 from="^([^_]*)_sv_SE.properties$" 
+                 to="\1_sv.properties"/>			
+		</copy>
+		<copy todir="${share.amp.dir}/js/alfresco">
+			<fileset dir="${project.dir}/target/dojo" defaultexcludes="false" />		
+         	<mapper type="regexp" 
+                 from="^([^_]*)_sv_SE.properties$" 
+                 to="\1_sv.properties"/>			
+		</copy>
 		<copy todir="${share.amp.dir}/config/alfresco">
 			<fileset dir="${project.dir}/target/web-framework-commons" defaultexcludes="false" />		
          	<mapper type="regexp" 
@@ -117,6 +130,12 @@
 		</copy>
 		<copy todir="${share.jar.dir}/alfresco/site-webscripts/org/alfresco/components">
 			<fileset dir="${project.dir}/target/slingshot/components" defaultexcludes="false" />		
+         	<mapper type="regexp" 
+                 from="^([^_]*).get_sv_SE.properties$" 
+                 to="\1.get_sv.properties"/>
+		</copy>	
+		<copy todir="${share.jar.dir}/alfresco/site-webscripts/org/alfresco/share">
+			<fileset dir="${project.dir}/target/slingshot/share" defaultexcludes="false" />		
          	<mapper type="regexp" 
                  from="^([^_]*).get_sv_SE.properties$" 
                  to="\1.get_sv.properties"/>
@@ -141,7 +160,12 @@
                  from="^([^_]*)_sv_SE.properties$" 
                  to="\1_sv.properties"/>
 		</copy>
-		
+		<copy todir="${share.jar.dir}/META-INF/js/alfresco">
+			<fileset dir="${project.dir}/target/dojo" defaultexcludes="false" />		
+         	<mapper type="regexp" 
+                 from="^([^_]*)_sv_SE.properties$" 
+                 to="\1_sv.properties"/>			
+		</copy>		
 		<!-- Copy also the Alfresco repo stuff to same jar -->
 		<copy todir="${share.jar.dir}/alfresco/messages">
 			<fileset dir="${project.dir}/target/repository" defaultexcludes="false" />		
@@ -344,7 +368,7 @@
 			</fileset>
 			<manifest>
 			<!-- Information about the program itself -->
-			<attribute name="Implementation-Vendor" value="http://forge.alfresco.com/projects/swedish/"/>
+			<attribute name="Implementation-Vendor" value="https://code.google.com/p/alfresco-swedish/"/>
 			<attribute name="Implementation-Title" value="Alfresco Swedish"/>
 			<attribute name="Implementation-Version" value="${version}-${edition}"/>
 			</manifest>

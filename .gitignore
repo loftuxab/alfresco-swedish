@@ -7,6 +7,11 @@
 *.acp
 *.json
 *.xml
+*.html
+*.htm
+*.gif
+*.jpg
+*.woff
 !alfresco/sv_se/*.xml
 !alfresco/sv_se/omegat/*.xml
 *.js

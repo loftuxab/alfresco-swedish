@@ -36,6 +36,10 @@ if [ ! -f ".gitignore" ]; then
 	echo *.acp >> .gitignore
 	echo *.json >> .gitignore
 	echo *.xml >> .gitignore
+	echo *.html >> .gitignore
+	echo *.gif >> .gitignore
+	echo *.jpg >> .gitignore
+	echo *.woff >> .gitignore
 	echo !alfresco/sv_se/*.xml >> .gitignore
 	echo !alfresco/sv_se/omegat/*.xml >> .gitignore
 	echo *.js >> .gitignore
@@ -125,6 +129,8 @@ svnget web-framework-commons $baseurl/projects/web-framework-commons/config/alfr
 svnget slingshot/messages $baseurl/projects/slingshot/config/alfresco/messages $rev
 svnget slingshot/modules $baseurl/projects/slingshot/config/alfresco/site-webscripts/org/alfresco/modules $rev
 svnget slingshot/components $baseurl/projects/slingshot/config/alfresco/site-webscripts/org/alfresco/components $rev
+svnget slingshot/share $baseurl/projects/slingshot/config/alfresco/site-webscripts/org/alfresco/share $rev
+svnget dojo $baseurl/projects/slingshot/source/web/js/alfresco $rev
 #svnget wcmqs/alfresco $baseurl/modules/wcmquickstart/wcmquickstartmodule/config/alfresco/module/org_alfresco_module_wcmquickstart/message $rev
 #svnget wcmqs/website $baseurl/modules/wcmquickstart/wcmquickstartwebsite/config/alfresco/messages $rev
 #svnget wcmqs/share $baseurl/modules/wcmquickstart/wcmquickstartsharemodule/config/alfresco/ $rev
