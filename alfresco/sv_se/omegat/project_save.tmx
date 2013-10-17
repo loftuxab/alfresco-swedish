@@ -12858,6 +12858,14 @@ RESULT:
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Could not create the site at this time.</seg>
+      </tuv>
+      <tuv lang="SV-SE" changeid="peter" changedate="20130913T053540Z">
+        <seg>Kunde inte skapa webbplatsen vid detta tillfälle.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Could not delete ''{0}''</seg>
       </tuv>
       <tuv lang="SV-SE" changeid="peter" changedate="20110805T085503Z">
@@ -25698,6 +25706,14 @@ RESULT:
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Google Maps View</seg>
+      </tuv>
+      <tuv lang="SV-SE" changeid="peter" changedate="20130913T053153Z">
+        <seg>Google Maps Vy</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Google User Name</seg>
       </tuv>
       <tuv lang="SV-SE" changeid="peter" changedate="20110430T061934Z">
@@ -30532,6 +30548,14 @@ RESULT:
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Light Theme</seg>
+      </tuv>
+      <tuv lang="SV-SE" changeid="peter" changedate="20131016T133530Z">
+        <seg>Ljust tema</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Like</seg>
       </tuv>
       <tuv lang="SV-SE" changeid="peter" changedate="20110511T133906Z">
@@ -31456,6 +31480,14 @@ RESULT:
       </tuv>
       <tuv lang="SV-SE" changeid="peter" changedate="20120810T180721Z">
         <seg>Lås 'egen-server' kopia</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Lock Lifetime</seg>
+      </tuv>
+      <tuv lang="SV-SE" changeid="peter" changedate="20131001T065933Z">
+        <seg>Livslängd låsning</seg>
       </tuv>
     </tu>
     <tu>
@@ -53672,6 +53704,14 @@ Identifikationen för en grupp kan inte ändras då den redan är fastställd. <
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>The group ''{0}'' has one or more parents:</seg>
+      </tuv>
+      <tuv lang="SV-SE" changeid="peter" changedate="20130913T053129Z">
+        <seg>Gruppen ''{0}'' en eller flera föräldrar:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>The group '{0}' has multiple parents:</seg>
       </tuv>
       <tuv lang="SV-SE">
@@ -56399,6 +56439,14 @@ Värdet {0} är ogiltigt för aktivitetens egenskap {1}.</seg>
       </tuv>
       <tuv lang="SV-SE">
         <seg>För det här dokumentet har inte av någon kategori angivits.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>This document has been moved out of the site.</seg>
+      </tuv>
+      <tuv lang="SV-SE" changeid="peter" changedate="20131001T065955Z">
+        <seg>Detta dokument har flyttats ut från webbplatsen.</seg>
       </tuv>
     </tu>
     <tu>
@@ -63540,6 +63588,14 @@ Värdet {0} är ogiltigt för aktivitetens egenskap {1}.</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>View photo location in Google Maps</seg>
+      </tuv>
+      <tuv lang="SV-SE" changeid="peter" changedate="20130913T053522Z">
+        <seg>Visa platser för foton i Google Maps</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>View properties</seg>
       </tuv>
       <tuv lang="SV-SE" changeid="peter" changedate="20110623T045525Z">
@@ -63849,6 +63905,14 @@ Värdet {0} är ogiltigt för aktivitetens egenskap {1}.</seg>
       </tuv>
       <tuv lang="SV-SE" changeid="peter" changedate="20110412T174418Z">
         <seg>Bevaka den här listan för att hänga på den senaste ändringarna på webbplatsen.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>We will redirect you to its new location shortly.</seg>
+      </tuv>
+      <tuv lang="SV-SE" changeid="peter" changedate="20131001T070051Z">
+        <seg>Du kommer strax bli omdirigerad dig till den ny platsen.</seg>
       </tuv>
     </tu>
     <tu>

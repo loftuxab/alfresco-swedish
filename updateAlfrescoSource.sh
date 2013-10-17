@@ -79,6 +79,8 @@ if [ ! -f ".gitignore" ]; then
 	echo *_EN.properties >> .gitignore
 	echo *_no.properties >> .gitignore
 	echo *_NO.properties >> .gitignore
+	echo *_br.properties >> .gitignore
+	echo *_BR.properties >> .gitignore
 	echo *build.properties >> .gitignore
 	echo *module.properties >> .gitignore
 	echo *log4j.properties >> .gitignore
