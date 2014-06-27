@@ -79,6 +79,8 @@ if [ ! -f ".gitignore" ]; then
 	echo *_EN.properties >> .gitignore
 	echo *_no.properties >> .gitignore
 	echo *_NO.properties >> .gitignore
+	echo *_nb.properties >> .gitignore
+	echo *_NB.properties >> .gitignore
 	echo *_br.properties >> .gitignore
 	echo *_BR.properties >> .gitignore
 	echo *build.properties >> .gitignore
@@ -144,4 +146,4 @@ svnget dojo $baseurl/projects/slingshot/source/web/js/alfresco $rev
 
 git add .
 git ls-files --deleted | xargs git rm
-git commit -m "Updated language source files $baseurl to revision $rev $message"
+#git commit -m "Updated language source files $baseurl to revision $rev $message"

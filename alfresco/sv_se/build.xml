@@ -52,18 +52,18 @@
 	</target>
 
 	<target name="copytinymce" depends="mkdirs">
-		<copy todir="${alfresco.amp.dir}/web/scripts/tiny_mce">
-			<fileset dir="${project.dir}/resources/tiny_mce" defaultexcludes="false">		
+		<copy todir="${alfresco.amp.dir}/web/scripts/tinymce">
+			<fileset dir="${project.dir}/resources/tinymce" defaultexcludes="false">		
 				<include name="**/*.*" />
 			</fileset>
 		</copy>
-		<copy todir="${share.amp.dir}/modules/editors/tiny_mce">
-			<fileset dir="${project.dir}/resources/tiny_mce" defaultexcludes="false">		
+		<copy todir="${share.amp.dir}/modules/editors/tinymce">
+			<fileset dir="${project.dir}/resources/tinymce" defaultexcludes="false">		
 				<include name="**/*.*" />
 			</fileset>
 		</copy>
-		<copy todir="${share.jar.dir}/META-INF/modules/editors/tiny_mce">
-			<fileset dir="${project.dir}/resources/tiny_mce" defaultexcludes="false">		
+		<copy todir="${share.jar.dir}/META-INF/modules/editors/tinymce">
+			<fileset dir="${project.dir}/resources/tinymce" defaultexcludes="false">		
 				<include name="**/*.*" />
 			</fileset>
 		</copy>
