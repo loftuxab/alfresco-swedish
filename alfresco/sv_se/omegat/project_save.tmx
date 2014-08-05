@@ -502,6 +502,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>${date?string("yyyy-MM-dd")}.xml</seg>
+      </tuv>
+      <tuv lang="SV-SE" changeid="peter" changedate="20140805T072650Z">
+        <seg>${date?string("yyyy-MM-dd")}.xml</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>${moduleName}</seg>
       </tuv>
       <tuv lang="SV-SE" changeid="peter" changedate="20130827T050617Z">
@@ -510,10 +518,34 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>${name}.${extension}</seg>
+      </tuv>
+      <tuv lang="SV-SE" changeid="peter" changedate="20140805T072647Z">
+        <seg>${name}.${extension}</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>${name}.xml</seg>
+      </tuv>
+      <tuv lang="SV-SE" changeid="peter" changedate="20140805T072642Z">
+        <seg>${name}.xml</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>${title}</seg>
       </tuv>
       <tuv lang="SV-SE" changeid="peter" changedate="20130821T125600Z">
         <seg>${title}</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>${webapp}/content/${name}.xml</seg>
+      </tuv>
+      <tuv lang="SV-SE" changeid="peter" changedate="20140805T072648Z">
+        <seg>${webapp}/content/${name}.xml</seg>
       </tuv>
     </tu>
     <tu>
@@ -25698,6 +25730,14 @@ RESULT:
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>From:</seg>
+      </tuv>
+      <tuv lang="SV-SE" changeid="peter" changedate="20140805T072543Z">
+        <seg>Från:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Fulah</seg>
       </tuv>
       <tuv lang="SV-SE">
@@ -48527,6 +48567,14 @@ RESULT:
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Shown the first {0} members</seg>
+      </tuv>
+      <tuv lang="SV-SE" changeid="peter" changedate="20140805T072636Z">
+        <seg>Visade de första {0} medlemmarna</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Shows a simple summary page about the current user and their Home Space</seg>
       </tuv>
       <tuv lang="SV-SE">
@@ -48771,6 +48819,14 @@ RESULT:
       </tuv>
       <tuv lang="SV-SE" changeid="peter" changedate="20120810T143513Z">
         <seg>Webbplatsinnehåll</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Site Content Report</seg>
+      </tuv>
+      <tuv lang="SV-SE" changeid="peter" changedate="20140805T072343Z">
+        <seg>Innehållsrapport Webbplats</seg>
       </tuv>
     </tu>
     <tu>
@@ -49291,6 +49347,14 @@ RESULT:
       </tuv>
       <tuv lang="SV-SE">
         <seg>Storlek:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Size: {0}</seg>
+      </tuv>
+      <tuv lang="SV-SE" changeid="peter" changedate="20140805T072536Z">
+        <seg>Storlek: {0}</seg>
       </tuv>
     </tu>
     <tu>
@@ -59819,6 +59883,14 @@ Värdet {0} är ogiltigt för aktivitetens egenskap {1}.</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>To:</seg>
+      </tuv>
+      <tuv lang="SV-SE" changeid="peter" changedate="20140805T072546Z">
+        <seg>Till:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Today</seg>
       </tuv>
       <tuv lang="SV-SE">
@@ -59887,6 +59959,14 @@ Värdet {0} är ogiltigt för aktivitetens egenskap {1}.</seg>
       </tuv>
       <tuv lang="SV-SE">
         <seg>Verktyg...</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Top Site Contributor Report</seg>
+      </tuv>
+      <tuv lang="SV-SE" changeid="peter" changedate="20140805T072522Z">
+        <seg>Toppbidrag till webbplats</seg>
       </tuv>
     </tu>
     <tu>
@@ -71481,6 +71561,14 @@ Vänligen kontakta din systemadministratör</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>{0} items ({1})</seg>
+      </tuv>
+      <tuv lang="SV-SE" changeid="peter" changedate="20140805T072530Z">
+        <seg>{0} objekt ({1})</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>{0} items in total</seg>
       </tuv>
       <tuv lang="SV-SE">
@@ -72025,6 +72113,14 @@ Vänligen kontakta din systemadministratör</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>{1} downloaded document {0}</seg>
+      </tuv>
+      <tuv lang="SV-SE" changeid="peter" changedate="20140805T072618Z">
+        <seg>{1} laddade ner dokument {0}</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>{1} edited document {0}</seg>
       </tuv>
       <tuv lang="SV-SE" changeid="peter" changedate="20110412T145340Z">
@@ -72133,6 +72229,14 @@ Vänligen kontakta din systemadministratör</seg>
       </tuv>
       <tuv lang="SV-SE" changeid="peter" changedate="20110412T145514Z">
         <seg>{1} gillade webbplatsen {0}</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>{1} previewed document {0}</seg>
+      </tuv>
+      <tuv lang="SV-SE" changeid="peter" changedate="20140805T072607Z">
+        <seg>{1} förhandsvisade dokument {0}</seg>
       </tuv>
     </tu>
     <tu>
