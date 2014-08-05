@@ -12,7 +12,8 @@ Här kan du ladda ner språkpaket för Alfresco Community Edition.
 * Sharepoint Integrationsmodul
 * Väntar översättning
 * Modulen DOD5015
-* Modulen Alfresco Web Quick Start
+* Modulen Alfresco Web Quick Start  
+
 > Översättning av Alfresco till Svenska sponsras av [Loftux AB](http://loftux.se)  
 
 Swedish Language pack for Alfresco
