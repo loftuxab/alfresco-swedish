@@ -758,6 +758,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>&amp;nbsp;- results found</seg>
+      </tuv>
+      <tuv lang="SV-SE" changeid="peter" changedate="20140914T100129Z">
+        <seg>&amp;nbsp;- resultat hittades</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>'</seg>
       </tuv>
       <tuv lang="SV-SE">
@@ -1338,6 +1346,14 @@
       </tuv>
       <tuv lang="SV-SE">
         <seg>/api/cmis.html</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>0</seg>
+      </tuv>
+      <tuv lang="SV-SE" changeid="peter" changedate="20140914T100117Z">
+        <seg>0</seg>
       </tuv>
     </tu>
     <tu>
@@ -2328,6 +2344,14 @@ RESULT:
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>A-Z</seg>
+      </tuv>
+      <tuv lang="SV-SE" changeid="peter" changedate="20140914T165916Z">
+        <seg>A-Z</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>ALF-12284 : Update ALF_ACL_MEMBER_member table.</seg>
       </tuv>
       <tuv lang="SV-SE" changeid="peter" changedate="20130821T094414Z">
@@ -2760,6 +2784,14 @@ RESULT:
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Activiti tables updated</seg>
+      </tuv>
+      <tuv lang="SV-SE" changeid="peter" changedate="20140914T095156Z">
+        <seg>Activiti tables updated</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Activities Feed</seg>
       </tuv>
       <tuv lang="SV-SE" changeid="peter" changedate="20110511T131827Z">
@@ -3088,6 +3120,14 @@ RESULT:
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Add a new entry</seg>
+      </tuv>
+      <tuv lang="SV-SE" changeid="peter" changedate="20140914T094202Z">
+        <seg>Lägg till ny post</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Add a tag</seg>
       </tuv>
       <tuv lang="SV-SE" changeid="peter" changedate="20110531T055646Z">
@@ -3164,6 +3204,14 @@ RESULT:
       </tuv>
       <tuv lang="SV-SE">
         <seg>Lägg till och ta bort sidor för en webbplats</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Add and select sites the filter will be available in.</seg>
+      </tuv>
+      <tuv lang="SV-SE" changeid="peter" changedate="20140914T170540Z">
+        <seg>Ange och välj webbplatser som filtret kommer att vara tillgänglig i.</seg>
       </tuv>
     </tu>
     <tu>
@@ -3380,6 +3428,14 @@ RESULT:
       </tuv>
       <tuv lang="SV-SE" changeid="peter" changedate="20110511T133839Z">
         <seg>Lägg webbplatsen till favoriter</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Add tagscode aspect to the Company Home folder</seg>
+      </tuv>
+      <tuv lang="SV-SE" changeid="peter" changedate="20140914T095151Z">
+        <seg>Add tagscode aspect to the Company Home folder</seg>
       </tuv>
     </tu>
     <tu>
@@ -3724,6 +3780,14 @@ RESULT:
       </tuv>
       <tuv lang="SV-SE">
         <seg>Adds existing web projects to locking service.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Adds groups and people to the appropriate zones for share and everything else.</seg>
+      </tuv>
+      <tuv lang="SV-SE" changeid="peter" changedate="20140914T095133Z">
+        <seg>Adds groups and people to the appropriate zones for share and everything else.</seg>
       </tuv>
     </tu>
     <tu>
@@ -5842,6 +5906,14 @@ RESULT:
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Archive</seg>
+      </tuv>
+      <tuv lang="SV-SE" changeid="peter" changedate="20140914T095036Z">
+        <seg>Arkiv</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Archive Nodes</seg>
       </tuv>
       <tuv lang="SV-SE">
@@ -6026,6 +6098,14 @@ RESULT:
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Are you sure you want to delete '{filterID}'?</seg>
+      </tuv>
+      <tuv lang="SV-SE" changeid="peter" changedate="20140914T170636Z">
+        <seg>Är du säker på att du vill ta bort '{filterID}'?</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Are you sure you want to delete Group "{0}" and remove all users from it?</seg>
       </tuv>
       <tuv lang="SV-SE">
@@ -6190,6 +6270,14 @@ RESULT:
       </tuv>
       <tuv lang="SV-SE" changeid="peter" changedate="20110919T100135Z">
         <seg>Är du säker på att du vill ta bort: {0}?</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Are you sure you want to perform the deletion?</seg>
+      </tuv>
+      <tuv lang="SV-SE" changeid="peter" changedate="20140914T095004Z">
+        <seg>Är du säker på att du vill utföra borttagning?</seg>
       </tuv>
     </tu>
     <tu>
@@ -8642,6 +8730,14 @@ RESULT:
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Cancel editing the current entry</seg>
+      </tuv>
+      <tuv lang="SV-SE" changeid="peter" changedate="20140914T094222Z">
+        <seg>Avbryt redigering av aktuell post</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Cancel request pending.</seg>
       </tuv>
       <tuv lang="SV-SE">
@@ -9198,6 +9294,14 @@ RESULT:
       </tuv>
       <tuv lang="SV-SE">
         <seg>Kategorivärde</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Cause</seg>
+      </tuv>
+      <tuv lang="SV-SE" changeid="peter" changedate="20140914T095937Z">
+        <seg>Orsak</seg>
       </tuv>
     </tu>
     <tu>
@@ -9794,6 +9898,14 @@ RESULT:
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Check box</seg>
+      </tuv>
+      <tuv lang="SV-SE" changeid="peter" changedate="20140914T165816Z">
+        <seg>Kryssruta</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Check in</seg>
       </tuv>
       <tuv lang="SV-SE">
@@ -10170,6 +10282,14 @@ RESULT:
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Choose Month</seg>
+      </tuv>
+      <tuv lang="SV-SE" changeid="peter" changedate="20140914T095857Z">
+        <seg>Välj månad</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Choose Workflow</seg>
       </tuv>
       <tuv lang="SV-SE">
@@ -10450,6 +10570,14 @@ RESULT:
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Click Trust to continue.</seg>
+      </tuv>
+      <tuv lang="SV-SE" changeid="peter" changedate="20140914T095630Z">
+        <seg>Klicka Lita på för att fortsätta.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Click browse to upload a new version of {0}</seg>
       </tuv>
       <tuv lang="SV-SE">
@@ -10618,6 +10746,22 @@ RESULT:
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Click the Firefox toolbar to continue.</seg>
+      </tuv>
+      <tuv lang="SV-SE" changeid="peter" changedate="20140914T095454Z">
+        <seg>Klicka verktygsraden i Firefox för att fortsätta.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Click the blocked indicator in the Chrome address bar to continue.</seg>
+      </tuv>
+      <tuv lang="SV-SE" changeid="peter" changedate="20140914T095543Z">
+        <seg>Klicka indikatorn för blockering i addressfältet i Chrome.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Click the edit icon on the dashlet to change the feed.</seg>
       </tuv>
       <tuv lang="SV-SE" changeid="peter" changedate="20110412T174221Z">
@@ -10662,6 +10806,54 @@ RESULT:
       </tuv>
       <tuv lang="SV-SE">
         <seg>Klicka för att lägga till i listan</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Click to configure search</seg>
+      </tuv>
+      <tuv lang="SV-SE" changeid="peter" changedate="20140914T100031Z">
+        <seg>Klicka för att konfigurera sökning</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Click to delete '{0}'</seg>
+      </tuv>
+      <tuv lang="SV-SE" changeid="peter" changedate="20140914T170611Z">
+        <seg>Klicka för att radera '{0}'</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Click to edit</seg>
+      </tuv>
+      <tuv lang="SV-SE" changeid="peter" changedate="20140914T094416Z">
+        <seg>Klicka för att redigera</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Click to edit '{0}'</seg>
+      </tuv>
+      <tuv lang="SV-SE" changeid="peter" changedate="20140914T094404Z">
+        <seg>Klicka för att redigera '{0}'</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Click to move "{0}" down a place</seg>
+      </tuv>
+      <tuv lang="SV-SE" changeid="peter" changedate="20140914T094655Z">
+        <seg>Klicka för att flytta "{0}" ned ett steg</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Click to move "{0}" up a place</seg>
+      </tuv>
+      <tuv lang="SV-SE" changeid="peter" changedate="20140914T094622Z">
+        <seg>Klicka för att flytta "{0}" upp ett steg</seg>
       </tuv>
     </tu>
     <tu>
@@ -11886,6 +12078,14 @@ RESULT:
       </tuv>
       <tuv lang="SV-SE">
         <seg>Bekräfta</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Confirm Delete</seg>
+      </tuv>
+      <tuv lang="SV-SE" changeid="peter" changedate="20140914T094927Z">
+        <seg>Bekräfta borttagning</seg>
       </tuv>
     </tu>
     <tu>
@@ -13434,6 +13634,14 @@ RESULT:
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Could not load folders</seg>
+      </tuv>
+      <tuv lang="SV-SE" changeid="peter" changedate="20140914T094347Z">
+        <seg>Kunde inte ladda mappar</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Could not load html template for publish dialogue</seg>
       </tuv>
       <tuv lang="SV-SE" changeid="peter" changedate="20110701T071238Z">
@@ -14134,6 +14342,14 @@ RESULT:
       </tuv>
       <tuv lang="SV-SE">
         <seg>Skapa nytt innehåll - sammanfattning</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Create New Filter</seg>
+      </tuv>
+      <tuv lang="SV-SE" changeid="peter" changedate="20140914T165314Z">
+        <seg>Skapa nytt filter</seg>
       </tuv>
     </tu>
     <tu>
@@ -14946,6 +15162,14 @@ RESULT:
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Creates the solr facets root folder in the Data Dictionary</seg>
+      </tuv>
+      <tuv lang="SV-SE" changeid="peter" changedate="20140914T095204Z">
+        <seg>Creates the solr facets root folder in the Data Dictionary</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Creates the transfer target rule folder for the default transfer group.</seg>
       </tuv>
       <tuv lang="SV-SE">
@@ -14994,6 +15218,14 @@ RESULT:
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Creating archive to download</seg>
+      </tuv>
+      <tuv lang="SV-SE" changeid="peter" changedate="20140914T094431Z">
+        <seg>Skapapr arkiv för nedladdning</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Creating comment...</seg>
       </tuv>
       <tuv lang="SV-SE">
@@ -15014,6 +15246,14 @@ RESULT:
       </tuv>
       <tuv lang="SV-SE" changeid="peter" changedate="20120928T144923Z">
         <seg>Skapar zipfil</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Creating zip file ({0} out of {1} files added)</seg>
+      </tuv>
+      <tuv lang="SV-SE" changeid="peter" changedate="20140914T094507Z">
+        <seg>Skapar zip-fil ({0} av {1} filer tillagda)</seg>
       </tuv>
     </tu>
     <tu>
@@ -15722,6 +15962,14 @@ RESULT:
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Date Range</seg>
+      </tuv>
+      <tuv lang="SV-SE" changeid="peter" changedate="20140914T094834Z">
+        <seg>Datumintervall</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Date and Time</seg>
       </tuv>
       <tuv lang="SV-SE">
@@ -15906,6 +16154,14 @@ RESULT:
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Default Filter</seg>
+      </tuv>
+      <tuv lang="SV-SE" changeid="peter" changedate="20140914T165507Z">
+        <seg>Standardfilter</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Default Group</seg>
       </tuv>
       <tuv lang="SV-SE" changeid="peter" changedate="20110430T060830Z">
@@ -15934,6 +16190,14 @@ RESULT:
       </tuv>
       <tuv lang="SV-SE">
         <seg>Förinställt arbetsflöde</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Default filters are predefined and can't be deleted.</seg>
+      </tuv>
+      <tuv lang="SV-SE" changeid="peter" changedate="20140914T165537Z">
+        <seg>Standardfilter är fördefinierade och kan inte raderas.</seg>
       </tuv>
     </tu>
     <tu>
@@ -16422,6 +16686,14 @@ RESULT:
       </tuv>
       <tuv lang="SV-SE" changeid="peter" changedate="20110805T090508Z">
         <seg>Radera etikett</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Delete the current entry</seg>
+      </tuv>
+      <tuv lang="SV-SE" changeid="peter" changedate="20140914T094227Z">
+        <seg>Radera aktuell post</seg>
       </tuv>
     </tu>
     <tu>
@@ -18474,6 +18746,14 @@ RESULT:
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Downloading zip file.</seg>
+      </tuv>
+      <tuv lang="SV-SE" changeid="peter" changedate="20140914T094531Z">
+        <seg>Laddar ner zip-filen</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Downloads</seg>
       </tuv>
       <tuv lang="SV-SE" changeid="peter" changedate="20120928T144824Z">
@@ -19618,6 +19898,14 @@ RESULT:
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Edit the current entry</seg>
+      </tuv>
+      <tuv lang="SV-SE" changeid="peter" changedate="20140914T094233Z">
+        <seg>Redigera aktuell post</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Edit the details of Web Form {0} in Web Project {1}.</seg>
       </tuv>
       <tuv lang="SV-SE">
@@ -20714,10 +21002,26 @@ RESULT:
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Enter Year</seg>
+      </tuv>
+      <tuv lang="SV-SE" changeid="peter" changedate="20140914T095902Z">
+        <seg>Ange år</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Enter a display label for the item</seg>
       </tuv>
       <tuv lang="SV-SE" changeid="peter" changedate="20130821T130250Z">
         <seg>Ange ett visningsvärde för objektet</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Enter a displayed filter name</seg>
+      </tuv>
+      <tuv lang="SV-SE" changeid="peter" changedate="20140914T165841Z">
+        <seg>Ange ett visningsnamn för filtret</seg>
       </tuv>
     </tu>
     <tu>
@@ -20782,6 +21086,14 @@ RESULT:
       </tuv>
       <tuv lang="SV-SE">
         <seg>Lägg till titel för den nya sidan.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Enter a unique filter ID</seg>
+      </tuv>
+      <tuv lang="SV-SE" changeid="peter" changedate="20140914T165417Z">
+        <seg>Ange ett unikt filter-ID</seg>
       </tuv>
     </tu>
     <tu>
@@ -21554,6 +21866,14 @@ RESULT:
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Everywhere</seg>
+      </tuv>
+      <tuv lang="SV-SE" changeid="peter" changedate="20140914T170508Z">
+        <seg>Överallt</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Ewe</seg>
       </tuv>
       <tuv lang="SV-SE">
@@ -22150,6 +22470,14 @@ RESULT:
       </tuv>
       <tuv lang="SV-SE" changeid="peter" changedate="20110511T133031Z">
         <seg>FTP påslagen</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Facet menu</seg>
+      </tuv>
+      <tuv lang="SV-SE" changeid="peter" changedate="20140914T100217Z">
+        <seg>Fasett-meny</seg>
       </tuv>
     </tu>
     <tu>
@@ -24282,6 +24610,14 @@ RESULT:
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>File upload successful.</seg>
+      </tuv>
+      <tuv lang="SV-SE" changeid="peter" changedate="20140914T095730Z">
+        <seg>Filuppladdningen lyckades.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>File {0} contains characters that are illegal on some operating system.</seg>
       </tuv>
       <tuv lang="SV-SE" changeid="peter" changedate="20130807T062925Z">
@@ -24474,10 +24810,50 @@ RESULT:
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Filter Availability</seg>
+      </tuv>
+      <tuv lang="SV-SE" changeid="peter" changedate="20140914T170442Z">
+        <seg>Filtertillgänglighet</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Filter Contents</seg>
       </tuv>
       <tuv lang="SV-SE">
         <seg>Filtrera innehåll</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Filter ID</seg>
+      </tuv>
+      <tuv lang="SV-SE" changeid="peter" changedate="20140914T165323Z">
+        <seg>Filter-ID</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Filter Name</seg>
+      </tuv>
+      <tuv lang="SV-SE" changeid="peter" changedate="20140914T165821Z">
+        <seg>Filternamn</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Filter Property</seg>
+      </tuv>
+      <tuv lang="SV-SE" changeid="peter" changedate="20140914T165643Z">
+        <seg>Filteregenskaper</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Filter Type</seg>
+      </tuv>
+      <tuv lang="SV-SE" changeid="peter" changedate="20140914T165735Z">
+        <seg>Filtertyp</seg>
       </tuv>
     </tu>
     <tu>
@@ -25738,6 +26114,14 @@ RESULT:
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>From date</seg>
+      </tuv>
+      <tuv lang="SV-SE" changeid="peter" changedate="20140914T094839Z">
+        <seg>Från datum</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>From here you can access your full user profile.</seg>
       </tuv>
       <tuv lang="SV-SE" changeid="peter" changedate="20110412T165338Z">
@@ -25950,6 +26334,14 @@ RESULT:
       </tuv>
       <tuv lang="SV-SE">
         <seg>Genererar länkrapport, vänligen vänta...</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Generating zip</seg>
+      </tuv>
+      <tuv lang="SV-SE" changeid="peter" changedate="20140914T094901Z">
+        <seg>Skapar zip</seg>
       </tuv>
     </tu>
     <tu>
@@ -26990,6 +27382,14 @@ RESULT:
       </tuv>
       <tuv lang="SV-SE">
         <seg>Göm</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Hide Advanced Search</seg>
+      </tuv>
+      <tuv lang="SV-SE" changeid="peter" changedate="20140914T100053Z">
+        <seg>Göm avancerad sökning</seg>
       </tuv>
     </tu>
     <tu>
@@ -30618,10 +31018,26 @@ RESULT:
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Last 30 Days</seg>
+      </tuv>
+      <tuv lang="SV-SE" changeid="peter" changedate="20140914T094800Z">
+        <seg>Senaste 30 dagarna</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Last 30 days</seg>
       </tuv>
       <tuv lang="SV-SE">
         <seg>Senaste 30 dagarna</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Last 7 Days</seg>
+      </tuv>
+      <tuv lang="SV-SE" changeid="peter" changedate="20140914T094756Z">
+        <seg>Senaste 7 dagarna</seg>
       </tuv>
     </tu>
     <tu>
@@ -31872,6 +32288,14 @@ RESULT:
       </tuv>
       <tuv lang="SV-SE" changeid="peter" changedate="20110511T130418Z">
         <seg>Laddar filer i minnet, vänta...</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Loading folders...</seg>
+      </tuv>
+      <tuv lang="SV-SE" changeid="peter" changedate="20140914T094329Z">
+        <seg>Laddar mappar...</seg>
       </tuv>
     </tu>
     <tu>
@@ -33556,6 +33980,22 @@ RESULT:
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Microsoft Office Blocked</seg>
+      </tuv>
+      <tuv lang="SV-SE" changeid="peter" changedate="20140914T095434Z">
+        <seg>Microsoft Office blockerad</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Microsoft Office couldn't be opened.</seg>
+      </tuv>
+      <tuv lang="SV-SE" changeid="peter" changedate="20140914T095424Z">
+        <seg>Microsoft Office kunde inte öppnas.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Middle Name</seg>
       </tuv>
       <tuv lang="SV-SE">
@@ -33744,6 +34184,22 @@ RESULT:
       </tuv>
       <tuv lang="SV-SE" changeid="peter" changedate="20140407T101443Z">
         <seg>Minimera</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Minimum Filter Length</seg>
+      </tuv>
+      <tuv lang="SV-SE" changeid="peter" changedate="20140914T170111Z">
+        <seg>Minimal filterlängd</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Minimum Required Results</seg>
+      </tuv>
+      <tuv lang="SV-SE" changeid="peter" changedate="20140914T170356Z">
+        <seg>Minimalt antal resultat</seg>
       </tuv>
     </tu>
     <tu>
@@ -36356,6 +36812,14 @@ RESULT:
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>No folders</seg>
+      </tuv>
+      <tuv lang="SV-SE" changeid="peter" changedate="20140914T094321Z">
+        <seg>Inga mappar</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>No forum spaces or forums to display.</seg>
       </tuv>
       <tuv lang="SV-SE">
@@ -37120,6 +37584,14 @@ RESULT:
       </tuv>
       <tuv lang="SV-SE" changeid="peter" changedate="20121128T143133Z">
         <seg>Inga giltigt länknamn angivet</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>No view defined to render folders</seg>
+      </tuv>
+      <tuv lang="SV-SE" changeid="peter" changedate="20140914T094317Z">
+        <seg>Inge vy definierad för att visa mapparna</seg>
       </tuv>
     </tu>
     <tu>
@@ -37894,6 +38366,14 @@ RESULT:
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Number of Filters</seg>
+      </tuv>
+      <tuv lang="SV-SE" changeid="peter" changedate="20140914T165951Z">
+        <seg>Antal filter</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Number of Groups</seg>
       </tuv>
       <tuv lang="SV-SE" changeid="peter" changedate="20110511T132208Z">
@@ -37930,6 +38410,22 @@ RESULT:
       </tuv>
       <tuv lang="SV-SE">
         <seg>Antal objekt att visa</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Number of results (high to low)</seg>
+      </tuv>
+      <tuv lang="SV-SE" changeid="peter" changedate="20140914T165932Z">
+        <seg>Antal träffar (högt till lågt)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Number of results (low to high)</seg>
+      </tuv>
+      <tuv lang="SV-SE" changeid="peter" changedate="20140914T165946Z">
+        <seg>Antal träffar (lågt till högt)</seg>
       </tuv>
     </tu>
     <tu>
@@ -38346,6 +38842,14 @@ RESULT:
       </tuv>
       <tuv lang="SV-SE">
         <seg>Aktivitet</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Operation Completed Successfully</seg>
+      </tuv>
+      <tuv lang="SV-SE" changeid="peter" changedate="20140914T095030Z">
+        <seg>Åtgärden utfördes</seg>
       </tuv>
     </tu>
     <tu>
@@ -39210,6 +39714,14 @@ RESULT:
       </tuv>
       <tuv lang="SV-SE" changeid="peter" changedate="20130807T063549Z">
         <seg>Lösenord måste innehålla ett minimum av</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Past Year</seg>
+      </tuv>
+      <tuv lang="SV-SE" changeid="peter" changedate="20140914T094807Z">
+        <seg>Föregående år</seg>
       </tuv>
     </tu>
     <tu>
@@ -40122,6 +40634,14 @@ RESULT:
       </tuv>
       <tuv lang="SV-SE" changeid="peter" changedate="20140213T142229Z">
         <seg>Vänligen ange ett ämne.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Please enter a valid year</seg>
+      </tuv>
+      <tuv lang="SV-SE" changeid="peter" changedate="20140914T095912Z">
+        <seg>Ange ett giltigt årtal</seg>
       </tuv>
     </tu>
     <tu>
@@ -43550,6 +44070,14 @@ RESULT:
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Rendering folders...</seg>
+      </tuv>
+      <tuv lang="SV-SE" changeid="peter" changedate="20140914T094336Z">
+        <seg>Renderar mappar...</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Rendering properties...</seg>
       </tuv>
       <tuv lang="SV-SE" changeid="peter" changedate="20140526T071422Z">
@@ -44422,6 +44950,38 @@ RESULT:
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Result actions</seg>
+      </tuv>
+      <tuv lang="SV-SE" changeid="peter" changedate="20140914T165303Z">
+        <seg>Funktioner</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Result details</seg>
+      </tuv>
+      <tuv lang="SV-SE" changeid="peter" changedate="20140914T165233Z">
+        <seg>Detaljinformation</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Result thumbnail</seg>
+      </tuv>
+      <tuv lang="SV-SE" changeid="peter" changedate="20140914T165201Z">
+        <seg>Tumnaglar</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Results</seg>
+      </tuv>
+      <tuv lang="SV-SE" changeid="peter" changedate="20140914T100223Z">
+        <seg>Resultat</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Results Per Page</seg>
       </tuv>
       <tuv lang="SV-SE" changeid="peter" changedate="20130822T055847Z">
@@ -44966,6 +45526,14 @@ RESULT:
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Root folder for the Solr Facet properties</seg>
+      </tuv>
+      <tuv lang="SV-SE" changeid="peter" changedate="20140914T095126Z">
+        <seg>Rotmapp för Solr Facet egenskaper</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Rule Type</seg>
       </tuv>
       <tuv lang="SV-SE">
@@ -45494,6 +46062,14 @@ RESULT:
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Save the current entry</seg>
+      </tuv>
+      <tuv lang="SV-SE" changeid="peter" changedate="20140914T094208Z">
+        <seg>Spara aktuell post</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Save to Alfresco</seg>
       </tuv>
       <tuv lang="SV-SE" changeid="peter" changedate="20130822T170621Z">
@@ -46006,6 +46582,14 @@ RESULT:
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Search field</seg>
+      </tuv>
+      <tuv lang="SV-SE" changeid="peter" changedate="20140914T100034Z">
+        <seg>Sökfält</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Search for</seg>
       </tuv>
       <tuv lang="SV-SE">
@@ -46166,6 +46750,14 @@ RESULT:
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Search form</seg>
+      </tuv>
+      <tuv lang="SV-SE" changeid="peter" changedate="20140914T100137Z">
+        <seg>Sökformulär</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Search has been limited to show first {0} results.</seg>
       </tuv>
       <tuv lang="SV-SE">
@@ -46186,6 +46778,14 @@ RESULT:
       </tuv>
       <tuv lang="SV-SE">
         <seg>Sök interna användare</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Search results</seg>
+      </tuv>
+      <tuv lang="SV-SE" changeid="peter" changedate="20140914T100229Z">
+        <seg>Sökresultat</seg>
       </tuv>
     </tu>
     <tu>
@@ -46702,6 +47302,14 @@ RESULT:
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Select a property to filter by.</seg>
+      </tuv>
+      <tuv lang="SV-SE" changeid="peter" changedate="20140914T165729Z">
+        <seg>Välj en egenskap att använda som filter</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Select a script to execute</seg>
       </tuv>
       <tuv lang="SV-SE">
@@ -46791,6 +47399,14 @@ RESULT:
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Select advanced search form</seg>
+      </tuv>
+      <tuv lang="SV-SE" changeid="peter" changedate="20140914T100112Z">
+        <seg>Visa avancerade sökformuläret</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Select all roles</seg>
       </tuv>
       <tuv lang="SV-SE">
@@ -46835,6 +47451,14 @@ RESULT:
       </tuv>
       <tuv lang="SV-SE">
         <seg>Välj och konfigurera arbetsflöde för innehåll som inte är skapat av webbformulär.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Select and save a site.</seg>
+      </tuv>
+      <tuv lang="SV-SE" changeid="peter" changedate="20140914T170600Z">
+        <seg>Välj och spara webbplats.</seg>
       </tuv>
     </tu>
     <tu>
@@ -46899,6 +47523,14 @@ RESULT:
       </tuv>
       <tuv lang="SV-SE" changeid="peter" changedate="20120223T190216Z">
         <seg>Välj filer att ladda upp</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Select how the filter is shown.</seg>
+      </tuv>
+      <tuv lang="SV-SE" changeid="peter" changedate="20140914T165751Z">
+        <seg>Välj hur filtret skall visas.</seg>
       </tuv>
     </tu>
     <tu>
@@ -47071,6 +47703,30 @@ RESULT:
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Select the maximum number of filters shown for search results (users can select to show more filters).</seg>
+      </tuv>
+      <tuv lang="SV-SE" changeid="peter" changedate="20140914T170101Z">
+        <seg>Ange det maximala antalet filter som visas för sökresultat (användare kan välja att visa fler filter).</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Select the minimum number of matches a filter result must have to be shown.</seg>
+      </tuv>
+      <tuv lang="SV-SE" changeid="peter" changedate="20140914T170427Z">
+        <seg>Ange det minimala antal träffar ett filter kräver för att visas.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Select the order the filter results are shown in.</seg>
+      </tuv>
+      <tuv lang="SV-SE" changeid="peter" changedate="20140914T165911Z">
+        <seg>Välj den ordning som resultatet för filtret visas i.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Select the rendering engine template to use</seg>
       </tuv>
       <tuv lang="SV-SE">
@@ -47183,6 +47839,14 @@ RESULT:
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Select to show only filter results with a minimum number of characters so you can exclude short words such as "and" and "to" from filter results.</seg>
+      </tuv>
+      <tuv lang="SV-SE" changeid="peter" changedate="20140914T170342Z">
+        <seg>Välj att visa filterresultat med ett minimalt antal tecken så att du kan utesluta korta ord som ''och'', ''i'' eller ''på'' från resultatet.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Select type...</seg>
       </tuv>
       <tuv lang="SV-SE">
@@ -47211,6 +47875,14 @@ RESULT:
       </tuv>
       <tuv lang="SV-SE">
         <seg>Välj användare och deras roll.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Select where the filter will be available.</seg>
+      </tuv>
+      <tuv lang="SV-SE" changeid="peter" changedate="20140914T170502Z">
+        <seg>Välj var filtret kommet att vara tillgängligt.</seg>
       </tuv>
     </tu>
     <tu>
@@ -47411,6 +48083,14 @@ RESULT:
       </tuv>
       <tuv lang="SV-SE">
         <seg>Valda roller</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Selected sites</seg>
+      </tuv>
+      <tuv lang="SV-SE" changeid="peter" changedate="20140914T170517Z">
+        <seg>Valda webbplatser</seg>
       </tuv>
     </tu>
     <tu>
@@ -48239,6 +48919,14 @@ RESULT:
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Show Advanced Search</seg>
+      </tuv>
+      <tuv lang="SV-SE" changeid="peter" changedate="20140914T100044Z">
+        <seg>Visa avancerad sökning</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Show All</seg>
       </tuv>
       <tuv lang="SV-SE">
@@ -48363,6 +49051,14 @@ RESULT:
       </tuv>
       <tuv lang="SV-SE" changeid="peter" changedate="20140526T071227Z">
         <seg>Visa mer</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Show More Results</seg>
+      </tuv>
+      <tuv lang="SV-SE" changeid="peter" changedate="20140914T100059Z">
+        <seg>Visa fler resultat</seg>
       </tuv>
     </tu>
     <tu>
@@ -48503,6 +49199,14 @@ RESULT:
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Show period</seg>
+      </tuv>
+      <tuv lang="SV-SE" changeid="peter" changedate="20140914T094748Z">
+        <seg>Visa period</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Show popular tags in this site</seg>
       </tuv>
       <tuv lang="SV-SE">
@@ -48531,6 +49235,14 @@ RESULT:
       </tuv>
       <tuv lang="SV-SE" changeid="peter" changedate="20140407T102524Z">
         <seg>Visa miniatyrer</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Show with Search Results</seg>
+      </tuv>
+      <tuv lang="SV-SE" changeid="peter" changedate="20140914T165424Z">
+        <seg>Visa sökresultat</seg>
       </tuv>
     </tu>
     <tu>
@@ -48647,6 +49359,22 @@ RESULT:
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Shows a visual breakdown of the site's different file types.</seg>
+      </tuv>
+      <tuv lang="SV-SE" changeid="peter" changedate="20140914T095309Z">
+        <seg>Visare en visuell nedbrytning över olika filtyper i webbplatsen.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Shows a visual breakdown of who's contributed most content to the site.</seg>
+      </tuv>
+      <tuv lang="SV-SE" changeid="peter" changedate="20140914T095246Z">
+        <seg>Visar en visuell nedbrytning av vem som bidragit med mest innehåll till webbplatsen.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Sichuan Yi</seg>
       </tuv>
       <tuv lang="SV-SE">
@@ -48707,6 +49435,14 @@ RESULT:
       </tuv>
       <tuv lang="SV-SE">
         <seg>Enkel direkt godkännande</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Simple Filter</seg>
+      </tuv>
+      <tuv lang="SV-SE" changeid="peter" changedate="20140914T100020Z">
+        <seg>Enkelt filter</seg>
       </tuv>
     </tu>
     <tu>
@@ -48895,6 +49631,14 @@ RESULT:
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Site Contributor Breakdown</seg>
+      </tuv>
+      <tuv lang="SV-SE" changeid="peter" changedate="20140914T094145Z">
+        <seg>Site Contributor Breakdown</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Site Customization</seg>
       </tuv>
       <tuv lang="SV-SE">
@@ -48939,6 +49683,14 @@ RESULT:
       </tuv>
       <tuv lang="SV-SE">
         <seg>Webbplats dokumentbibliotek Portlet</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Site File Type Breakdown</seg>
+      </tuv>
+      <tuv lang="SV-SE" changeid="peter" changedate="20140914T094142Z">
+        <seg>Filtyper i webbplats</seg>
       </tuv>
     </tu>
     <tu>
@@ -49219,6 +49971,14 @@ RESULT:
       </tuv>
       <tuv lang="SV-SE">
         <seg>Webbplatsansvariga kan kontrollera vem som blir medlem i webbplatsen</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Site name</seg>
+      </tuv>
+      <tuv lang="SV-SE" changeid="peter" changedate="20140914T170551Z">
+        <seg>Webbplatsnamn</seg>
       </tuv>
     </tu>
     <tu>
@@ -49751,6 +50511,14 @@ RESULT:
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Solr Facets Space</seg>
+      </tuv>
+      <tuv lang="SV-SE" changeid="peter" changedate="20140914T095052Z">
+        <seg>Solr Facets mapp</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Solr Hostname</seg>
       </tuv>
       <tuv lang="SV-SE" changeid="peter" changedate="20111216T052304Z">
@@ -49855,6 +50623,14 @@ RESULT:
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Sort By</seg>
+      </tuv>
+      <tuv lang="SV-SE" changeid="peter" changedate="20140914T165847Z">
+        <seg>Sortera med</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Sort Descending</seg>
       </tuv>
       <tuv lang="SV-SE" changeid="peter" changedate="20110430T072041Z">
@@ -49947,6 +50723,14 @@ RESULT:
       </tuv>
       <tuv lang="SV-SE" changeid="peter" changedate="20140526T071713Z">
         <seg>Sortera fallande</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Sorting menu</seg>
+      </tuv>
+      <tuv lang="SV-SE" changeid="peter" changedate="20140914T100207Z">
+        <seg>Sorteringsmeny</seg>
       </tuv>
     </tu>
     <tu>
@@ -51815,6 +52599,14 @@ RESULT:
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Successfully deleted '{filterID}'</seg>
+      </tuv>
+      <tuv lang="SV-SE" changeid="peter" changedate="20140914T170645Z">
+        <seg>Lyckades radera '{filterID}'</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Successfully deleted group ''{0}''.</seg>
       </tuv>
       <tuv lang="SV-SE" changeid="peter" changedate="20110805T090933Z">
@@ -51923,6 +52715,22 @@ RESULT:
       </tuv>
       <tuv lang="SV-SE">
         <seg>Lyckades länka regler till mapp</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Successfully moved "{0}" down one place</seg>
+      </tuv>
+      <tuv lang="SV-SE" changeid="peter" changedate="20140914T094741Z">
+        <seg>Lyckades flytta "{0}" ned ett steg</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Successfully moved "{0}" up one place</seg>
+      </tuv>
+      <tuv lang="SV-SE" changeid="peter" changedate="20140914T094727Z">
+        <seg>Lyckades flytta "{0}" upp ett steg</seg>
       </tuv>
     </tu>
     <tu>
@@ -52131,6 +52939,14 @@ RESULT:
       </tuv>
       <tuv lang="SV-SE">
         <seg>Dokumentet är upplåst.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Successfully updated '{filterID}'</seg>
+      </tuv>
+      <tuv lang="SV-SE" changeid="peter" changedate="20140914T170657Z">
+        <seg>Lyckades uppdatera '{filterID}'</seg>
       </tuv>
     </tu>
     <tu>
@@ -55889,6 +56705,14 @@ Identifikationen för en grupp kan inte ändras då den redan är fastställd. <
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>The preview may not yet show the latest version of the document - you can refresh the page later to update it.</seg>
+      </tuv>
+      <tuv lang="SV-SE" changeid="peter" changedate="20140914T095849Z">
+        <seg>Förhandsvisningen kanske ännu inte visar den senaste versionen av dokumentet. Du kan om en stund ladda om sidan för att uppdatera förhandsvisningen.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>The property ''errorCodes'' has moved down onto the RuntimeExec class</seg>
       </tuv>
       <tuv lang="SV-SE">
@@ -57315,10 +58139,26 @@ Värdet {0} är ogiltigt för aktivitetens egenskap {1}.</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>There was an error getting progress status.</seg>
+      </tuv>
+      <tuv lang="SV-SE" changeid="peter" changedate="20140914T094602Z">
+        <seg>Ett fel inträffade när status för pågående arbete skulle hämtas.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>There was an error loading search results</seg>
       </tuv>
       <tuv lang="SV-SE" changeid="peter" changedate="20140526T071340Z">
         <seg>Det inträffade ett fel när sökresultaten laddades</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>There was an error loading the data</seg>
+      </tuv>
+      <tuv lang="SV-SE" changeid="peter" changedate="20140914T094258Z">
+        <seg>Det inträffade ett fel när data skulle laddas</seg>
       </tuv>
     </tu>
     <tu>
@@ -58095,6 +58935,14 @@ Värdet {0} är ogiltigt för aktivitetens egenskap {1}.</seg>
       </tuv>
       <tuv lang="SV-SE" changeid="peter" changedate="20120810T175702Z">
         <seg>Filen överstiger dokumentgränsen.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>This filter ID has already been used.</seg>
+      </tuv>
+      <tuv lang="SV-SE" changeid="peter" changedate="20140914T165405Z">
+        <seg>Det här filter-ID:t har redan använts.</seg>
       </tuv>
     </tu>
     <tu>
@@ -59491,6 +60339,14 @@ Värdet {0} är ogiltigt för aktivitetens egenskap {1}.</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>To date</seg>
+      </tuv>
+      <tuv lang="SV-SE" changeid="peter" changedate="20140914T094845Z">
+        <seg>Till datum</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>To delete a dashlet, select then click the Delete key.</seg>
       </tuv>
       <tuv lang="SV-SE">
@@ -60807,6 +61663,14 @@ Värdet {0} är ogiltigt för aktivitetens egenskap {1}.</seg>
       </tuv>
       <tuv lang="SV-SE" changeid="peter" changedate="20110511T133059Z">
         <seg>Trust Store</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Try updating Microsoft Office.</seg>
+      </tuv>
+      <tuv lang="SV-SE" changeid="peter" changedate="20140914T095705Z">
+        <seg>Försök att uppdatera Microsoft Office</seg>
       </tuv>
     </tu>
     <tu>
@@ -62660,6 +63524,14 @@ Värdet {0} är ogiltigt för aktivitetens egenskap {1}.</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Update Activiti tables from 5.14 to 5.16.2</seg>
+      </tuv>
+      <tuv lang="SV-SE" changeid="peter" changedate="20140914T095155Z">
+        <seg>Update Activiti tables from 5.14 to 5.16.2</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Update Externally</seg>
       </tuv>
       <tuv lang="SV-SE">
@@ -64068,6 +64940,14 @@ Värdet {0} är ogiltigt för aktivitetens egenskap {1}.</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>User {0} does not have permission to access this task.</seg>
+      </tuv>
+      <tuv lang="SV-SE" changeid="peter" changedate="20140914T095405Z">
+        <seg>Användare {0} saknar åtkomsträttigheter för den här uppgiften.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>User {0} has requested to join the {1} Site.</seg>
       </tuv>
       <tuv lang="SV-SE">
@@ -64264,6 +65144,14 @@ Värdet {0} är ogiltigt för aktivitetens egenskap {1}.</seg>
       </tuv>
       <tuv lang="SV-SE">
         <seg>Validera länkar</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Validating</seg>
+      </tuv>
+      <tuv lang="SV-SE" changeid="peter" changedate="20140914T094153Z">
+        <seg>Validerar</seg>
       </tuv>
     </tu>
     <tu>
@@ -64896,6 +65784,14 @@ Värdet {0} är ogiltigt för aktivitetens egenskap {1}.</seg>
       </tuv>
       <tuv lang="SV-SE">
         <seg>Visa lokal rapport</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>View Modes</seg>
+      </tuv>
+      <tuv lang="SV-SE" changeid="peter" changedate="20140914T100012Z">
+        <seg>Visningslägen</seg>
       </tuv>
     </tu>
     <tu>
@@ -67293,6 +68189,14 @@ Värdet {0} är ogiltigt för aktivitetens egenskap {1}.</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>You can hide them by switching off Show with Search Results.</seg>
+      </tuv>
+      <tuv lang="SV-SE" changeid="peter" changedate="20140914T165633Z">
+        <seg>Du kan gömma dem genom att slå av alternativet Visa i sökresultat.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>You can invite people to join this site.</seg>
       </tuv>
       <tuv lang="SV-SE">
@@ -67345,6 +68249,14 @@ Värdet {0} är ogiltigt för aktivitetens egenskap {1}.</seg>
       </tuv>
       <tuv lang="SV-SE" changeid="peter" changedate="20140526T072217Z">
         <seg>Du kan söka efter valfri egenskap för ett objekt, inkluderande taggar, beskrivning, innehåll, datum, och den som skapat eller ändrat.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>You can switch off this option to hide the filter from search results.</seg>
+      </tuv>
+      <tuv lang="SV-SE" changeid="peter" changedate="20140914T165500Z">
+        <seg>Du kan slå av detta alternativ för att gömma filtret i sökresultaten.</seg>
       </tuv>
     </tu>
     <tu>
@@ -67561,6 +68473,14 @@ Värdet {0} är ogiltigt för aktivitetens egenskap {1}.</seg>
       </tuv>
       <tuv lang="SV-SE" changeid="peter" changedate="20121128T143245Z">
         <seg>Du saknar behörighet att radera länk med namn '{0}'</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>You don't have permissions to get node details</seg>
+      </tuv>
+      <tuv lang="SV-SE" changeid="peter" changedate="20140914T100005Z">
+        <seg>Du saknar rättigheter för åtkomst till objektets detaljuppgifter.</seg>
       </tuv>
     </tu>
     <tu>
@@ -67837,6 +68757,14 @@ Värdet {0} är ogiltigt för aktivitetens egenskap {1}.</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>You're using a Microsoft Office version that isn't supported by Alfresco.</seg>
+      </tuv>
+      <tuv lang="SV-SE" changeid="peter" changedate="20140914T095654Z">
+        <seg>Du använder en version av Microsoft Office som inte stöds av Alfresco.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Your Profile</seg>
       </tuv>
       <tuv lang="SV-SE">
@@ -68025,6 +68953,14 @@ Värdet {0} är ogiltigt för aktivitetens egenskap {1}.</seg>
       </tuv>
       <tuv lang="SV-SE">
         <seg>Zhuang; Chuang</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Zip creation complete.</seg>
+      </tuv>
+      <tuv lang="SV-SE" changeid="peter" changedate="20140914T094524Z">
+        <seg>Skapandet av zip-fil klart.</seg>
       </tuv>
     </tu>
     <tu>
@@ -68449,6 +69385,14 @@ Värdet {0} är ogiltigt för aktivitetens egenskap {1}.</seg>
       </tuv>
       <tuv lang="SV-SE">
         <seg>klicka för att redigera</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>close</seg>
+      </tuv>
+      <tuv lang="SV-SE" changeid="peter" changedate="20140914T095919Z">
+        <seg>stäng</seg>
       </tuv>
     </tu>
     <tu>
@@ -69005,6 +69949,14 @@ Värdet {0} är ogiltigt för aktivitetens egenskap {1}.</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>files</seg>
+      </tuv>
+      <tuv lang="SV-SE" changeid="peter" changedate="20140914T094853Z">
+        <seg>filer</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>fixesToSchema: {2}
 targetSchema: {3}.</seg>
       </tuv>
@@ -69295,6 +70247,14 @@ targetSchema: {3}.</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>invalid</seg>
+      </tuv>
+      <tuv lang="SV-SE" changeid="peter" changedate="20140914T094149Z">
+        <seg>Ogiltig</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>invite</seg>
       </tuv>
       <tuv lang="SV-SE">
@@ -69435,6 +70395,14 @@ targetSchema: {3}.</seg>
       </tuv>
       <tuv lang="SV-SE">
         <seg>just nu</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>loading</seg>
+      </tuv>
+      <tuv lang="SV-SE" changeid="peter" changedate="20140914T095926Z">
+        <seg>laddar</seg>
       </tuv>
     </tu>
     <tu>
@@ -70343,6 +71311,22 @@ targetSchema: {3}.</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>org/alfresco/share/imports/share-header.lib,org/alfresco/share/imports/document-library.lib</seg>
+      </tuv>
+      <tuv lang="SV-SE" changeid="peter" changedate="20140914T170659Z">
+        <seg>org/alfresco/share/imports/share-header.lib,org/alfresco/share/imports/document-library.lib</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>org/alfresco/share/imports/share-header.lib,org/alfresco/share/options/faceted-search/available-facets-controls.get,org/alfresco/share/options/faceted-search/available-facets.get</seg>
+      </tuv>
+      <tuv lang="SV-SE" changeid="peter" changedate="20140914T165307Z">
+        <seg>org/alfresco/share/imports/share-header.lib,org/alfresco/share/options/faceted-search/available-facets-controls.get,org/alfresco/share/options/faceted-search/available-facets.get</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>over {0} years</seg>
       </tuv>
       <tuv lang="SV-SE">
@@ -70717,6 +71701,14 @@ Vänligen kontakta din systemadministratör</seg>
       </tuv>
       <tuv lang="SV-SE">
         <seg>system-overview.html</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>tagscope aspect added to the Company Home folder successfully</seg>
+      </tuv>
+      <tuv lang="SV-SE" changeid="peter" changedate="20140914T095153Z">
+        <seg>tagscope aspect added to the Company Home folder successfully</seg>
       </tuv>
     </tu>
     <tu>
@@ -71765,6 +72757,14 @@ Vänligen kontakta din systemadministratör</seg>
       </tuv>
       <tuv lang="SV-SE" changeid="peter" changedate="20110830T132534Z">
         <seg>{0} månader sedan</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>{0} more</seg>
+      </tuv>
+      <tuv lang="SV-SE" changeid="peter" changedate="20140914T095333Z">
+        <seg>{0} fler</seg>
       </tuv>
     </tu>
     <tu>
