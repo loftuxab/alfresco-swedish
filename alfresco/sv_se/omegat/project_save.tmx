@@ -1550,10 +1550,26 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>&lt;br&gt;''{0}'' is synced and this deletion will remove the document on premise as well as locally.</seg>
+      </tuv>
+      <tuv lang="SV-SE" changeid="peter" changedate="20140902T084107Z">
+        <seg>&lt;br&gt;''{0}'' är synkroniserad och denna radering kommer ta bort dokumentet på båda platserna.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>&lt;br&gt;''{0}'' is synced and this deletion will remove this folder any content under it locally and from the cloud.</seg>
       </tuv>
       <tuv lang="SV-SE" changeid="peter" changedate="20120810T174100Z">
         <seg>&lt;br&gt;''{0}'' är synkroniserat och denna radering av mappen kommer ta bort den och dess innehåll lokalt och från molnet.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>&lt;br&gt;''{0}'' is synced and this deletion will remove this folder any content under it on premise as well as locally.</seg>
+      </tuv>
+      <tuv lang="SV-SE" changeid="peter" changedate="20140902T084145Z">
+        <seg>&lt;br&gt;''{0}'' är synkroniserad och denna radering kommer ta bort mappen och dess innehåll på båda platserna.</seg>
       </tuv>
     </tu>
     <tu>
@@ -12394,6 +12410,14 @@ RESULT:
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Content can be deleted on cloud</seg>
+      </tuv>
+      <tuv lang="SV-SE" changeid="peter" changedate="20140902T084535Z">
+        <seg>Dokumentet kan inte raderas i molnet</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Content deployed from an WCM Authoring environment.</seg>
       </tuv>
       <tuv lang="SV-SE" changeid="peter" changedate="20120928T144815Z">
@@ -16298,6 +16322,14 @@ RESULT:
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Delete content on premise if it is deleted on cloud</seg>
+      </tuv>
+      <tuv lang="SV-SE" changeid="peter" changedate="20140902T084524Z">
+        <seg>Radera dokumentet lokalt om det raderas i molnet</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Delete document</seg>
       </tuv>
       <tuv lang="SV-SE">
@@ -17278,6 +17310,14 @@ RESULT:
       </tuv>
       <tuv lang="SV-SE">
         <seg>Diskussioner: Visa sidan för skapa ämne</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Dismiss</seg>
+      </tuv>
+      <tuv lang="SV-SE" changeid="peter" changedate="20140902T084343Z">
+        <seg>Avvisa</seg>
       </tuv>
     </tu>
     <tu>
@@ -39798,6 +39838,14 @@ RESULT:
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Please allow the Plug-In to run.</seg>
+      </tuv>
+      <tuv lang="SV-SE" changeid="peter" changedate="20140902T084311Z">
+        <seg>Vänligen tillåt att det körs.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Please ask the administrator to check the log files for details.</seg>
       </tuv>
       <tuv lang="SV-SE">
@@ -40306,6 +40354,14 @@ RESULT:
       </tuv>
       <tuv lang="SV-SE">
         <seg>Vänligen vänta...</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Plug-in Blocked</seg>
+      </tuv>
+      <tuv lang="SV-SE" changeid="peter" changedate="20140902T084245Z">
+        <seg>Tillägget blockerat</seg>
       </tuv>
     </tu>
     <tu>
@@ -50631,6 +50687,14 @@ RESULT:
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Starting Microsoft Office failed.</seg>
+      </tuv>
+      <tuv lang="SV-SE" changeid="peter" changedate="20140902T084223Z">
+        <seg>Start av Microsoft Office misslyckades.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Starting Space</seg>
       </tuv>
       <tuv lang="SV-SE">
@@ -53932,6 +53996,14 @@ Identifikationen för en grupp kan inte ändras då den redan är fastställd. <
       </tuv>
       <tuv lang="SV-SE">
         <seg>Personens användarnamn</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>The Plug-in has been blocked.</seg>
+      </tuv>
+      <tuv lang="SV-SE" changeid="peter" changedate="20140902T084259Z">
+        <seg>Detta tillägg har blockerats.</seg>
       </tuv>
     </tu>
     <tu>
@@ -57955,6 +58027,22 @@ Värdet {0} är ogiltigt för aktivitetens egenskap {1}.</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>This feature is only available on Windows or Mac OS X.</seg>
+      </tuv>
+      <tuv lang="SV-SE" changeid="peter" changedate="20140902T084209Z">
+        <seg>Denna funktion är bara tillgänglig i Windows eller Mac OS X.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>This feature requires a supported version of Microsoft Office.</seg>
+      </tuv>
+      <tuv lang="SV-SE" changeid="peter" changedate="20140902T084403Z">
+        <seg>Denna funktion kräven en supportad version av Microsoft Office.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>This field is mandatory but a value has not been provided.</seg>
       </tuv>
       <tuv lang="SV-SE">
@@ -58111,6 +58199,14 @@ Värdet {0} är ogiltigt för aktivitetens egenskap {1}.</seg>
       </tuv>
       <tuv lang="SV-SE">
         <seg>Det här är bara rekommenderat för HTML eller textdokument</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>This is part of the address of the site.&lt;br/&gt;Do not use spaces or special characters.</seg>
+      </tuv>
+      <tuv lang="SV-SE" changeid="peter" changedate="20140902T084447Z">
+        <seg>Detta är en del av adressen till webbplatsen.&lt;br/&gt;Använd inte mellanslag eller specialtecken</seg>
       </tuv>
     </tu>
     <tu>
