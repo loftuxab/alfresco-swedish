@@ -1326,6 +1326,22 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>/ : | %</seg>
+      </tuv>
+      <tuv lang="SV-SE" changeid="peter" changedate="20140922T074715Z">
+        <seg>/ : | %</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>/ : | are not allowed)</seg>
+      </tuv>
+      <tuv lang="SV-SE" changeid="peter" changedate="20140922T074102Z">
+        <seg>/ : | är inte tillåtna)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>/ : | are not allowed.</seg>
       </tuv>
       <tuv lang="SV-SE" changeid="peter" changedate="20110412T182502Z">
@@ -1538,6 +1554,14 @@
       </tuv>
       <tuv lang="SV-SE">
         <seg>&lt;b&gt;Två&lt;/b&gt; kolumner: bred vänster, smal höger</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>&lt;b&gt;{0}&lt;/b&gt; - results found</seg>
+      </tuv>
+      <tuv lang="SV-SE" changeid="peter" changedate="20140922T074618Z">
+        <seg>&lt;b&gt;{0}&lt;/b&gt; - träffar</seg>
       </tuv>
     </tu>
     <tu>
@@ -6758,6 +6782,38 @@ RESULT:
       </tuv>
       <tuv lang="SV-SE" changeid="peter" changedate="20130807T063742Z">
         <seg>Tilldela en uppgift till dig själv eller en kollega</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Assign a review task to a group</seg>
+      </tuv>
+      <tuv lang="SV-SE" changeid="peter" changedate="20140922T074951Z">
+        <seg>Tilldela en granskningsuppgift till en grupp</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Assign a review task to a single reviewer</seg>
+      </tuv>
+      <tuv lang="SV-SE" changeid="peter" changedate="20140922T074821Z">
+        <seg>Tilldela en granskningsuppgift till en enskild granskare</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Assign a review task to multiple reviewers</seg>
+      </tuv>
+      <tuv lang="SV-SE" changeid="peter" changedate="20140922T074851Z">
+        <seg>Tilldela en granskningsuppgift till flera granskare granskare</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Assign a review task to multiple reviewers, who can take ownership of the task</seg>
+      </tuv>
+      <tuv lang="SV-SE" changeid="peter" changedate="20140922T074928Z">
+        <seg>Tilldela en granskningsuppgift till flera granskare granskare, varan en kan åta sig uppgiften</seg>
       </tuv>
     </tu>
     <tu>
@@ -17334,6 +17390,14 @@ RESULT:
       </tuv>
       <tuv lang="SV-SE">
         <seg>Avgör vilken subtyp av dl:dataListItem som kommer användas när nya objeket skapas i Datalistan.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Did you mean:</seg>
+      </tuv>
+      <tuv lang="SV-SE" changeid="peter" changedate="20140922T074554Z">
+        <seg>Menade du:</seg>
       </tuv>
     </tu>
     <tu>
@@ -33420,6 +33484,14 @@ RESULT:
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Many of the tools previously found in the Share Administration Console have now been moved to the new &lt;a href="http://docs.alfresco.com/5.0/concepts/at-adminconsole.html" target="new"&gt;Repository Administration Console&lt;/a&gt;.</seg>
+      </tuv>
+      <tuv lang="SV-SE" changeid="peter" changedate="20140922T074327Z">
+        <seg>Många av verktygen som tidigare fanns i Share Administrationskonsol har ny flyttats till den nya &lt;a href="http://docs.alfresco.com/5.0/concepts/at-adminconsole.html" target="new"&gt;Repository Administrationskonsol&lt;/a&gt;.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Maori</seg>
       </tuv>
       <tuv lang="SV-SE">
@@ -35704,6 +35776,14 @@ RESULT:
       </tuv>
       <tuv lang="SV-SE">
         <seg>Name ''{0}'' rewritten to ''{1}''</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Name contains invalid characters (the characters " *  &lt; &gt; ?</seg>
+      </tuv>
+      <tuv lang="SV-SE" changeid="peter" changedate="20140922T074051Z">
+        <seg>Namnet innehåller ogiltiga tecken (tecknen " *  &lt; &gt; ?</seg>
       </tuv>
     </tu>
     <tu>
@@ -45262,6 +45342,14 @@ RESULT:
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Review And Approve (single reviewer)</seg>
+      </tuv>
+      <tuv lang="SV-SE" changeid="peter" changedate="20140922T074802Z">
+        <seg>Granska och godkänna (en granskare)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Review Documents to Approve or Reject them</seg>
       </tuv>
       <tuv lang="SV-SE">
@@ -45346,6 +45434,30 @@ RESULT:
       </tuv>
       <tuv lang="SV-SE">
         <seg>Granska och godkänn</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Review and Approve (group review)</seg>
+      </tuv>
+      <tuv lang="SV-SE" changeid="peter" changedate="20140922T074943Z">
+        <seg>Granska och godkänna (granskning i grupp)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Review and Approve (one or more reviewers)</seg>
+      </tuv>
+      <tuv lang="SV-SE" changeid="peter" changedate="20140922T074835Z">
+        <seg>Granska och godkänna (en eller flera granskare)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Review and Approve (pooled review)</seg>
+      </tuv>
+      <tuv lang="SV-SE" changeid="peter" changedate="20140922T074910Z">
+        <seg>Granska och godkänna (uppgiftspool)</seg>
       </tuv>
     </tu>
     <tu>
@@ -46550,6 +46662,14 @@ RESULT:
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Search by user name, user profile, or both.</seg>
+      </tuv>
+      <tuv lang="SV-SE" changeid="peter" changedate="20140922T074354Z">
+        <seg>Sök efter användarnamn, användarprofil eller båda.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Search does not exist with name: "{0}"</seg>
       </tuv>
       <tuv lang="SV-SE">
@@ -46586,6 +46706,14 @@ RESULT:
       </tuv>
       <tuv lang="SV-SE" changeid="peter" changedate="20140914T100034Z">
         <seg>Sökfält</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Search files, people, sites</seg>
+      </tuv>
+      <tuv lang="SV-SE" changeid="peter" changedate="20140922T074019Z">
+        <seg>Sök filer, personer, webbplatser</seg>
       </tuv>
     </tu>
     <tu>
@@ -46770,6 +46898,14 @@ RESULT:
       </tuv>
       <tuv lang="SV-SE" changeid="peter" changedate="20140526T072621Z">
         <seg>Sök i:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Search instead for:</seg>
+      </tuv>
+      <tuv lang="SV-SE" changeid="peter" changedate="20140922T074123Z">
+        <seg>Sök istället efter:</seg>
       </tuv>
     </tu>
     <tu>
@@ -49299,6 +49435,14 @@ RESULT:
       </tuv>
       <tuv lang="SV-SE">
         <seg>Visar sida {0} av {1}</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Showing results for:</seg>
+      </tuv>
+      <tuv lang="SV-SE" changeid="peter" changedate="20140922T074111Z">
+        <seg>Visare resultat för:</seg>
       </tuv>
     </tu>
     <tu>
@@ -53655,6 +53799,14 @@ RESULT:
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Take ownership</seg>
+      </tuv>
+      <tuv lang="SV-SE" changeid="peter" changedate="20140922T074134Z">
+        <seg>Ta ägarskap</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Tamil</seg>
       </tuv>
       <tuv lang="SV-SE">
@@ -55468,6 +55620,14 @@ Identifikationen för en grupp kan inte ändras då den redan är fastställd. <
       </tuv>
       <tuv lang="SV-SE">
         <seg>Dialecten ''{0}'' är osupporterad.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>The displayed filter name.</seg>
+      </tuv>
+      <tuv lang="SV-SE" changeid="peter" changedate="20140922T074734Z">
+        <seg>Det visade filternamnet.</seg>
       </tuv>
     </tu>
     <tu>
@@ -57557,6 +57717,14 @@ Identifikationen för en grupp kan inte ändras då den redan är fastställd. <
       </tuv>
       <tuv lang="SV-SE" changeid="peter" changedate="20130821T130606Z">
         <seg>Typen av kontroll att använda för fältet</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>The unique identifier for this search filter.</seg>
+      </tuv>
+      <tuv lang="SV-SE" changeid="peter" changedate="20140922T074642Z">
+        <seg>Den unika identifieraren för detta sökfilter.</seg>
       </tuv>
     </tu>
     <tu>
@@ -59755,6 +59923,14 @@ Värdet {0} är ogiltigt för aktivitetens egenskap {1}.</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>This will take ownership of matched content.</seg>
+      </tuv>
+      <tuv lang="SV-SE" changeid="peter" changedate="20140922T074204Z">
+        <seg>Dett vill ta ägarskapet för matchande dokument.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>This will transform the matched content and copy the result to a specific space</seg>
       </tuv>
       <tuv lang="SV-SE">
@@ -60743,6 +60919,14 @@ Värdet {0} är ogiltigt för aktivitetens egenskap {1}.</seg>
       </tuv>
       <tuv lang="SV-SE">
         <seg>För att söka på en egenskap för användaren, ange det som ett prefix, till exempel:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>To search user profiles (by location, job title, or organization) include the profile property you're searching by, for example, "location:London", "organization:Alfresco", or "jobtitle:Manager".</seg>
+      </tuv>
+      <tuv lang="SV-SE" changeid="peter" changedate="20140922T074546Z">
+        <seg>För att söka användarprofile (efter plats, jobbtitel eller organisation) inkludera profilegenskapen du vill söka efter, till exempel, "location:Vittangi", "organization:Loftux", eller "jobtitle:Chef".</seg>
       </tuv>
     </tu>
     <tu>
@@ -68289,6 +68473,14 @@ Värdet {0} är ogiltigt för aktivitetens egenskap {1}.</seg>
       </tuv>
       <tuv lang="SV-SE" changeid="peter" changedate="20110412T180535Z">
         <seg>Du kan besöka publika webbplatser och bli medlemm direkt.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>You can't save a Filter ID that ends with a period or contain any of  " * \ &lt; &gt; ?</seg>
+      </tuv>
+      <tuv lang="SV-SE" changeid="peter" changedate="20140922T074715Z">
+        <seg>Du kan inte spara ett Filter-ID som slutar med en punkt eller något av tecknen " * \ &lt; &gt; ?</seg>
       </tuv>
     </tu>
     <tu>
