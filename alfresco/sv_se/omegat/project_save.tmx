@@ -24962,6 +24962,14 @@ RESULT:
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Find Widget Code Snippet:</seg>
+      </tuv>
+      <tuv lang="SV-SE" changeid="peter" changedate="20141011T094708Z">
+        <seg>Hitta Widget Kod-Snippet:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Find out what content has been added to the site by browsing the document library.</seg>
       </tuv>
       <tuv lang="SV-SE" changeid="peter" changedate="20110412T180922Z">
@@ -26550,6 +26558,14 @@ RESULT:
       </tuv>
       <tuv lang="SV-SE" changeid="peter" changedate="20110412T180933Z">
         <seg>Gå till dokumentbibliotek</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Go to parent folder</seg>
+      </tuv>
+      <tuv lang="SV-SE" changeid="peter" changedate="20141011T094734Z">
+        <seg>Gå till överliggande mapp</seg>
       </tuv>
     </tu>
     <tu>
@@ -30578,6 +30594,14 @@ RESULT:
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>JSON Model ID:</seg>
+      </tuv>
+      <tuv lang="SV-SE" changeid="peter" changedate="20141011T094647Z">
+        <seg>JSON Model.-ID:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Jan,Feb,Mar,Apr,May,Jun,Jul,Aug,Sep,Oct,Nov,Dec</seg>
       </tuv>
       <tuv lang="SV-SE">
@@ -32032,6 +32056,14 @@ RESULT:
       </tuv>
       <tuv lang="SV-SE" changeid="peter" changedate="20110531T055039Z">
         <seg>Länkar med etikett &lt;b&gt;{0}&lt;/b&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Links zu Zugriffstasten:</seg>
+      </tuv>
+      <tuv lang="SV-SE" changeid="peter" changedate="20141011T094537Z">
+        <seg>Links zu Zugriffstasten:</seg>
       </tuv>
     </tu>
     <tu>
@@ -40830,6 +40862,14 @@ RESULT:
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Please see http://docs.alfresco.com/5.0/tasks/lucene-solr4-migration.dita</seg>
+      </tuv>
+      <tuv lang="SV-SE" changeid="peter" changedate="20141011T094812Z">
+        <seg>Please see http://docs.alfresco.com/5.0/tasks/lucene-solr4-migration.dita</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Please select a view</seg>
       </tuv>
       <tuv lang="SV-SE" changeid="peter" changedate="20130821T130001Z">
@@ -46658,6 +46698,14 @@ RESULT:
       </tuv>
       <tuv lang="SV-SE">
         <seg>Sök på egenskap</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Search by user name, user profile, or both</seg>
+      </tuv>
+      <tuv lang="SV-SE" changeid="peter" changedate="20141011T094851Z">
+        <seg>Sök efter användarnamn, profil eller båda</seg>
       </tuv>
     </tu>
     <tu>
@@ -56245,6 +56293,14 @@ Identifikationen för en grupp kan inte ändras då den redan är fastställd. <
       </tuv>
       <tuv lang="SV-SE">
         <seg>Låsningsresursen existerar inte längre</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>The lucene search subsystem is not supported.</seg>
+      </tuv>
+      <tuv lang="SV-SE" changeid="peter" changedate="20141011T094805Z">
+        <seg>The lucene search subsystem is not supported</seg>
       </tuv>
     </tu>
     <tu>
@@ -67261,6 +67317,14 @@ Värdet {0} är ogiltigt för aktivitetens egenskap {1}.</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Widget Type:</seg>
+      </tuv>
+      <tuv lang="SV-SE" changeid="peter" changedate="20141011T094651Z">
+        <seg>Widget Typ:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Width</seg>
       </tuv>
       <tuv lang="SV-SE">
@@ -68641,6 +68705,14 @@ Värdet {0} är ogiltigt för aktivitetens egenskap {1}.</seg>
       </tuv>
       <tuv lang="SV-SE" changeid="peter" changedate="20110531T062444Z">
         <seg>Du saknar nödvändig behörighet för att visa begärt objekt.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>You do not have the appropriate permissions to perform the Unshare action.</seg>
+      </tuv>
+      <tuv lang="SV-SE" changeid="peter" changedate="20141011T094943Z">
+        <seg>Du saknar behörighet för att avsluta delningen.</seg>
       </tuv>
     </tu>
     <tu>
