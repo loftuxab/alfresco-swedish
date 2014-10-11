@@ -68,3 +68,5 @@ alfresco/sv_se/omegat/project_stats.txt
 alfresco/sv_se/sv_se-level1.tmx
 alfresco/sv_se/sv_se-level2.tmx
 alfresco/sv_se/sv_se-omegat.tmx
+
+deploy.sh
