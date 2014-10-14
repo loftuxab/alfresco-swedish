@@ -4256,6 +4256,14 @@ RESULT:
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Alfresco Community by &lt;a href='https://loftux.com/alfresco/support?ref=share' target='_blank'&gt;&lt;b&gt;Loftux AB&lt;/b&gt;&lt;/a&gt;&lt;br /&gt;Alfresco Software Inc.</seg>
+      </tuv>
+      <tuv lang="SV-SE" changeid="peter" changedate="20141014T070628Z">
+        <seg>Alfresco Community av &lt;a href='https://loftux.se/alfresco/support?ref=share' target='_blank'&gt;&lt;b&gt;Loftux AB&lt;/b&gt;&lt;/a&gt;&lt;br /&gt;&amp;copy; 2005-2014 Alfresco Software Inc. Alla rättigheter reserverade.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Alfresco Content Domain Model</seg>
       </tuv>
       <tuv lang="SV-SE">
@@ -14354,6 +14362,14 @@ RESULT:
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Create HTML Document</seg>
+      </tuv>
+      <tuv lang="SV-SE" changeid="peter" changedate="20141014T070449Z">
+        <seg>Skapa HTML-dokument</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Create Job</seg>
       </tuv>
       <tuv lang="SV-SE">
@@ -14646,6 +14662,14 @@ RESULT:
       </tuv>
       <tuv lang="SV-SE">
         <seg>Skapa Wiki-sida</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Create XML Document</seg>
+      </tuv>
+      <tuv lang="SV-SE" changeid="peter" changedate="20141014T070456Z">
+        <seg>Skapa XML-dokument</seg>
       </tuv>
     </tu>
     <tu>
