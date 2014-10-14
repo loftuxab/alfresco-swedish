@@ -7002,6 +7002,14 @@ RESULT:
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>At least one of the properties ''{0}'' or ''{1}'' must be set on this patch: {2}</seg>
+      </tuv>
+      <tuv lang="SV-SE" changeid="peter" changedate="20141014T055548Z">
+        <seg>At least one of the properties ''{0}'' or ''{1}'' must be set on this patch: {2}</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Atomic Transformation Time</seg>
       </tuv>
       <tuv lang="SV-SE" changeid="peter" changedate="20110809T061853Z">
@@ -14082,6 +14090,14 @@ RESULT:
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Couldn't display content due to missing plugin '{0}'</seg>
+      </tuv>
+      <tuv lang="SV-SE" changeid="peter" changedate="20141014T055530Z">
+        <seg>Kunde inte visa för att plugin '{0}' saknas</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Couldn't load task list</seg>
       </tuv>
       <tuv lang="SV-SE">
@@ -14542,6 +14558,14 @@ RESULT:
       </tuv>
       <tuv lang="SV-SE">
         <seg>Skapa undergrupper</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Create Text Document</seg>
+      </tuv>
+      <tuv lang="SV-SE" changeid="peter" changedate="20141014T055713Z">
+        <seg>Skapa text-dokument</seg>
       </tuv>
     </tu>
     <tu>
@@ -40870,6 +40894,14 @@ RESULT:
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Please see http://docs.alfresco.com/5.0/tasks/lucene-solr4-migration.html</seg>
+      </tuv>
+      <tuv lang="SV-SE" changeid="peter" changedate="20141014T055703Z">
+        <seg>Vänligen se http://docs.alfresco.com/5.0/tasks/lucene-solr4-migration.html</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Please select a view</seg>
       </tuv>
       <tuv lang="SV-SE" changeid="peter" changedate="20130821T130001Z">
@@ -56299,8 +56331,8 @@ Identifikationen för en grupp kan inte ändras då den redan är fastställd. <
       <tuv lang="EN-US">
         <seg>The lucene search subsystem is not supported.</seg>
       </tuv>
-      <tuv lang="SV-SE" changeid="peter" changedate="20141011T094805Z">
-        <seg>The lucene search subsystem is not supported</seg>
+      <tuv lang="SV-SE" changeid="peter" changedate="20141014T055651Z">
+        <seg>Lucene söksystem saknar stöd.</seg>
       </tuv>
     </tu>
     <tu>
@@ -58855,6 +58887,14 @@ Värdet {0} är ogiltigt för aktivitetens egenskap {1}.</seg>
       </tuv>
       <tuv lang="SV-SE">
         <seg>Detta dokument kan inte förhandsvisas.&lt;br/&gt;&lt;a class="theme-color-1" href="{0}"&gt;Klicka här för att ladda ned.&lt;/a&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>This document can't be previewed.&lt;br/&gt;&lt;a class="theme-color-1" href="{0}"&gt;Click here to view it.&lt;/a&gt;</seg>
+      </tuv>
+      <tuv lang="SV-SE" changeid="peter" changedate="20141014T055503Z">
+        <seg>Detta dokument kan inte förhandsvisas.&lt;br/&gt;&lt;a class="theme-color-1" href="{0}"&gt;Klicka här för att visa det.&lt;/a&gt;</seg>
       </tuv>
     </tu>
     <tu>
@@ -63344,6 +63384,22 @@ Värdet {0} är ogiltigt för aktivitetens egenskap {1}.</seg>
       </tuv>
       <tuv lang="SV-SE">
         <seg>Dra tillbaks senaste versionen av arbetsflödet identifierat genom</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Undeployed {0} workflows.</seg>
+      </tuv>
+      <tuv lang="SV-SE" changeid="peter" changedate="20141014T055547Z">
+        <seg>Undeployed {0} workflows.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Undeploys deprecated WCMWF Workflows</seg>
+      </tuv>
+      <tuv lang="SV-SE" changeid="peter" changedate="20141014T055551Z">
+        <seg>Undeploys deprecated WCMWF Workflows</seg>
       </tuv>
     </tu>
     <tu>
