@@ -16370,6 +16370,14 @@ RESULT:
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Definition ''{0}'' cannot be undeployed as the ''{1}'' engine is disabled</seg>
+      </tuv>
+      <tuv lang="SV-SE" changeid="peter" changedate="20141015T093523Z">
+        <seg>Definition ''{0}'' cannot be undeployed as the ''{1}'' engine is disabled</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Definitions Visible</seg>
       </tuv>
       <tuv lang="SV-SE" changeid="peter" changedate="20110910T102038Z">
