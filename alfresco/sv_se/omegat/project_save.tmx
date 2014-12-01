@@ -648,7 +648,7 @@
       <tuv lang="EN-US">
         <seg>&amp;copy; 2005-2014 Alfresco Software Inc.</seg>
       </tuv>
-      <tuv lang="SV-SE" changeid="peter" changedate="20140213T142615Z">
+      <tuv lang="SV-SE" changeid="peter" changedate="20141105T194053Z">
         <seg>&amp;copy; 2005-2014 Alfresco Software Inc.</seg>
       </tuv>
     </tu>
@@ -2370,8 +2370,8 @@ RESULT:
       <tuv lang="EN-US">
         <seg>A-Z</seg>
       </tuv>
-      <tuv lang="SV-SE" changeid="peter" changedate="20140914T165916Z">
-        <seg>A-Z</seg>
+      <tuv lang="SV-SE" changeid="peter" changedate="20141105T193750Z">
+        <seg>A-Ö</seg>
       </tuv>
     </tu>
     <tu>
@@ -4258,8 +4258,8 @@ RESULT:
       <tuv lang="EN-US">
         <seg>Alfresco Community by &lt;a href='https://loftux.com/alfresco/support?ref=share' target='_blank'&gt;&lt;b&gt;Loftux AB&lt;/b&gt;&lt;/a&gt;&lt;br /&gt;Alfresco Software Inc.</seg>
       </tuv>
-      <tuv lang="SV-SE" changeid="peter" changedate="20141014T070628Z">
-        <seg>Alfresco Community av &lt;a href='https://loftux.se/alfresco/support?ref=share' target='_blank'&gt;&lt;b&gt;Loftux AB&lt;/b&gt;&lt;/a&gt;&lt;br /&gt;&amp;copy; 2005-2014 Alfresco Software Inc. Alla rättigheter reserverade.</seg>
+      <tuv lang="SV-SE" changeid="peter" changedate="20141023T074109Z">
+        <seg>Alfresco Community av &lt;a href='https://loftux.se/alfresco/support?ref=share' target='_blank'&gt;&lt;b&gt;Loftux AB&lt;/b&gt;&lt;/a&gt;&lt;br /&gt;Alfresco Software Inc.</seg>
       </tuv>
     </tu>
     <tu>
@@ -10958,6 +10958,22 @@ RESULT:
       </tuv>
       <tuv lang="SV-SE">
         <seg>Klicka för att visa och dölja hjälptext för fältet.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Click to show more information</seg>
+      </tuv>
+      <tuv lang="SV-SE" changeid="peter" changedate="20141105T193644Z">
+        <seg>Klicka för att visa mer information</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Click to show more information about {0}</seg>
+      </tuv>
+      <tuv lang="SV-SE" changeid="peter" changedate="20141105T193634Z">
+        <seg>Klicka för att visa mer information om {0}</seg>
       </tuv>
     </tu>
     <tu>
@@ -37668,6 +37684,14 @@ RESULT:
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>No title</seg>
+      </tuv>
+      <tuv lang="SV-SE" changeid="peter" changedate="20141105T193657Z">
+        <seg>Ingen titel</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>No topic content yet</seg>
       </tuv>
       <tuv lang="SV-SE">
@@ -48627,6 +48651,14 @@ RESULT:
       </tuv>
       <tuv lang="SV-SE">
         <seg>Servern kunde inte möta förväntan som anges i Förväntan-begäran headern.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Server defined index</seg>
+      </tuv>
+      <tuv lang="SV-SE" changeid="peter" changedate="20141105T193807Z">
+        <seg>Serverdefinierat index</seg>
       </tuv>
     </tu>
     <tu>
@@ -63860,6 +63892,14 @@ Värdet {0} är ogiltigt för aktivitetens egenskap {1}.</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Update Activiti tables from 5.16.2 to 5.16.4</seg>
+      </tuv>
+      <tuv lang="SV-SE" changeid="peter" changedate="20141105T194057Z">
+        <seg>Update Activiti tables from 5.16.2 to 5.16.4</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Update Externally</seg>
       </tuv>
       <tuv lang="SV-SE">
@@ -69289,6 +69329,14 @@ Värdet {0} är ogiltigt för aktivitetens egenskap {1}.</seg>
       </tuv>
       <tuv lang="SV-SE">
         <seg>Din wikiartikel har osparade ändringar.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Z-A</seg>
+      </tuv>
+      <tuv lang="SV-SE" changeid="peter" changedate="20141105T193741Z">
+        <seg>Ö-A</seg>
       </tuv>
     </tu>
     <tu>

@@ -126,7 +126,7 @@ fi
 
 svnget repository $baseurl/projects/repository/config/alfresco/messages $rev
 svnget repository-scripts $baseurl/projects/remote-api/config/alfresco/ $rev
-svnget web-client $baseurl/projects/web-client/config/alfresco/messages $rev
+#svnget web-client $baseurl/projects/web-client/config/alfresco/messages $rev
 svnget workflow $baseurl/projects/repository/config/alfresco/workflow $rev
 svnget sharepoint $baseurl/modules/sharepoint/amp/config/alfresco/messages $rev
 svnget web-framework-commons $baseurl/projects/web-framework-commons/config/alfresco/ $rev
