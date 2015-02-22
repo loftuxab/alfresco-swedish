@@ -278,6 +278,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>"{0} has been deactivated and can't be invited"</seg>
+      </tuv>
+      <tuv lang="SV-SE" changeid="peter" changedate="20150209T064817Z">
+        <seg>"{0} har inaktiverats och kan inte bjudas in"</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>"{0}" appears in multiple locations, are you sure you want to remove it from all locations and delete and all previous versions?</seg>
       </tuv>
       <tuv lang="SV-SE">
@@ -658,6 +666,22 @@
       </tuv>
       <tuv lang="SV-SE" changeid="peter" changedate="20140213T142332Z">
         <seg>&amp;copy; 2005-2014 Alla rättigheter reserverade.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>&amp;copy; 2005-2015 Alfresco Software Inc.</seg>
+      </tuv>
+      <tuv lang="SV-SE" changeid="peter" changedate="20150209T065813Z">
+        <seg>&amp;copy; 2005-2015 Alfresco Software Inc.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>&amp;copy; 2005-2015 All rights reserved.</seg>
+      </tuv>
+      <tuv lang="SV-SE" changeid="peter" changedate="20150209T065744Z">
+        <seg>&amp;copy; 2005-2015 Alla rättigheter reserverade.</seg>
       </tuv>
     </tu>
     <tu>
@@ -2812,6 +2836,14 @@ RESULT:
       </tuv>
       <tuv lang="SV-SE" changeid="peter" changedate="20140914T095156Z">
         <seg>Activiti tables updated</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Activiti tables updated.</seg>
+      </tuv>
+      <tuv lang="SV-SE" changeid="peter" changedate="20150209T064839Z">
+        <seg>Activiti tables updated.</seg>
       </tuv>
     </tu>
     <tu>
@@ -9842,6 +9874,14 @@ RESULT:
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Check</seg>
+      </tuv>
+      <tuv lang="SV-SE" changeid="peter" changedate="20150209T065634Z">
+        <seg>Markera</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Check Form configuration.</seg>
       </tuv>
       <tuv lang="SV-SE" changeid="peter" changedate="20120420T165205Z">
@@ -10126,6 +10166,14 @@ RESULT:
       </tuv>
       <tuv lang="SV-SE" changeid="peter" changedate="20110412T181627Z">
         <seg>Kontrollera denna dashlet för att snabbt se de objekt du arbetar med.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Check to see if there's an existing site with this name (it might have been deleted and be in a trashcan) or try another name.</seg>
+      </tuv>
+      <tuv lang="SV-SE" changeid="peter" changedate="20150209T070222Z">
+        <seg>Kolla om det existerar en webbplats med detta namn (kan vara raderad och i papperskorgen) eller försök med ett annat namn.</seg>
       </tuv>
     </tu>
     <tu>
@@ -11174,6 +11222,30 @@ RESULT:
       </tuv>
       <tuv lang="SV-SE" changeid="peter" changedate="20130821T094929Z">
         <seg>Kluster använder en oacceptabel IP adress: {0}</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Cluster member joined: dropping invalidating caches.</seg>
+      </tuv>
+      <tuv lang="SV-SE" changeid="peter" changedate="20150209T064917Z">
+        <seg>Klustermedlem lades till: förkastar invalideringscache</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Cluster member left: dropping invalidating caches.</seg>
+      </tuv>
+      <tuv lang="SV-SE" changeid="peter" changedate="20150209T064939Z">
+        <seg>Klustermedlem lämnade: förkastar invalideringscache</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Cluster members changed but cache dropping is disabled (doing nothing).</seg>
+      </tuv>
+      <tuv lang="SV-SE" changeid="peter" changedate="20150209T065011Z">
+        <seg>Klustermedlemskap ändrades men invlidering av cache avstängt (gör inget).</seg>
       </tuv>
     </tu>
     <tu>
@@ -13998,6 +14070,14 @@ RESULT:
       </tuv>
       <tuv lang="SV-SE" changeid="peter" changedate="20120421T102850Z">
         <seg>Kunde inte ta bort länkning</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Could not unlock ''{0}''.</seg>
+      </tuv>
+      <tuv lang="SV-SE" changeid="peter" changedate="20150209T070042Z">
+        <seg>Kunde inte låsta upp ''{0}''.</seg>
       </tuv>
     </tu>
     <tu>
@@ -20138,6 +20218,14 @@ RESULT:
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Editing ''{0}'' has been unlocked.</seg>
+      </tuv>
+      <tuv lang="SV-SE" changeid="peter" changedate="20150209T070112Z">
+        <seg>Redigering och låstning av ''{0}'' har tagits bort. </seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Editing '{0}' has been cancelled</seg>
       </tuv>
       <tuv lang="SV-SE">
@@ -25354,6 +25442,14 @@ RESULT:
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Fixed template was updated.</seg>
+      </tuv>
+      <tuv lang="SV-SE" changeid="peter" changedate="20150209T064835Z">
+        <seg>Fixed template was updated.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Fixed {0} ACLs.</seg>
       </tuv>
       <tuv lang="SV-SE" changeid="peter" changedate="20110523T094149Z">
@@ -28338,6 +28434,14 @@ RESULT:
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>If using the keyboard.</seg>
+      </tuv>
+      <tuv lang="SV-SE" changeid="peter" changedate="20150209T065401Z">
+        <seg>Om du använder tangenbord.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>If you cancel editing of a document, the associated working copy will be deleted and all changes to it since the Check Out will be lost.</seg>
       </tuv>
       <tuv lang="SV-SE">
@@ -30982,6 +31086,14 @@ RESULT:
       </tuv>
       <tuv lang="SV-SE" changeid="peter" changedate="20110430T070106Z">
         <seg>Håll koll på ditt eget innehåll</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Keyboard Shortcuts: Bold (Ctrl+B), Italic (Ctrl+I), Underline (Ctrl+U), Undo (Ctrl+Z), Redo (Ctrl+Y).</seg>
+      </tuv>
+      <tuv lang="SV-SE" changeid="peter" changedate="20150209T065345Z">
+        <seg>Kortkommandon: Fet (Ctrl+B), Kursiv (Ctrl+I), Understrykning (Ctrl+U), Ångra (Ctrl+Z), Gör om (Ctrl+Y).</seg>
       </tuv>
     </tu>
     <tu>
@@ -38710,6 +38822,14 @@ RESULT:
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Office 2007 and 2008 don't work with Google Chrome.</seg>
+      </tuv>
+      <tuv lang="SV-SE" changeid="peter" changedate="20150209T070008Z">
+        <seg>Office 2007 och 2008 fungerar inte med Google Chrome.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Office Home</seg>
       </tuv>
       <tuv lang="SV-SE" changeid="peter" changedate="20110511T132627Z">
@@ -38858,6 +38978,14 @@ RESULT:
       </tuv>
       <tuv lang="SV-SE" changeid="peter" changedate="20111125T145051Z">
         <seg>En av följande tillägg måste installeras in din webbläsare.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>One of the properties has size more than max value.</seg>
+      </tuv>
+      <tuv lang="SV-SE" changeid="peter" changedate="20150209T070031Z">
+        <seg>En av egenskaperna har en storlek större än tillåtet värde.</seg>
       </tuv>
     </tu>
     <tu>
@@ -40662,6 +40790,14 @@ RESULT:
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Please contact your Alfresco sales representative to purchase additional user licenses.</seg>
+      </tuv>
+      <tuv lang="SV-SE" changeid="peter" changedate="20150209T065111Z">
+        <seg>Vänligen kontakta en Alfresco säljare för att köpa ytterligare licenser.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Please contact your system administrator for further information.</seg>
       </tuv>
       <tuv lang="SV-SE" changeid="peter" changedate="20121010T192619Z">
@@ -41566,6 +41702,14 @@ RESULT:
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Press ''Delete'' button to delete an item.</seg>
+      </tuv>
+      <tuv lang="SV-SE" changeid="peter" changedate="20150209T065608Z">
+        <seg>Tryck Radera-tangenten fär att ta bort ett objekt.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Press Delete to remove this group from the system.</seg>
       </tuv>
       <tuv lang="SV-SE">
@@ -41590,6 +41734,14 @@ RESULT:
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Press Escape to de-select an item.</seg>
+      </tuv>
+      <tuv lang="SV-SE" changeid="peter" changedate="20150209T065509Z">
+        <seg>Tryck Escape för att ta bort valet.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Press cmd-c to copy</seg>
       </tuv>
       <tuv lang="SV-SE" changeid="peter" changedate="20120918T175511Z">
@@ -41602,6 +41754,14 @@ RESULT:
       </tuv>
       <tuv lang="SV-SE" changeid="peter" changedate="20120918T175456Z">
         <seg>Tryck ctrl-c för att kopiera</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Press escape to de-select an item.</seg>
+      </tuv>
+      <tuv lang="SV-SE" changeid="peter" changedate="20150209T065538Z">
+        <seg>Tryck escape för att ta bort valet.</seg>
       </tuv>
     </tu>
     <tu>
@@ -43502,6 +43662,14 @@ RESULT:
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Reimport fixed sample template.</seg>
+      </tuv>
+      <tuv lang="SV-SE" changeid="peter" changedate="20150209T064827Z">
+        <seg>Reimport fixed sample template.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Reindex usr:authorityContainer gids as identifiers</seg>
       </tuv>
       <tuv lang="SV-SE">
@@ -44114,6 +44282,14 @@ RESULT:
       </tuv>
       <tuv lang="SV-SE" changeid="peter" changedate="20110531T055652Z">
         <seg>Ta bort etikett {0}</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Remove unused columns after upgrade to 5.16.2</seg>
+      </tuv>
+      <tuv lang="SV-SE" changeid="peter" changedate="20150209T064838Z">
+        <seg>Remove unused columns after upgrade to 5.16.2</seg>
       </tuv>
     </tu>
     <tu>
@@ -47751,6 +47927,14 @@ RESULT:
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Select dashlet and press Enter to add to column.</seg>
+      </tuv>
+      <tuv lang="SV-SE" changeid="peter" changedate="20150209T065450Z">
+        <seg>Välj dashlet och tryck Retur-tangenten för att lägga till kolumn.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Select destination folder</seg>
       </tuv>
       <tuv lang="SV-SE">
@@ -49551,6 +49735,14 @@ RESULT:
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Showing first {0} only.</seg>
+      </tuv>
+      <tuv lang="SV-SE" changeid="peter" changedate="20150209T065804Z">
+        <seg>Visar bara de {0} första.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Showing first {1} only.</seg>
       </tuv>
       <tuv lang="SV-SE" changeid="peter" changedate="20130821T103047Z">
@@ -50643,6 +50835,14 @@ RESULT:
       </tuv>
       <tuv lang="SV-SE" changeid="peter" changedate="20120526T092945Z">
         <seg>Skipped, not required.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Skipping.</seg>
+      </tuv>
+      <tuv lang="SV-SE" changeid="peter" changedate="20150209T064833Z">
+        <seg>Skipping.</seg>
       </tuv>
     </tu>
     <tu>
@@ -54575,6 +54775,14 @@ RESULT:
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Template not found.</seg>
+      </tuv>
+      <tuv lang="SV-SE" changeid="peter" changedate="20150209T064829Z">
+        <seg>Template not found.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Template path</seg>
       </tuv>
       <tuv lang="SV-SE">
@@ -55340,6 +55548,30 @@ Identifikationen för en grupp kan inte ändras då den redan är fastställd. <
       </tuv>
       <tuv lang="SV-SE" changeid="peter" changedate="20110430T062925Z">
         <seg>Den tillgängliga gränsen {0} för antal dokument närmar sig.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>The allowable user limit of {0} as per your license agreement has been exceeded.</seg>
+      </tuv>
+      <tuv lang="SV-SE" changeid="peter" changedate="20150209T065207Z">
+        <seg>Den tillåta gränsen om {0} enligt din licens har överskridits.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>The allowable user limit of {0} as per your license agreement has been reached.</seg>
+      </tuv>
+      <tuv lang="SV-SE" changeid="peter" changedate="20150209T065146Z">
+        <seg>Den tillåta gränsen om {0} enligt din licens har uppnåts.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>The allowable user limit of {0} as per your license agreement is being approached.</seg>
+      </tuv>
+      <tuv lang="SV-SE" changeid="peter" changedate="20150209T065047Z">
+        <seg>Den tillåtna gränsen om {0} som tillåts av din licens närmar sig.</seg>
       </tuv>
     </tu>
     <tu>
@@ -59683,6 +59915,14 @@ Värdet {0} är ogiltigt för aktivitetens egenskap {1}.</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>This site name is already used by another site.</seg>
+      </tuv>
+      <tuv lang="SV-SE" changeid="peter" changedate="20150209T070131Z">
+        <seg>Webbplatsnamnet används redan av en annan webbplats.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>This site's membership is moderated.</seg>
       </tuv>
       <tuv lang="SV-SE" changeid="peter" changedate="20110412T180639Z">
@@ -61095,6 +61335,14 @@ Värdet {0} är ogiltigt för aktivitetens egenskap {1}.</seg>
       </tuv>
       <tuv lang="SV-SE">
         <seg>För att starta arbetsflödet klicka Slutför</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>To switch to next dashlet use Tab button.</seg>
+      </tuv>
+      <tuv lang="SV-SE" changeid="peter" changedate="20150209T065426Z">
+        <seg>För att växla till nästa dashlet använd Tab-tangenten</seg>
       </tuv>
     </tu>
     <tu>
@@ -63436,6 +63684,14 @@ Värdet {0} är ogiltigt för aktivitetens egenskap {1}.</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Uncheck</seg>
+      </tuv>
+      <tuv lang="SV-SE" changeid="peter" changedate="20150209T065639Z">
+        <seg>Avmarkera</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Undeploy all versions of a workflow definition.</seg>
       </tuv>
       <tuv lang="SV-SE">
@@ -63708,6 +63964,14 @@ Värdet {0} är ogiltigt för aktivitetens egenskap {1}.</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Unlock document</seg>
+      </tuv>
+      <tuv lang="SV-SE" changeid="peter" changedate="20150209T065954Z">
+        <seg>Lås upp dokument</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Unpublish</seg>
       </tuv>
       <tuv lang="SV-SE" changeid="peter" changedate="20110805T123820Z">
@@ -63828,6 +64092,14 @@ Värdet {0} är ogiltigt för aktivitetens egenskap {1}.</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Unused columns removed.</seg>
+      </tuv>
+      <tuv lang="SV-SE" changeid="peter" changedate="20150209T064841Z">
+        <seg>Unused columns removed.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Unzoned groups and people added to the default zones.</seg>
       </tuv>
       <tuv lang="SV-SE">
@@ -63896,6 +64168,14 @@ Värdet {0} är ogiltigt för aktivitetens egenskap {1}.</seg>
       </tuv>
       <tuv lang="SV-SE" changeid="peter" changedate="20141105T194057Z">
         <seg>Update Activiti tables from 5.16.2 to 5.16.4</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Update Activiti tables.</seg>
+      </tuv>
+      <tuv lang="SV-SE" changeid="peter" changedate="20150209T064836Z">
+        <seg>Update Activiti tables.</seg>
       </tuv>
     </tu>
     <tu>
@@ -64732,6 +65012,14 @@ Värdet {0} är ogiltigt för aktivitetens egenskap {1}.</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Use arrow keys to change columns.</seg>
+      </tuv>
+      <tuv lang="SV-SE" changeid="peter" changedate="20150209T065525Z">
+        <seg>Använd piltangenter för att ändra kolumner.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Use as a template?</seg>
       </tuv>
       <tuv lang="SV-SE">
@@ -65408,6 +65696,14 @@ Värdet {0} är ogiltigt för aktivitetens egenskap {1}.</seg>
       </tuv>
       <tuv lang="SV-SE" changeid="peter" changedate="20110430T063107Z">
         <seg>Antal användare tillagda: {1}</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Users added: {1}.</seg>
+      </tuv>
+      <tuv lang="SV-SE" changeid="peter" changedate="20150209T065226Z">
+        <seg>Användare tillagda: {1}.</seg>
       </tuv>
     </tu>
     <tu>
