@@ -2176,6 +2176,14 @@ RESULT:
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>A password is required to open this PDF</seg>
+      </tuv>
+      <tuv lang="SV-SE" changeid="peter" changedate="20150222T152228Z">
+        <seg>Ett lösenord krävs för att öppna denna PDF</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>A place for keeping and organizing documents and other spaces.</seg>
       </tuv>
       <tuv lang="SV-SE">
@@ -7354,6 +7362,14 @@ RESULT:
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Automatically select the most appropriate document size.</seg>
+      </tuv>
+      <tuv lang="SV-SE" changeid="peter" changedate="20150222T151342Z">
+        <seg>Völj den mest passande storleken för dokumentet.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Available</seg>
       </tuv>
       <tuv lang="SV-SE" changeid="peter" changedate="20110511T132401Z">
@@ -10946,6 +10962,22 @@ RESULT:
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Click to download a PDF version of the document</seg>
+      </tuv>
+      <tuv lang="SV-SE" changeid="peter" changedate="20150222T151544Z">
+        <seg>Klicka för att ladda ner PDF version av dokumentet</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Click to download the original document</seg>
+      </tuv>
+      <tuv lang="SV-SE" changeid="peter" changedate="20150222T151524Z">
+        <seg>Klicka för att ladda ner original av dokumentet</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Click to edit</seg>
       </tuv>
       <tuv lang="SV-SE" changeid="peter" changedate="20140914T094416Z">
@@ -10962,6 +10994,102 @@ RESULT:
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Click to find the next search term match in the document</seg>
+      </tuv>
+      <tuv lang="SV-SE" changeid="peter" changedate="20150222T151813Z">
+        <seg>Klicka för att visa nästa matchning i dokumentent</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Click to find the previous search term match in the document</seg>
+      </tuv>
+      <tuv lang="SV-SE" changeid="peter" changedate="20150222T151758Z">
+        <seg>Klicka för att visa föregående matchning i dokumentent</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Click to hide link controls</seg>
+      </tuv>
+      <tuv lang="SV-SE" changeid="peter" changedate="20150222T151650Z">
+        <seg>Klicka för att gömma länkkontroller</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Click to hide search controls</seg>
+      </tuv>
+      <tuv lang="SV-SE" changeid="peter" changedate="20150222T151731Z">
+        <seg>Klicka för att gömma sökkontroller</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Click to hide the sidebar</seg>
+      </tuv>
+      <tuv lang="SV-SE" changeid="peter" changedate="20150222T150753Z">
+        <seg>Klicka för att gömma sidopanel</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Click to highlight all the search term matches in the document</seg>
+      </tuv>
+      <tuv lang="SV-SE" changeid="peter" changedate="20150222T151920Z">
+        <seg>Klicka för att visa alla matchningar i dokumentet</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Click to highlight only the current search term match in the document</seg>
+      </tuv>
+      <tuv lang="SV-SE" changeid="peter" changedate="20150222T151944Z">
+        <seg>Klicka för att bara visa aktuell träff i dokumentet</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Click to ignore the case of the search term</seg>
+      </tuv>
+      <tuv lang="SV-SE" changeid="peter" changedate="20150222T152110Z">
+        <seg>Klicka för att ignorera Versaler/gemener i söktermen</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Click to increase the size of the document view</seg>
+      </tuv>
+      <tuv lang="SV-SE" changeid="peter" changedate="20150222T150953Z">
+        <seg>Klicka för att öka storleken i dokumenvyn</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Click to jump to another page in the document</seg>
+      </tuv>
+      <tuv lang="SV-SE" changeid="peter" changedate="20150222T150836Z">
+        <seg>Klicka för att gå till sida i dokumentet</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Click to make the viewer take up the entire browser window</seg>
+      </tuv>
+      <tuv lang="SV-SE" changeid="peter" changedate="20150222T151435Z">
+        <seg>Klicka för att dokumentvisaren skall täcka hela webbläsarfönstret </seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Click to make the viewer take up the entire screen</seg>
+      </tuv>
+      <tuv lang="SV-SE" changeid="peter" changedate="20150222T151453Z">
+        <seg>Klicka för att dokumentvisaren skall täcka hela skärmen</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Click to move "{0}" down a place</seg>
       </tuv>
       <tuv lang="SV-SE" changeid="peter" changedate="20140914T094655Z">
@@ -10974,6 +11102,54 @@ RESULT:
       </tuv>
       <tuv lang="SV-SE" changeid="peter" changedate="20140914T094622Z">
         <seg>Klicka för att flytta "{0}" upp ett steg</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Click to only match the exact case of the search term</seg>
+      </tuv>
+      <tuv lang="SV-SE" changeid="peter" changedate="20150222T152031Z">
+        <seg>Klicka för att endast exakt matchning av Versaler/gemener</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Click to reduce the size of the document view</seg>
+      </tuv>
+      <tuv lang="SV-SE" changeid="peter" changedate="20150222T150936Z">
+        <seg>Klicka för att reducera storleken i dokumenvyn</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Click to reveal controls for generating and copying links to the current page in the document</seg>
+      </tuv>
+      <tuv lang="SV-SE" changeid="peter" changedate="20150222T151630Z">
+        <seg>Klicka för att visa kontroller för att skapa och kopiera länkar till aktuell sida i dokumentet</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Click to reveal controls for searching the document</seg>
+      </tuv>
+      <tuv lang="SV-SE" changeid="peter" changedate="20150222T151715Z">
+        <seg>Klicka för att visa kontroller för sökning i dokumentet</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Click to see the options for downloading the document</seg>
+      </tuv>
+      <tuv lang="SV-SE" changeid="peter" changedate="20150222T151510Z">
+        <seg>Klicka för att se alternativ för nedladdning av dokumentet</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Click to see the options for maximising the view.</seg>
+      </tuv>
+      <tuv lang="SV-SE" changeid="peter" changedate="20150222T151404Z">
+        <seg>Klicka för att se alternativet för att maximera vyn.</seg>
       </tuv>
     </tu>
     <tu>
@@ -10998,6 +11174,14 @@ RESULT:
       </tuv>
       <tuv lang="SV-SE">
         <seg>Klicka för att sätta värden och addera till lista</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Click to show a sidebar containing thumbnail and outline views</seg>
+      </tuv>
+      <tuv lang="SV-SE" changeid="peter" changedate="20150222T152152Z">
+        <seg>Klicka för att visa sidopanel med miniatyrer och disposition</seg>
       </tuv>
     </tu>
     <tu>
@@ -11054,6 +11238,22 @@ RESULT:
       </tuv>
       <tuv lang="SV-SE" changeid="peter" changedate="20120810T145253Z">
         <seg>Klicka för att visa synkroniseringsinformation</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Click to view the next page</seg>
+      </tuv>
+      <tuv lang="SV-SE" changeid="peter" changedate="20150222T150817Z">
+        <seg>Klicka för att visa nästa sida</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Click to view the previous page</seg>
+      </tuv>
+      <tuv lang="SV-SE" changeid="peter" changedate="20150222T150807Z">
+        <seg>Klicka för att visa föregående sida</seg>
       </tuv>
     </tu>
     <tu>
@@ -13182,6 +13382,14 @@ RESULT:
       </tuv>
       <tuv lang="SV-SE">
         <seg>Cornish</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Correct password required</seg>
+      </tuv>
+      <tuv lang="SV-SE" changeid="peter" changedate="20150222T152212Z">
+        <seg>Korrekt lösenord krävs</seg>
       </tuv>
     </tu>
     <tu>
@@ -25114,6 +25322,22 @@ RESULT:
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Find Next</seg>
+      </tuv>
+      <tuv lang="SV-SE" changeid="peter" changedate="20150222T151801Z">
+        <seg>Hitta nästa</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Find Previous</seg>
+      </tuv>
+      <tuv lang="SV-SE" changeid="peter" changedate="20150222T151739Z">
+        <seg>Hitta föregående</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Find Sites</seg>
       </tuv>
       <tuv lang="SV-SE">
@@ -26890,6 +27114,14 @@ RESULT:
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Goto Page</seg>
+      </tuv>
+      <tuv lang="SV-SE" changeid="peter" changedate="20150222T150821Z">
+        <seg>Gå till sida</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Goto step</seg>
       </tuv>
       <tuv lang="SV-SE" changeid="peter" changedate="20130821T135810Z">
@@ -27682,6 +27914,22 @@ RESULT:
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Hide Sidebar</seg>
+      </tuv>
+      <tuv lang="SV-SE" changeid="peter" changedate="20150222T150741Z">
+        <seg>Göm sidopanel</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Hide link controls</seg>
+      </tuv>
+      <tuv lang="SV-SE" changeid="peter" changedate="20150222T151638Z">
+        <seg>Göm länkkontroller</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Hide or Show the Sidebar</seg>
       </tuv>
       <tuv lang="SV-SE">
@@ -27702,6 +27950,14 @@ RESULT:
       </tuv>
       <tuv lang="SV-SE">
         <seg>Göm svar</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Hide search controls</seg>
+      </tuv>
+      <tuv lang="SV-SE" changeid="peter" changedate="20150222T151721Z">
+        <seg>Göm sökkontroller</seg>
       </tuv>
     </tu>
     <tu>
@@ -27738,10 +27994,26 @@ RESULT:
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Highlight All Matches</seg>
+      </tuv>
+      <tuv lang="SV-SE" changeid="peter" changedate="20150222T151827Z">
+        <seg>Visa alla träffar</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Highlight all</seg>
       </tuv>
       <tuv lang="SV-SE" changeid="peter" changedate="20140407T102251Z">
         <seg>Markera alla</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Hightlight Current Match</seg>
+      </tuv>
+      <tuv lang="SV-SE" changeid="peter" changedate="20150222T151952Z">
+        <seg>Visa aktuell träff</seg>
       </tuv>
     </tu>
     <tu>
@@ -28518,6 +28790,14 @@ RESULT:
       </tuv>
       <tuv lang="SV-SE">
         <seg>Igbo</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Ignore Case</seg>
+      </tuv>
+      <tuv lang="SV-SE" changeid="peter" changedate="20150222T152046Z">
+        <seg>Ignorera Versaler/gemener</seg>
       </tuv>
     </tu>
     <tu>
@@ -30218,6 +30498,14 @@ RESULT:
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>It has not been possible to load the PDF file</seg>
+      </tuv>
+      <tuv lang="SV-SE" changeid="peter" changedate="20150222T152250Z">
+        <seg>Det var inte möjligt att öppna PDF-filen</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>It is 0 bytes in size and cannot be uploaded.</seg>
       </tuv>
       <tuv lang="SV-SE" changeid="peter" changedate="20110511T130828Z">
@@ -30366,6 +30654,14 @@ RESULT:
       </tuv>
       <tuv lang="SV-SE">
         <seg>Det kommer ha en admin</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>It will not be possible to open this PDF without the correct password</seg>
+      </tuv>
+      <tuv lang="SV-SE" changeid="peter" changedate="20150222T152327Z">
+        <seg>Det kommer inte vara möjligt att öppan denna PDF utan korrekt lösenord</seg>
       </tuv>
     </tu>
     <tu>
@@ -33812,6 +34108,14 @@ RESULT:
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Match Case</seg>
+      </tuv>
+      <tuv lang="SV-SE" changeid="peter" changedate="20150222T151959Z">
+        <seg>Matcha Versaler/gemener</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Match case</seg>
       </tuv>
       <tuv lang="SV-SE" changeid="peter" changedate="20140407T102311Z">
@@ -33888,6 +34192,14 @@ RESULT:
       </tuv>
       <tuv lang="SV-SE" changeid="peter" changedate="20110511T132601Z">
         <seg>Max.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Maximise</seg>
+      </tuv>
+      <tuv lang="SV-SE" changeid="peter" changedate="20150222T151347Z">
+        <seg>Maximera</seg>
       </tuv>
     </tu>
     <tu>
@@ -39462,6 +39774,14 @@ RESULT:
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Outline</seg>
+      </tuv>
+      <tuv lang="SV-SE" changeid="peter" changedate="20150222T152142Z">
+        <seg>Disposition</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Output</seg>
       </tuv>
       <tuv lang="SV-SE">
@@ -39642,6 +39962,30 @@ RESULT:
       </tuv>
       <tuv lang="SV-SE">
         <seg>Sida &lt;b&gt;{0}&lt;/b&gt; av &lt;b&gt;{1}&lt;/b&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Page Fit</seg>
+      </tuv>
+      <tuv lang="SV-SE" changeid="peter" changedate="20150222T151247Z">
+        <seg>Passa sida</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Page Number</seg>
+      </tuv>
+      <tuv lang="SV-SE" changeid="peter" changedate="20150222T150851Z">
+        <seg>Sidnummet</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Page Width</seg>
+      </tuv>
+      <tuv lang="SV-SE" changeid="peter" changedate="20150222T151147Z">
+        <seg>Sidbredd</seg>
       </tuv>
     </tu>
     <tu>
@@ -40010,6 +40354,14 @@ RESULT:
       </tuv>
       <tuv lang="SV-SE">
         <seg>Lösenordet måste vara mellan {0} och {1} tecken långt.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Password required</seg>
+      </tuv>
+      <tuv lang="SV-SE" changeid="peter" changedate="20150222T152203Z">
+        <seg>Lösenord krävs</seg>
       </tuv>
     </tu>
     <tu>
@@ -41710,6 +42062,14 @@ RESULT:
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Press Delete to delete an item.</seg>
+      </tuv>
+      <tuv lang="SV-SE" changeid="peter" changedate="20150222T152632Z">
+        <seg>Tryck Radera för att ta bort det som markerats.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Press Delete to remove this group from the system.</seg>
       </tuv>
       <tuv lang="SV-SE">
@@ -41742,6 +42102,14 @@ RESULT:
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Press Escape to deselect an item.</seg>
+      </tuv>
+      <tuv lang="SV-SE" changeid="peter" changedate="20150222T152553Z">
+        <seg>Tryck Esc-tangenten för att ta bort valet</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Press cmd-c to copy</seg>
       </tuv>
       <tuv lang="SV-SE" changeid="peter" changedate="20120918T175511Z">
@@ -41762,6 +42130,14 @@ RESULT:
       </tuv>
       <tuv lang="SV-SE" changeid="peter" changedate="20150209T065538Z">
         <seg>Tryck escape för att ta bort valet.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Press the Esc key to deselect an item.</seg>
+      </tuv>
+      <tuv lang="SV-SE" changeid="peter" changedate="20150222T152454Z">
+        <seg>Tryck Esc-tangenten för att ta bort valet.</seg>
       </tuv>
     </tu>
     <tu>
@@ -42354,6 +42730,14 @@ RESULT:
       </tuv>
       <tuv lang="SV-SE">
         <seg>Ange information för File System Receiver att lägga till</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Provide the number of the page to jump to</seg>
+      </tuv>
+      <tuv lang="SV-SE" changeid="peter" changedate="20150222T150906Z">
+        <seg>Ange sidnummer att gå till</seg>
       </tuv>
     </tu>
     <tu>
@@ -48143,6 +48527,14 @@ RESULT:
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Select the dashlet and press Enter to add to column.</seg>
+      </tuv>
+      <tuv lang="SV-SE" changeid="peter" changedate="20150222T152429Z">
+        <seg>Välj dashlet och tryck Enter för att lägga till kolumn.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Select the destination server(s) to deploy to</seg>
       </tuv>
       <tuv lang="SV-SE">
@@ -49007,6 +49399,14 @@ RESULT:
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Set Page</seg>
+      </tuv>
+      <tuv lang="SV-SE" changeid="peter" changedate="20150222T150844Z">
+        <seg>Ställ in sida</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Set Status</seg>
       </tuv>
       <tuv lang="SV-SE" changeid="peter" changedate="20130822T055701Z">
@@ -49127,10 +49527,106 @@ RESULT:
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Set the document view size to be 100%</seg>
+      </tuv>
+      <tuv lang="SV-SE" changeid="peter" changedate="20150222T151118Z">
+        <seg>Sätt dokumentvyn till 100%</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Set the document view size to be 125%</seg>
+      </tuv>
+      <tuv lang="SV-SE" changeid="peter" changedate="20150222T151123Z">
+        <seg>Sätt dokumentvyn till 125%</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Set the document view size to be 150%</seg>
+      </tuv>
+      <tuv lang="SV-SE" changeid="peter" changedate="20150222T151130Z">
+        <seg>Sätt dokumentvyn till 150%</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Set the document view size to be 200%</seg>
+      </tuv>
+      <tuv lang="SV-SE" changeid="peter" changedate="20150222T151135Z">
+        <seg>Sätt dokumentvyn till 200%</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Set the document view size to be 25%</seg>
+      </tuv>
+      <tuv lang="SV-SE" changeid="peter" changedate="20150222T151059Z">
+        <seg>Sätt dokumentvyn till 25%</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Set the document view size to be 400%</seg>
+      </tuv>
+      <tuv lang="SV-SE" changeid="peter" changedate="20150222T151141Z">
+        <seg>Sätt dokumentvyn till 400%</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Set the document view size to be 50%</seg>
+      </tuv>
+      <tuv lang="SV-SE" changeid="peter" changedate="20150222T151107Z">
+        <seg>Sätt dokumentvyn till 50%</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Set the document view size to be 75%</seg>
+      </tuv>
+      <tuv lang="SV-SE" changeid="peter" changedate="20150222T151112Z">
+        <seg>Sätt dokumentvyn till 75%</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Set the value of a property</seg>
       </tuv>
       <tuv lang="SV-SE">
         <seg>Sätt värdet för en egenskap</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Set the viewer to show the full height of a single page of the document</seg>
+      </tuv>
+      <tuv lang="SV-SE" changeid="peter" changedate="20150222T151258Z">
+        <seg>Sätt dokumentvisare till full höjd för en sida i dokumentet</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Set the viewer to show the full height of two pages of the document</seg>
+      </tuv>
+      <tuv lang="SV-SE" changeid="peter" changedate="20150222T151318Z">
+        <seg>Sätt dokumentvisare till full höjd för två sidor i dokumentet</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Set the viewer to show the full width of a single page the document</seg>
+      </tuv>
+      <tuv lang="SV-SE" changeid="peter" changedate="20150222T151222Z">
+        <seg>Sätt dokumentvisare till full bredd för en sida i dokumentet</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Set the viewer to show the full width of two pages of the document</seg>
+      </tuv>
+      <tuv lang="SV-SE" changeid="peter" changedate="20150222T151243Z">
+        <seg>Sätt dokumentvisare till full bredd för två sidor i dokumentet</seg>
       </tuv>
     </tu>
     <tu>
@@ -49535,6 +50031,14 @@ RESULT:
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Show Sidebar</seg>
+      </tuv>
+      <tuv lang="SV-SE" changeid="peter" changedate="20150222T150708Z">
+        <seg>Visa sidopanel</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Show System Groups</seg>
       </tuv>
       <tuv lang="SV-SE" changeid="peter" changedate="20110412T144627Z">
@@ -49623,6 +50127,14 @@ RESULT:
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Show link controls</seg>
+      </tuv>
+      <tuv lang="SV-SE" changeid="peter" changedate="20150222T151555Z">
+        <seg>Visa länkkontroller</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Show list of files located at &lt;filesClassPath&gt; with first match being listed for each filename.</seg>
       </tuv>
       <tuv lang="SV-SE">
@@ -49683,6 +50195,14 @@ RESULT:
       </tuv>
       <tuv lang="SV-SE">
         <seg>Visa svar</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Show search controls</seg>
+      </tuv>
+      <tuv lang="SV-SE" changeid="peter" changedate="20150222T151656Z">
+        <seg>Visa sökkontroller</seg>
       </tuv>
     </tu>
     <tu>
@@ -55264,6 +55784,14 @@ Identifikationen för en grupp kan inte ändras då den redan är fastställd. <
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>The PDF file appears to be invalid or corrupt</seg>
+      </tuv>
+      <tuv lang="SV-SE" changeid="peter" changedate="20150222T152305Z">
+        <seg>PDF-filen verkar ogiltig eller korrupt</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>The Person's e-mail address</seg>
       </tuv>
       <tuv lang="SV-SE">
@@ -59747,6 +60275,14 @@ Värdet {0} är ogiltigt för aktivitetens egenskap {1}.</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>This menu allows you to select from a number of preset document view sizes</seg>
+      </tuv>
+      <tuv lang="SV-SE" changeid="peter" changedate="20150222T151028Z">
+        <seg>Menyn låter dig välja från förinställda storlekar på dokumentvyn</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>This month</seg>
       </tuv>
       <tuv lang="SV-SE" changeid="peter" changedate="20140526T072634Z">
@@ -60575,6 +61111,14 @@ Värdet {0} är ogiltigt för aktivitetens egenskap {1}.</seg>
       </tuv>
       <tuv lang="SV-SE">
         <seg>Kan kastas</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Thumbnails</seg>
+      </tuv>
+      <tuv lang="SV-SE" changeid="peter" changedate="20150222T152127Z">
+        <seg>Miniatyrer</seg>
       </tuv>
     </tu>
     <tu>
@@ -62351,6 +62895,22 @@ Värdet {0} är ogiltigt för aktivitetens egenskap {1}.</seg>
       </tuv>
       <tuv lang="SV-SE">
         <seg>Två kolumner, smal till höger</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Two Page Fit</seg>
+      </tuv>
+      <tuv lang="SV-SE" changeid="peter" changedate="20150222T151305Z">
+        <seg>Passa två sidor</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Two Page Width</seg>
+      </tuv>
+      <tuv lang="SV-SE" changeid="peter" changedate="20150222T151229Z">
+        <seg>Två sidors bredd</seg>
       </tuv>
     </tu>
     <tu>
@@ -64364,6 +64924,14 @@ Värdet {0} är ogiltigt för aktivitetens egenskap {1}.</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Update link for current page</seg>
+      </tuv>
+      <tuv lang="SV-SE" changeid="peter" changedate="20150222T152119Z">
+        <seg>Updatera länk för aktuell sida</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Update on:</seg>
       </tuv>
       <tuv lang="SV-SE" changeid="peter" changedate="20110809T062932Z">
@@ -65072,6 +65640,14 @@ Värdet {0} är ogiltigt för aktivitetens egenskap {1}.</seg>
       </tuv>
       <tuv lang="SV-SE" changeid="peter" changedate="20120415T074140Z">
         <seg>Använd Tab och Shift + Tab tangenterna för att gå igenom fälten med ogiltiga data.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Use the arrow keys to move the selected dashlet.</seg>
+      </tuv>
+      <tuv lang="SV-SE" changeid="peter" changedate="20150222T152535Z">
+        <seg>Använd piltangenterna för att flytta vald dashlet.</seg>
       </tuv>
     </tu>
     <tu>
@@ -67613,6 +68189,22 @@ Värdet {0} är ogiltigt för aktivitetens egenskap {1}.</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>When using the keyboard, use the Tab key to move to the next dashlet.</seg>
+      </tuv>
+      <tuv lang="SV-SE" changeid="peter" changedate="20150222T152400Z">
+        <seg>När du använder tangerbort, använd Tab-tangenten för att hoppa till nästa dashlet</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>When using the keyboard, use the Tab key to select a dashlet.</seg>
+      </tuv>
+      <tuv lang="SV-SE" changeid="peter" changedate="20150222T152517Z">
+        <seg>När du använder tangerbort, använd Tab-tangenten för att välja en dashlet.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>When you have completed your changes you need to check in the file to allow others to view the changes.</seg>
       </tuv>
       <tuv lang="SV-SE">
@@ -69665,6 +70257,22 @@ Värdet {0} är ogiltigt för aktivitetens egenskap {1}.</seg>
       </tuv>
       <tuv lang="SV-SE">
         <seg>Postnummer</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Zoom In</seg>
+      </tuv>
+      <tuv lang="SV-SE" changeid="peter" changedate="20150222T150942Z">
+        <seg>Zooma in</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Zoom Out</seg>
+      </tuv>
+      <tuv lang="SV-SE" changeid="peter" changedate="20150222T150915Z">
+        <seg>Zooma ut</seg>
       </tuv>
     </tu>
     <tu>
