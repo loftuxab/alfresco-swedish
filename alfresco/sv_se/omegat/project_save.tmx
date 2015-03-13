@@ -1646,6 +1646,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>&lt;collection&gt;</seg>
+      </tuv>
+      <tuv lang="SV-SE" changeid="peter" changedate="20150313T132551Z">
+        <seg>&lt;kollektion&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>&lt;definitionClassPath&gt; class path to workflow definition file.</seg>
       </tuv>
       <tuv lang="SV-SE">
@@ -1714,6 +1722,14 @@
       </tuv>
       <tuv lang="SV-SE">
         <seg>&lt;inget schema är valt&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>&lt;none&gt;</seg>
+      </tuv>
+      <tuv lang="SV-SE" changeid="peter" changedate="20150313T132544Z">
+        <seg>&lt;ingen&gt;</seg>
       </tuv>
     </tu>
     <tu>
@@ -4304,6 +4320,14 @@ RESULT:
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Alfresco Admin Console</seg>
+      </tuv>
+      <tuv lang="SV-SE" changeid="peter" changedate="20150313T120237Z">
+        <seg>Alfresco Administratörskonsoll</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Alfresco Application Model</seg>
       </tuv>
       <tuv lang="SV-SE">
@@ -4600,6 +4624,14 @@ RESULT:
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Alfresco database schema number.</seg>
+      </tuv>
+      <tuv lang="SV-SE" changeid="peter" changedate="20150313T120754Z">
+        <seg>Alfresco databas schema-nummer.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Alfresco is currently in read-only mode.</seg>
       </tuv>
       <tuv lang="SV-SE" changeid="peter" changedate="20110430T063408Z">
@@ -4660,6 +4692,14 @@ RESULT:
       </tuv>
       <tuv lang="SV-SE" changeid="peter" changedate="20110430T063304Z">
         <seg>Alfresco startade ({0}{1}{2}).</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Alfresco version and build number.</seg>
+      </tuv>
+      <tuv lang="SV-SE" changeid="peter" changedate="20150313T120738Z">
+        <seg>Alfresco version och bygg-nummer</seg>
       </tuv>
     </tu>
     <tu>
@@ -5990,6 +6030,14 @@ RESULT:
       </tuv>
       <tuv lang="SV-SE">
         <seg>Aragonese</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Architecture</seg>
+      </tuv>
+      <tuv lang="SV-SE" changeid="peter" changedate="20150313T120702Z">
+        <seg>Arkitektur</seg>
       </tuv>
     </tu>
     <tu>
@@ -8614,6 +8662,14 @@ RESULT:
       </tuv>
       <tuv lang="SV-SE">
         <seg>INNEHÅLL INTEGRITETSFEL: Systeminnehåll hittas inte i innhållets datalager.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>CPUs</seg>
+      </tuv>
+      <tuv lang="SV-SE" changeid="peter" changedate="20150313T120633Z">
+        <seg>CPU</seg>
       </tuv>
     </tu>
     <tu>
@@ -11666,6 +11722,14 @@ RESULT:
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Command (type 'help' for help)</seg>
+      </tuv>
+      <tuv lang="SV-SE" changeid="peter" changedate="20150313T120843Z">
+        <seg>Kommando (skriv 'help' för hjälp)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Command (type help for help)</seg>
       </tuv>
       <tuv lang="SV-SE">
@@ -11686,6 +11750,30 @@ RESULT:
       </tuv>
       <tuv lang="SV-SE">
         <seg>Kommandoverktyg</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Command console for Model and Messages admin.</seg>
+      </tuv>
+      <tuv lang="SV-SE" changeid="peter" changedate="20150313T120522Z">
+        <seg>Kommandokonsoll för modell- och meddelandeadministraör</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Command console for Tenant admin.</seg>
+      </tuv>
+      <tuv lang="SV-SE" changeid="peter" changedate="20150313T120435Z">
+        <seg>Kommandokonsoll för Tenant-administratören</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Command console for Workflow admin.</seg>
+      </tuv>
+      <tuv lang="SV-SE" changeid="peter" changedate="20150313T120545Z">
+        <seg>Kommandokonsoll för Arbetsflödesadministratören</seg>
       </tuv>
     </tu>
     <tu>
@@ -12582,6 +12670,14 @@ RESULT:
       </tuv>
       <tuv lang="SV-SE" changeid="peter" changedate="20140627T163937Z">
         <seg>Överväg istället att avaktivera kontot.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Consoles</seg>
+      </tuv>
+      <tuv lang="SV-SE" changeid="peter" changedate="20150313T120330Z">
+        <seg>Konsoller</seg>
       </tuv>
     </tu>
     <tu>
@@ -13698,6 +13794,14 @@ RESULT:
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Could not create content based on template '{0}'</seg>
+      </tuv>
+      <tuv lang="SV-SE" changeid="peter" changedate="20150313T120149Z">
+        <seg>Kunde inte skapa innehåll baserat på mall '{0}'</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Could not create folder based on template ''{0}''</seg>
       </tuv>
       <tuv lang="SV-SE" changeid="peter" changedate="20130821T103402Z">
@@ -14586,6 +14690,14 @@ RESULT:
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Create Content Failed</seg>
+      </tuv>
+      <tuv lang="SV-SE" changeid="peter" changedate="20150313T120132Z">
+        <seg>Skapa innehåll misslyckades</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Create Content Items</seg>
       </tuv>
       <tuv lang="SV-SE" changeid="peter" changedate="20130822T062215Z">
@@ -15398,6 +15510,14 @@ RESULT:
       </tuv>
       <tuv lang="SV-SE" changeid="peter" changedate="20120421T101450Z">
         <seg>Innehåll skapat baserat på mall ''{0}''</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Created content based on template '{0}'</seg>
+      </tuv>
+      <tuv lang="SV-SE" changeid="peter" changedate="20150313T120125Z">
+        <seg>Skapade innehåll baserat på mall '{0}'</seg>
       </tuv>
     </tu>
     <tu>
@@ -22466,6 +22586,14 @@ RESULT:
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Execute</seg>
+      </tuv>
+      <tuv lang="SV-SE" changeid="peter" changedate="20150313T120849Z">
+        <seg>Exekvera</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Execute ''{param.script-ref}'' script</seg>
       </tuv>
       <tuv lang="SV-SE" changeid="peter" changedate="20120421T102705Z">
@@ -26546,6 +26674,14 @@ RESULT:
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Free Memory (GB)</seg>
+      </tuv>
+      <tuv lang="SV-SE" changeid="peter" changedate="20150313T120603Z">
+        <seg>Fritt minne (GB)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>FreeMarker</seg>
       </tuv>
       <tuv lang="SV-SE" changeid="peter" changedate="20110809T063355Z">
@@ -27946,6 +28082,14 @@ RESULT:
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Hide Password</seg>
+      </tuv>
+      <tuv lang="SV-SE" changeid="peter" changedate="20150313T120301Z">
+        <seg>Göm lösenord</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Hide Sidebar</seg>
       </tuv>
       <tuv lang="SV-SE" changeid="peter" changedate="20150222T150741Z">
@@ -28454,6 +28598,14 @@ RESULT:
       </tuv>
       <tuv lang="SV-SE">
         <seg>IO Error under bearbetning av mall ''{0}''.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>IP</seg>
+      </tuv>
+      <tuv lang="SV-SE" changeid="peter" changedate="20150313T120250Z">
+        <seg>IP</seg>
       </tuv>
     </tu>
     <tu>
@@ -29526,6 +29678,30 @@ RESULT:
       </tuv>
       <tuv lang="SV-SE" changeid="peter" changedate="20130314T134806Z">
         <seg>Information om OpenOffice kunde inte hittas (kanske är "ooo.enabled" satt till "false"?</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Information about a widget without an identifier</seg>
+      </tuv>
+      <tuv lang="SV-SE" changeid="peter" changedate="20150313T120105Z">
+        <seg>Information om en widget utan en identifierare</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Information about widget {0}</seg>
+      </tuv>
+      <tuv lang="SV-SE" changeid="peter" changedate="20150313T120050Z">
+        <seg>Information om widget {0}</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Information is currently unavailable!</seg>
+      </tuv>
+      <tuv lang="SV-SE" changeid="peter" changedate="20150313T120314Z">
+        <seg>Informationen är för närvarande inte tillgänglig</seg>
       </tuv>
     </tu>
     <tu>
@@ -31158,6 +31334,30 @@ RESULT:
       </tuv>
       <tuv lang="SV-SE" changeid="peter" changedate="20110430T060558Z">
         <seg>Japansk version</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Java Home</seg>
+      </tuv>
+      <tuv lang="SV-SE" changeid="peter" changedate="20150313T120640Z">
+        <seg>Java Home</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Java VM Vendor</seg>
+      </tuv>
+      <tuv lang="SV-SE" changeid="peter" changedate="20150313T120651Z">
+        <seg>Java VM Leverantör</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Java Version</seg>
+      </tuv>
+      <tuv lang="SV-SE" changeid="peter" changedate="20150313T120644Z">
+        <seg>Java version</seg>
       </tuv>
     </tu>
     <tu>
@@ -34220,6 +34420,14 @@ RESULT:
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Max Results</seg>
+      </tuv>
+      <tuv lang="SV-SE" changeid="peter" changedate="20150313T132526Z">
+        <seg>Max resultat</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Max Users</seg>
       </tuv>
       <tuv lang="SV-SE" changeid="peter" changedate="20110511T132356Z">
@@ -34272,6 +34480,14 @@ RESULT:
       </tuv>
       <tuv lang="SV-SE" changeid="peter" changedate="20110511T132126Z">
         <seg>Maximalt minne</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Maximum Memory (GB)</seg>
+      </tuv>
+      <tuv lang="SV-SE" changeid="peter" changedate="20150313T120613Z">
+        <seg>Maximalt minne (GB)</seg>
       </tuv>
     </tu>
     <tu>
@@ -34960,6 +35176,14 @@ RESULT:
       </tuv>
       <tuv lang="SV-SE" changeid="peter" changedate="20111115T081630Z">
         <seg>Modelnamn</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Model and Messages Console</seg>
+      </tuv>
+      <tuv lang="SV-SE" changeid="peter" changedate="20150313T120451Z">
+        <seg>Modell- och meddelandekonsoll</seg>
       </tuv>
     </tu>
     <tu>
@@ -38340,6 +38564,14 @@ RESULT:
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Node Information</seg>
+      </tuv>
+      <tuv lang="SV-SE" changeid="peter" changedate="20150313T132601Z">
+        <seg>Nod-information</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Node Templates</seg>
       </tuv>
       <tuv lang="SV-SE" changeid="peter" changedate="20110818T054759Z">
@@ -38652,6 +38884,14 @@ RESULT:
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Not Installed</seg>
+      </tuv>
+      <tuv lang="SV-SE" changeid="peter" changedate="20150313T120319Z">
+        <seg>Inte installerad</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Not Modified</seg>
       </tuv>
       <tuv lang="SV-SE">
@@ -38866,6 +39106,14 @@ RESULT:
       </tuv>
       <tuv lang="SV-SE">
         <seg>Inget att göra (ingen versionshistorik hittades i föregående version store)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Notification</seg>
+      </tuv>
+      <tuv lang="SV-SE" changeid="peter" changedate="20150313T120213Z">
+        <seg>Notifiering</seg>
       </tuv>
     </tu>
     <tu>
@@ -39518,6 +39766,14 @@ RESULT:
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Operating System</seg>
+      </tuv>
+      <tuv lang="SV-SE" changeid="peter" changedate="20150313T120656Z">
+        <seg>Operativsystem</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Operation</seg>
       </tuv>
       <tuv lang="SV-SE">
@@ -39530,6 +39786,14 @@ RESULT:
       </tuv>
       <tuv lang="SV-SE" changeid="peter" changedate="20140914T095030Z">
         <seg>Åtgärden utfördes</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Operation Failed</seg>
+      </tuv>
+      <tuv lang="SV-SE" changeid="peter" changedate="20150313T120201Z">
+        <seg>Åtgärden misslyckades</seg>
       </tuv>
     </tu>
     <tu>
@@ -43166,6 +43430,14 @@ RESULT:
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Query</seg>
+      </tuv>
+      <tuv lang="SV-SE" changeid="peter" changedate="20150313T120949Z">
+        <seg>Fråga</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Query for tasks.</seg>
       </tuv>
       <tuv lang="SV-SE">
@@ -45254,6 +45526,30 @@ RESULT:
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Repository Identifier</seg>
+      </tuv>
+      <tuv lang="SV-SE" changeid="peter" changedate="20150313T120722Z">
+        <seg>Indentifierare Repository</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Repository Information</seg>
+      </tuv>
+      <tuv lang="SV-SE" changeid="peter" changedate="20150313T120821Z">
+        <seg>Repository Information</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Repository Node Browser tool.</seg>
+      </tuv>
+      <tuv lang="SV-SE" changeid="peter" changedate="20150313T120553Z">
+        <seg>Alfresco nodutforskare</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Repository Port</seg>
       </tuv>
       <tuv lang="SV-SE" changeid="peter" changedate="20110511T133106Z">
@@ -45354,6 +45650,14 @@ RESULT:
       </tuv>
       <tuv lang="SV-SE" changeid="peter" changedate="20130807T063817Z">
         <seg>Begär godkännande från en eller flera kollegor</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Request failed due to error.</seg>
+      </tuv>
+      <tuv lang="SV-SE" changeid="peter" changedate="20150313T120320Z">
+        <seg>Request failed due to error.</seg>
       </tuv>
     </tu>
     <tu>
@@ -45770,6 +46074,14 @@ RESULT:
       </tuv>
       <tuv lang="SV-SE">
         <seg>Skicka igen för granskning</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Result</seg>
+      </tuv>
+      <tuv lang="SV-SE" changeid="peter" changedate="20150313T120857Z">
+        <seg>Resultat</seg>
       </tuv>
     </tu>
     <tu>
@@ -46338,6 +46650,14 @@ RESULT:
       </tuv>
       <tuv lang="SV-SE">
         <seg>Rotgrupper</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Root List</seg>
+      </tuv>
+      <tuv lang="SV-SE" changeid="peter" changedate="20150313T132504Z">
+        <seg>Rot-lista</seg>
       </tuv>
     </tu>
     <tu>
@@ -47242,6 +47562,14 @@ RESULT:
       </tuv>
       <tuv lang="SV-SE" changeid="peter" changedate="20130821T132731Z">
         <seg>Sök:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Search Advanced Settings</seg>
+      </tuv>
+      <tuv lang="SV-SE" changeid="peter" changedate="20150313T132518Z">
+        <seg>Sök avanceras inställningar</seg>
       </tuv>
     </tu>
     <tu>
@@ -50079,6 +50407,14 @@ RESULT:
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Show Password</seg>
+      </tuv>
+      <tuv lang="SV-SE" changeid="peter" changedate="20150313T120255Z">
+        <seg>Visa lösenord</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Show Path</seg>
       </tuv>
       <tuv lang="SV-SE" changeid="peter" changedate="20130822T055810Z">
@@ -51307,6 +51643,14 @@ RESULT:
       </tuv>
       <tuv lang="SV-SE" changeid="peter" changedate="20130822T170935Z">
         <seg>Hoppa över</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Skip Count</seg>
+      </tuv>
+      <tuv lang="SV-SE" changeid="peter" changedate="20150313T132535Z">
+        <seg>Hoppa över antal</seg>
       </tuv>
     </tu>
     <tu>
@@ -53959,6 +54303,14 @@ RESULT:
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Successfully saved values.</seg>
+      </tuv>
+      <tuv lang="SV-SE" changeid="peter" changedate="20150313T120246Z">
+        <seg>Lyckades spara värden</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Successfully submitted item: {0}</seg>
       </tuv>
       <tuv lang="SV-SE">
@@ -54119,6 +54471,14 @@ RESULT:
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Summary of general Alfresco System information</seg>
+      </tuv>
+      <tuv lang="SV-SE" changeid="peter" changedate="20150313T120404Z">
+        <seg>Översikt över generell Alfresco systeminformation</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Sun,Mon,Tue,Wed,Thu,Fri,Sat</seg>
       </tuv>
       <tuv lang="SV-SE">
@@ -54155,6 +54515,14 @@ RESULT:
       </tuv>
       <tuv lang="SV-SE" changeid="peter" changedate="20120420T185758Z">
         <seg>Tillhandahålls utan kostnad utan &lt;a href='http://www.alfresco.com/services/support/communityterms/#support'&gt;support&lt;/a&gt;, &lt;a href='http://www.alfresco.com/services/support/communityterms/#certification'&gt;ingen certifiering&lt;/a&gt;, &lt;a href='http://www.alfresco.com/services/support/communityterms/#maintenance'&gt;inget underhåll&lt;/a&gt;, &lt;a href='http://www.alfresco.com/services/support/communityterms/#warranty'&gt;inga garantier&lt;/a&gt; och &lt;a href='http://www.alfresco.com/services/support/communityterms/#indemnity'&gt;inget patentskydd&lt;/a&gt; av &lt;a href='http://www.alfresco.com'&gt;Alfresco&lt;/a&gt; eller dess &lt;a href='http://www.alfresco.com/partners/'&gt;Certifierade Partners&lt;/a&gt;. &lt;a href='http://code.google.com/p/alfresco-swedish/'&gt;Översättning till Svenska.&lt;/a&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Support Tools</seg>
+      </tuv>
+      <tuv lang="SV-SE" changeid="peter" changedate="20150313T120327Z">
+        <seg>Supportverktyg</seg>
       </tuv>
     </tu>
     <tu>
@@ -54435,6 +54803,14 @@ RESULT:
       </tuv>
       <tuv lang="SV-SE">
         <seg>Systemegenskaper</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>System Summary</seg>
+      </tuv>
+      <tuv lang="SV-SE" changeid="peter" changedate="20150313T120346Z">
+        <seg>Systemöversikt</seg>
       </tuv>
     </tu>
     <tu>
@@ -55418,6 +55794,14 @@ RESULT:
         <seg>Tenant Admin Console</seg>
       </tuv>
       <tuv lang="SV-SE">
+        <seg>Tenant Administratörskonsol</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Tenant Console</seg>
+      </tuv>
+      <tuv lang="SV-SE" changeid="peter" changedate="20150313T120412Z">
         <seg>Tenant Administratörskonsol</seg>
       </tuv>
     </tu>
@@ -62267,6 +62651,14 @@ Värdet {0} är ogiltigt för aktivitetens egenskap {1}.</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Total Memory (GB)</seg>
+      </tuv>
+      <tuv lang="SV-SE" changeid="peter" changedate="20150313T120624Z">
+        <seg>Totalt minne (GB)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Total Quota (for this search)</seg>
       </tuv>
       <tuv lang="SV-SE">
@@ -64464,6 +64856,14 @@ Värdet {0} är ogiltigt för aktivitetens egenskap {1}.</seg>
       </tuv>
       <tuv lang="SV-SE">
         <seg>Unik identifierare</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Unique identifier for this repository instance.</seg>
+      </tuv>
+      <tuv lang="SV-SE" changeid="peter" changedate="20150313T120813Z">
+        <seg>Unik identifierare för denna instans av repository</seg>
       </tuv>
     </tu>
     <tu>
@@ -66884,6 +67284,14 @@ Värdet {0} är ogiltigt för aktivitetens egenskap {1}.</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Version Number</seg>
+      </tuv>
+      <tuv lang="SV-SE" changeid="peter" changedate="20150313T120707Z">
+        <seg>Versionsnummer</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Version Store migration (from lightWeightVersionStore to version2Store)</seg>
       </tuv>
       <tuv lang="SV-SE">
@@ -68617,6 +69025,14 @@ Värdet {0} är ogiltigt för aktivitetens egenskap {1}.</seg>
       </tuv>
       <tuv lang="SV-SE">
         <seg>Arbetsflöde</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Workflow Admin Console</seg>
+      </tuv>
+      <tuv lang="SV-SE" changeid="peter" changedate="20150313T120938Z">
+        <seg>Arbetsflödesadminstratörskonsoll</seg>
       </tuv>
     </tu>
     <tu>

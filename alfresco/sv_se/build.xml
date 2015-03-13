@@ -235,7 +235,13 @@
                  from="^([^_]*).txt$"
                  to="\1_sv.txt"/>
 		</copy>
-
+		<!-- Need the sv_SE variant for the consoles to work -->
+		<copy todir="${alfresco.amp.messages.dir}">
+			<fileset dir="${project.dir}/target/repository" defaultexcludes="false" />
+         	<mapper type="regexp"
+                 from="^([^_]*).txt$"
+                 to="\1_sv_SE.txt"/>
+		</copy>
 		<copy todir="${alfresco.amp.messages.dir}">
 			<fileset dir="${project.dir}/target/web-framework-commons/messages" defaultexcludes="false"/>
          	<mapper type="regexp"
