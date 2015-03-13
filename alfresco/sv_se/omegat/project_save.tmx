@@ -1638,6 +1638,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>&lt;br&gt;If the object must stay in the cloud at once execute ''Remove sync'' action.</seg>
+      </tuv>
+      <tuv lang="SV-SE" changeid="peter" changedate="20150305T145027Z">
+        <seg>&lt;br&gt;Om objektet måste stanna i molnet nu exekvera ''Ta bort synkronisering''.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>&lt;definitionClassPath&gt; class path to workflow definition file.</seg>
       </tuv>
       <tuv lang="SV-SE">
@@ -3324,6 +3332,14 @@ RESULT:
       </tuv>
       <tuv lang="SV-SE">
         <seg>Lägg till dokument i din personliga mapp</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Add current site to Favorites</seg>
+      </tuv>
+      <tuv lang="SV-SE" changeid="peter" changedate="20150305T144652Z">
+        <seg>Lägg till aktuell webbplats i Favoriter</seg>
       </tuv>
     </tu>
     <tu>
@@ -7390,6 +7406,14 @@ RESULT:
       </tuv>
       <tuv lang="SV-SE" changeid="peter" changedate="20110430T073543Z">
         <seg>Tillgängliga webbplatssidor</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Available aspects to add</seg>
+      </tuv>
+      <tuv lang="SV-SE" changeid="peter" changedate="20150305T144742Z">
+        <seg>Tillgängliga aspekter</seg>
       </tuv>
     </tu>
     <tu>
@@ -15918,6 +15942,14 @@ RESULT:
       </tuv>
       <tuv lang="SV-SE">
         <seg>Inloggad som: {0}</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Currently selected</seg>
+      </tuv>
+      <tuv lang="SV-SE" changeid="peter" changedate="20150305T144752Z">
+        <seg>Redan valda</seg>
       </tuv>
     </tu>
     <tu>
@@ -30642,10 +30674,26 @@ RESULT:
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>It was not possible to retrieve the aspects applied to {0}</seg>
+      </tuv>
+      <tuv lang="SV-SE" changeid="peter" changedate="20150305T144826Z">
+        <seg>Det var inte möjligt hämta aspekterna som lagts till för {0}</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>It was not possible to retrieve the page details from the repository</seg>
       </tuv>
       <tuv lang="SV-SE" changeid="peter" changedate="20130822T055949Z">
         <seg>Det var inte möjligt att hämta sidans egenskaper från arkivet</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>It was not possible to update the aspects applied to {0}</seg>
+      </tuv>
+      <tuv lang="SV-SE" changeid="peter" changedate="20150305T144847Z">
+        <seg>Det var inte möjligt uppdatera aspekterna som lagts till för {0}</seg>
       </tuv>
     </tu>
     <tu>
@@ -44530,6 +44578,14 @@ RESULT:
       </tuv>
       <tuv lang="SV-SE">
         <seg>Ta bort aspekt ''{0}''</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Remove current site from Favorites</seg>
+      </tuv>
+      <tuv lang="SV-SE" changeid="peter" changedate="20150305T144712Z">
+        <seg>Ta bort aktuell webbplats från Favoriter</seg>
       </tuv>
     </tu>
     <tu>
@@ -58979,6 +59035,14 @@ Värdet {0} är ogiltigt för aktivitetens egenskap {1}.</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>There are no aspects that can be selected</seg>
+      </tuv>
+      <tuv lang="SV-SE" changeid="peter" changedate="20150305T144731Z">
+        <seg>Det finns inga aspekter att välja från</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>There are no channels available to publish this content to</seg>
       </tuv>
       <tuv lang="SV-SE" changeid="peter" changedate="20110809T062010Z">
@@ -60543,6 +60607,14 @@ Värdet {0} är ogiltigt för aktivitetens egenskap {1}.</seg>
       </tuv>
       <tuv lang="SV-SE">
         <seg>Skickar ändrade objekt eller alla objekt (om listan är tom)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>This task has already been completed and is no longer editable.</seg>
+      </tuv>
+      <tuv lang="SV-SE" changeid="peter" changedate="20150305T145156Z">
+        <seg>Denna uppgift har redan färdigställts och kan inte längre redigeras.</seg>
       </tuv>
     </tu>
     <tu>
@@ -66592,6 +66664,30 @@ Värdet {0} är ogiltigt för aktivitetens egenskap {1}.</seg>
       </tuv>
       <tuv lang="SV-SE" changeid="peter" changedate="20121123T171626Z">
         <seg>Värdet måste vara mellan {min} och {max}.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Value must be a number greater or equals to {min}.</seg>
+      </tuv>
+      <tuv lang="SV-SE" changeid="peter" changedate="20150305T145053Z">
+        <seg>Värdet måste vara större än eller lika med {min}.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Value must be a number in the interval.</seg>
+      </tuv>
+      <tuv lang="SV-SE" changeid="peter" changedate="20150305T145042Z">
+        <seg>Värdet måste vara i intervallet.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Value must be a number less or equal to {max}.</seg>
+      </tuv>
+      <tuv lang="SV-SE" changeid="peter" changedate="20150305T145057Z">
+        <seg>Värdet måste vara mindre än eller lika med {max}.</seg>
       </tuv>
     </tu>
     <tu>
