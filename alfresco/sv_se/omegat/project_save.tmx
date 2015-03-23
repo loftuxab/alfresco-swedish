@@ -6154,6 +6154,14 @@ RESULT:
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Are you sure you want to cancel?</seg>
+      </tuv>
+      <tuv lang="SV-SE" changeid="peter" changedate="20150323T202307Z">
+        <seg>Är du säker på att du vill avbryta?</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Are you sure you want to delete "{0}" and all its contents?</seg>
       </tuv>
       <tuv lang="SV-SE">
@@ -8874,6 +8882,14 @@ RESULT:
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Cancel Editing in Google Docs™</seg>
+      </tuv>
+      <tuv lang="SV-SE" changeid="peter" changedate="20150323T202100Z">
+        <seg>Avbryt redigering i Google Docs™</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Cancel File Editing</seg>
       </tuv>
       <tuv lang="SV-SE">
@@ -10010,6 +10026,14 @@ RESULT:
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Check In Google Doc™</seg>
+      </tuv>
+      <tuv lang="SV-SE" changeid="peter" changedate="20150323T202009Z">
+        <seg>Checka in Google Doc™</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Check In Options</seg>
       </tuv>
       <tuv lang="SV-SE">
@@ -10390,6 +10414,14 @@ RESULT:
       </tuv>
       <tuv lang="SV-SE">
         <seg>Checka in objekt som {param.minorChange} version med kommentar '{param.description}'</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Checking In Google Doc™...</seg>
+      </tuv>
+      <tuv lang="SV-SE" changeid="peter" changedate="20150323T202019Z">
+        <seg>Checkar in Google Doc™...</seg>
       </tuv>
     </tu>
     <tu>
@@ -18226,6 +18258,14 @@ RESULT:
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Display help</seg>
+      </tuv>
+      <tuv lang="SV-SE" changeid="peter" changedate="20150323T201854Z">
+        <seg>Visa hjälp</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Display help for this dashlet</seg>
       </tuv>
       <tuv lang="SV-SE" changeid="peter" changedate="20110511T134116Z">
@@ -23262,6 +23302,14 @@ RESULT:
       </tuv>
       <tuv lang="SV-SE" changeid="peter" changedate="20130314T133345Z">
         <seg>Misslyckades autentisera, användarnamn eller lösenord fel.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Failed to cancel editing Google Docs™</seg>
+      </tuv>
+      <tuv lang="SV-SE" changeid="peter" changedate="20150323T202125Z">
+        <seg>Misslyckades avbryta redigering Google Docs™</seg>
       </tuv>
     </tu>
     <tu>
@@ -28858,6 +28906,14 @@ RESULT:
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>If this happens again then please contact your Alfresco Administrator.</seg>
+      </tuv>
+      <tuv lang="SV-SE" changeid="peter" changedate="20150323T201954Z">
+        <seg>Om detta händer igen, vänligen kontaka din Alfresco administatör</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>If this option is selected the export will be performed in the background so the results may not appear immediately.</seg>
       </tuv>
       <tuv lang="SV-SE">
@@ -28902,6 +28958,14 @@ RESULT:
       </tuv>
       <tuv lang="SV-SE">
         <seg>Om du avbryter redigeringen av ett dokument så kommer den tillhörande arbetskopian att raderas och alla ändringar sedan utcheckning gå förlorade.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>If you cancel the editing then any changes that have been made to this file won't be saved.</seg>
+      </tuv>
+      <tuv lang="SV-SE" changeid="peter" changedate="20150323T202255Z">
+        <seg>Om du avbryter redigering kan ändringar som gjorts i detta dokument förloras.</seg>
       </tuv>
     </tu>
     <tu>
@@ -68137,6 +68201,22 @@ Värdet {0} är ogiltigt för aktivitetens egenskap {1}.</seg>
       </tuv>
       <tuv lang="SV-SE" changeid="peter" changedate="20110412T174418Z">
         <seg>Bevaka den här listan för att hänga på den senaste ändringarna på webbplatsen.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>We hit a problem opening the file in Google Docs™.</seg>
+      </tuv>
+      <tuv lang="SV-SE" changeid="peter" changedate="20150323T201927Z">
+        <seg>Vi stötte på ett problem med att öppna filen i Google Docs™.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>We hit an error retrieving the document from Google™.</seg>
+      </tuv>
+      <tuv lang="SV-SE" changeid="peter" changedate="20150323T202046Z">
+        <seg>Vi stötte på ett problem med att hämta dokumentet från Google™.</seg>
       </tuv>
     </tu>
     <tu>
