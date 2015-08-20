@@ -40,11 +40,11 @@
 		<mkdir dir="${share.amp.dir}" />
 		<mkdir dir="${share.amp.modules.dir}" />
 		<mkdir dir="${share.amp.messages.dir}" />
-		<mkdir dir="${share.amp.dir}/js/alfresco" />
+		<mkdir dir="${share.amp.dir}/js" />
 		<mkdir dir="${alfresco.amp.dir}" />
 		<mkdir dir="${alfresco.amp.messages.dir}" />
 		<mkdir dir="${share.jar.dir}" />
-		<mkdir dir="${share.jar.dir}/META-INF/js/alfresco" />
+		<mkdir dir="${share.jar.dir}/META-INF" />
 		<mkdir dir="${share.jar.dir}/alfresco" />
 		<mkdir dir="${share.jar.dir}/alfresco/messages" />
 		<mkdir dir="${share.jar.dir}/alfresco/workflow" />
@@ -108,8 +108,8 @@
                  from="^([^_]*)_sv_SE.properties$"
                  to="\1_sv.properties"/>
 		</copy>
-		<copy todir="${share.amp.dir}/js/alfresco">
-			<fileset dir="${project.dir}/target/dojo" defaultexcludes="false" />
+		<copy todir="${share.amp.dir}/">
+			<fileset dir="${project.dir}/target/aikau" defaultexcludes="false" />
          	<mapper type="regexp"
                  from="^([^_]*)_sv_SE.properties$"
                  to="\1_sv.properties"/>
@@ -160,8 +160,8 @@
                  from="^([^_]*)_sv_SE.properties$"
                  to="\1_sv.properties"/>
 		</copy>
-		<copy todir="${share.jar.dir}/META-INF/js/alfresco">
-			<fileset dir="${project.dir}/target/dojo" defaultexcludes="false" />
+		<copy todir="${share.jar.dir}/META-INF">
+			<fileset dir="${project.dir}/target/aikau" defaultexcludes="false" />
          	<mapper type="regexp"
                  from="^([^_]*)_sv_SE.properties$"
                  to="\1_sv.properties"/>
