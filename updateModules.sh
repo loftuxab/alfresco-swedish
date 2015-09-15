@@ -34,6 +34,7 @@ fi
 
 svnget GoogleDocs/repo $baseurl/integrations/GoogleDocs/HEAD/Google%20Docs%20Repository/src/main/amp/config/alfresco/templates $rev
 svnget GoogleDocs/share $baseurl/integrations/GoogleDocs/HEAD/Google%20Docs%20Share/src/main/amp/config $rev
+#svnget SharePoint/sharepoint $baseurl/modules/sharepoint/amp/config/alfresco/messages $rev
 
 git add .
 git ls-files --deleted | xargs git rm

@@ -119,30 +119,17 @@ fi
 
 #Make sure source dir exist and is a svn
 mkdir -p alfresco/sv_se/source
-if [ ! -d "alfresco/sv_se/source/repository/.svn" ]; then
+if [ ! -d "alfresco/sv_se/source/Repository/messages/.svn" ]; then
 	#We may have a populated source dir, but we need to start from scratch for svn co/update.
-	rm -rf alfresco/sv_se/source/*
+	rm -rf alfresco/sv_se/source/Repository/*
 fi
 
-svnget repository $baseurl/projects/repository/config/alfresco/messages $rev
-svnget repository-scripts $baseurl/projects/remote-api/config/alfresco/ $rev
+svnget Repository/messages $baseurl/projects/repository/config/alfresco/messages $rev
+svnget Repository/scripts $baseurl/projects/remote-api/config/alfresco/ $rev
 #svnget web-client $baseurl/projects/web-client/config/alfresco/messages $rev
-svnget workflow $baseurl/projects/repository/config/alfresco/workflow $rev
-svnget sharepoint $baseurl/modules/sharepoint/amp/config/alfresco/messages $rev
-svnget web-framework-commons $baseurl/projects/web-framework-commons/config/alfresco/ $rev
-svnget slingshot/messages $baseurl/projects/slingshot/config/alfresco/messages $rev
-svnget slingshot/modules $baseurl/projects/slingshot/config/alfresco/site-webscripts/org/alfresco/modules $rev
-svnget slingshot/components $baseurl/projects/slingshot/config/alfresco/site-webscripts/org/alfresco/components $rev
-svnget slingshot/share $baseurl/projects/slingshot/config/alfresco/site-webscripts/org/alfresco/share $rev
-#svnget dojo $baseurl/projects/slingshot/source/web/js/alfresco $rev
-#svnget wcmqs/alfresco $baseurl/modules/wcmquickstart/wcmquickstartmodule/config/alfresco/module/org_alfresco_module_wcmquickstart/message $rev
-#svnget wcmqs/website $baseurl/modules/wcmquickstart/wcmquickstartwebsite/config/alfresco/messages $rev
-#svnget wcmqs/share $baseurl/modules/wcmquickstart/wcmquickstartsharemodule/config/alfresco/ $rev
-#svnget dod5015/alfresco $baseurl/modules/dod-5015/config/alfresco/module/org_alfresco_module_dod5015 $rev
-#svnget dod5015/share $baseurl/modules/dod-5015-share/config/alfresco $rev
+svnget Repository/workflow $baseurl/projects/repository/config/alfresco/workflow $rev
 
-#Pull this from HEAD always for now
-#svnget shareextras http://share-extras.googlecode.com/svn/trunk/ HEAD
+
 
 git add .
 git ls-files --deleted | xargs git rm
