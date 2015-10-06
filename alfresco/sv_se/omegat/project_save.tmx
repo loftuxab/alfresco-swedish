@@ -1646,6 +1646,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>&lt;a href="http://www.alfresco.com"&gt;Alfresco Software&lt;/a&gt; Inc.</seg>
+      </tuv>
+      <tuv lang="SV-SE" changeid="peter" changedate="20151006T083523Z">
+        <seg>&lt;a href="http://www.alfresco.com"&gt;Alfresco Software&lt;/a&gt; Inc.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>&lt;a href='http://www.alfresco.com/services/support/'&gt;Click here for support&lt;/a&gt;.</seg>
       </tuv>
       <tuv lang="SV-SE">
@@ -2002,6 +2010,14 @@
       </tuv>
       <tuv lang="SV-SE" changeid="peter" changedate="20120808T164800Z">
         <seg>&lt;p&gt;Använd denna dashlet för att skapa en sökning och visa resultatet. Används för att skapa enklare rapporter.&lt;/p&gt;&lt;p&gt;Välj konfigurera för att sätta titel och spara sökningen.&lt;/p&gt;&lt;p&gt;Endast en webbplatsansvarig kan ändra konfigurationen.&lt;/p&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>&lt;p&gt;We may have hit an error or something might have been removed or deleted, so check that the URL is correct.&lt;/p&gt;&lt;p&gt;Alternatively you might not have permission to view the page (it could be on a private site) or there could have been an internal error.</seg>
+      </tuv>
+      <tuv lang="SV-SE" changeid="peter" changedate="20151006T083357Z">
+        <seg>&lt;p&gt;Ett tillfälligt fel kan ha inträffat eller så har något tagits bort så kontrollera den URL du angett är riktig.&lt;/p&gt;&lt;p&gt;Alternativt saknar du rättigheter att se den sida du försöker visa(den kan vara i en privat webbplats) eller så har ett internt fel inträffat.</seg>
       </tuv>
     </tu>
     <tu>
@@ -4856,6 +4872,14 @@ RESULT:
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Alfresco Share &amp;raquo; System Error</seg>
+      </tuv>
+      <tuv lang="SV-SE" changeid="peter" changedate="20151006T083119Z">
+        <seg>Alfresco Share &amp;raquo; Systemfel</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Alfresco Share &amp;raquo; {0}</seg>
       </tuv>
       <tuv lang="SV-SE">
@@ -5204,6 +5228,14 @@ RESULT:
       </tuv>
       <tuv lang="SV-SE">
         <seg>Alla dokument i dokumentbibliotek</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>All Files</seg>
+      </tuv>
+      <tuv lang="SV-SE" changeid="peter" changedate="20151006T082358Z">
+        <seg>Alla dokument</seg>
       </tuv>
     </tu>
     <tu>
@@ -8346,6 +8378,14 @@ RESULT:
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Back to My Dashboard</seg>
+      </tuv>
+      <tuv lang="SV-SE" changeid="peter" changedate="20151006T083523Z">
+        <seg>Tillbaka till Min Anslagstavla</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Back to Results</seg>
       </tuv>
       <tuv lang="SV-SE">
@@ -9910,6 +9950,14 @@ RESULT:
       </tuv>
       <tuv lang="SV-SE">
         <seg>Avbryt utcheckningen av ett dokument och avvisa alla ändringar.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Cancel update and reset to "{0}"</seg>
+      </tuv>
+      <tuv lang="SV-SE" changeid="peter" changedate="20151006T082606Z">
+        <seg>Avbryt uppdatering och återställ till "{0}"</seg>
       </tuv>
     </tu>
     <tu>
@@ -11998,6 +12046,14 @@ RESULT:
       </tuv>
       <tuv lang="SV-SE">
         <seg>Om så inte är fallet klicka här:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Click for more information about {0}.</seg>
+      </tuv>
+      <tuv lang="SV-SE" changeid="peter" changedate="20151006T082552Z">
+        <seg>Klicka för mer information om {0}.</seg>
       </tuv>
     </tu>
     <tu>
@@ -21234,6 +21290,14 @@ RESULT:
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Drag files here to upload</seg>
+      </tuv>
+      <tuv lang="SV-SE" changeid="peter" changedate="20151006T082718Z">
+        <seg>Drag dokument hit för att ladda upp</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Drag pages to reorder.</seg>
       </tuv>
       <tuv lang="SV-SE" changeid="peter" changedate="20110430T073708Z">
@@ -22266,10 +22330,26 @@ RESULT:
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Edit in Alfresco</seg>
+      </tuv>
+      <tuv lang="SV-SE" changeid="peter" changedate="20151006T083059Z">
+        <seg>Redigera i Alfresco</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Edit in Google Docs™</seg>
       </tuv>
       <tuv lang="SV-SE" changeid="peter" changedate="20121010T191508Z">
         <seg>Redigera i Google Docs™</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Edit in Microsoft Office™</seg>
+      </tuv>
+      <tuv lang="SV-SE" changeid="peter" changedate="20151006T083532Z">
+        <seg>Redigera i Microsoft Office™</seg>
       </tuv>
     </tu>
     <tu>
@@ -22374,6 +22454,14 @@ RESULT:
       </tuv>
       <tuv lang="SV-SE">
         <seg>Redigera uppgift</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Edit text files in Alfresco</seg>
+      </tuv>
+      <tuv lang="SV-SE" changeid="peter" changedate="20151006T083108Z">
+        <seg>Redigera textfiler i Alfresco</seg>
       </tuv>
     </tu>
     <tu>
@@ -27482,6 +27570,14 @@ RESULT:
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>File Upload</seg>
+      </tuv>
+      <tuv lang="SV-SE" changeid="peter" changedate="20151006T082617Z">
+        <seg>Dokument uppladdade</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>File id is {1}</seg>
       </tuv>
       <tuv lang="SV-SE">
@@ -27698,6 +27794,46 @@ RESULT:
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Files</seg>
+      </tuv>
+      <tuv lang="SV-SE" changeid="peter" changedate="20151006T082620Z">
+        <seg>Dokument</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Files Added Recently</seg>
+      </tuv>
+      <tuv lang="SV-SE" changeid="peter" changedate="20151006T082440Z">
+        <seg>Dokument nyligen skapade</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Files I'm Editing (working copies)</seg>
+      </tuv>
+      <tuv lang="SV-SE" changeid="peter" changedate="20151006T082451Z">
+        <seg>Dokument jag redigerar (arbetskopior)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Files Others are Editing (working copies)</seg>
+      </tuv>
+      <tuv lang="SV-SE" changeid="peter" changedate="20151006T082455Z">
+        <seg>Dokument andra redigerar (arbetskopior)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Files Recently Modified</seg>
+      </tuv>
+      <tuv lang="SV-SE" changeid="peter" changedate="20151006T082426Z">
+        <seg>Dokument nyligen ändrade</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Files and folders within this space.</seg>
       </tuv>
       <tuv lang="SV-SE">
@@ -27742,6 +27878,22 @@ RESULT:
       </tuv>
       <tuv lang="SV-SE" changeid="peter" changedate="20150905T144752Z">
         <seg>Filer packas upp...</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Files synchronized with the cloud</seg>
+      </tuv>
+      <tuv lang="SV-SE" changeid="peter" changedate="20151006T082504Z">
+        <seg>Dokument synkroniserade med molnet</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Files with synchronization errors</seg>
+      </tuv>
+      <tuv lang="SV-SE" changeid="peter" changedate="20151006T082508Z">
+        <seg>Dokument med synkroniseringsfel</seg>
       </tuv>
     </tu>
     <tu>
@@ -32150,6 +32302,14 @@ RESULT:
       </tuv>
       <tuv lang="SV-SE">
         <seg>I sajt</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>In subsystem {0} a networking error was encountered: {1}.</seg>
+      </tuv>
+      <tuv lang="SV-SE" changeid="peter" changedate="20151006T083005Z">
+        <seg>I susbsystem {0} inträffade ett nätverksfel: {1}.</seg>
       </tuv>
     </tu>
     <tu>
@@ -39524,6 +39684,14 @@ RESULT:
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Module Browser</seg>
+      </tuv>
+      <tuv lang="SV-SE" changeid="peter" changedate="20151006T083045Z">
+        <seg>Modullistning</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Module Packages</seg>
       </tuv>
       <tuv lang="SV-SE" changeid="peter" changedate="20150905T144416Z">
@@ -40167,6 +40335,14 @@ RESULT:
         <seg>My Favorite Documents and Folders</seg>
       </tuv>
       <tuv lang="SV-SE">
+        <seg>Mina favoritdokument och mappar</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>My Favorite Files and Folders</seg>
+      </tuv>
+      <tuv lang="SV-SE" changeid="peter" changedate="20151006T082500Z">
         <seg>Mina favoritdokument och mappar</seg>
       </tuv>
     </tu>
@@ -41382,8 +41558,8 @@ RESULT:
       <tuv lang="EN-US">
         <seg>No Module Packages Found</seg>
       </tuv>
-      <tuv lang="SV-SE" changeid="peter" changedate="20150905T142307Z">
-        <seg>Inga modulepaket hittades</seg>
+      <tuv lang="SV-SE" changeid="peter" changedate="20151006T083049Z">
+        <seg>Inga modulpaket hittades</seg>
       </tuv>
     </tu>
     <tu>
@@ -44194,6 +44370,14 @@ RESULT:
       </tuv>
       <tuv lang="SV-SE">
         <seg>Alternativ...</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Or choose files from your computer</seg>
+      </tuv>
+      <tuv lang="SV-SE" changeid="peter" changedate="20151006T082733Z">
+        <seg>eller välj dokument från din dator</seg>
       </tuv>
     </tu>
     <tu>
@@ -53486,6 +53670,14 @@ RESULT:
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Select a folder to upload to</seg>
+      </tuv>
+      <tuv lang="SV-SE" changeid="peter" changedate="20151006T082651Z">
+        <seg>Välj en mapp att ladda upp till</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Select a page</seg>
       </tuv>
       <tuv lang="SV-SE">
@@ -54003,6 +54195,14 @@ RESULT:
       </tuv>
       <tuv lang="SV-SE" changeid="peter" changedate="20130821T135726Z">
         <seg>Välj fältet som skall testas</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Select the files you wish to upload</seg>
+      </tuv>
+      <tuv lang="SV-SE" changeid="peter" changedate="20151006T082631Z">
+        <seg>Välj dokument du vill ladda upp</seg>
       </tuv>
     </tu>
     <tu>
@@ -57331,6 +57531,14 @@ RESULT:
       </tuv>
       <tuv lang="SV-SE">
         <seg>Saker du vill veta eller göra</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Something's wrong with this page...</seg>
+      </tuv>
+      <tuv lang="SV-SE" changeid="peter" changedate="20151006T083132Z">
+        <seg>Något är fel med denna sida...</seg>
       </tuv>
     </tu>
     <tu>
@@ -62224,6 +62432,14 @@ Identifikationen för en grupp kan inte ändras då den redan är fastställd. <
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>The address chosen for {0} is already in use or you don''t have permission: {1}:{2}.</seg>
+      </tuv>
+      <tuv lang="SV-SE" changeid="peter" changedate="20151006T082838Z">
+        <seg>Den valda adressen för {0} används readan eller så saknar du rättigheter: {1}:{2}.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>The agent SHOULD reset the document view which caused the request to be sent.</seg>
       </tuv>
       <tuv lang="SV-SE">
@@ -63184,6 +63400,14 @@ Identifikationen för en grupp kan inte ändras då den redan är fastställd. <
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>The following ports chosen for {0} are already in use or you don''t have permission to use them: {1}.</seg>
+      </tuv>
+      <tuv lang="SV-SE" changeid="peter" changedate="20151006T082917Z">
+        <seg>Följande portar valda för {0} används redan eller så saknar du rättigher att använda dem: {1}.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>The following ports chosen for {0} are already in use: {1}.</seg>
       </tuv>
       <tuv lang="SV-SE" changeid="peter" changedate="20150906T084606Z">
@@ -63196,6 +63420,14 @@ Identifikationen för en grupp kan inte ändras då den redan är fastställd. <
       </tuv>
       <tuv lang="SV-SE" changeid="peter" changedate="20150906T084521Z">
         <seg>Följande valda portar {0} är utanför det giltiga området (1, 65535): {1}.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>The following ports chosen for {0} have networking errors: {1}.</seg>
+      </tuv>
+      <tuv lang="SV-SE" changeid="peter" changedate="20151006T083023Z">
+        <seg>Följande valda portar {0} har ett nätverksfel: {1}.</seg>
       </tuv>
     </tu>
     <tu>
@@ -63276,6 +63508,14 @@ Identifikationen för en grupp kan inte ändras då den redan är fastställd. <
       </tuv>
       <tuv lang="SV-SE" changeid="peter" changedate="20120421T101754Z">
         <seg>Höjden på bilden i pixlar</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>The hostname chosen for {0} is unknown or misspelled: {1}.</seg>
+      </tuv>
+      <tuv lang="SV-SE" changeid="peter" changedate="20151006T082946Z">
+        <seg>Hostname som är valt för {0} är okänt eller felstavat: {1}.</seg>
       </tuv>
     </tu>
     <tu>
@@ -64189,6 +64429,14 @@ Identifikationen för en grupp kan inte ändras då den redan är fastställd. <
       </tuv>
       <tuv lang="SV-SE" changeid="peter" changedate="20110412T175913Z">
         <seg>Den personliga anslagstavlan visar vad som händer i de webbplatser som du tillhör.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>The port chosen for {0} is already in use or you don''t have permission to use it: {1}.</seg>
+      </tuv>
+      <tuv lang="SV-SE" changeid="peter" changedate="20151006T082808Z">
+        <seg>POrten som är vald för {0} används redan eller så har du inte rätt att använda den: {1}.</seg>
       </tuv>
     </tu>
     <tu>
@@ -69611,6 +69859,14 @@ Värdet {0} är ogiltigt för aktivitetens egenskap {1}.</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Try checking with your Alfresco administrator.&lt;/p&gt;&lt;p&gt;If you're trying to get to your home page and it's no longer available you should change it by clicking your name on the Alfresco toolbar.&lt;/p&gt;</seg>
+      </tuv>
+      <tuv lang="SV-SE" changeid="peter" changedate="20151006T083506Z">
+        <seg>Pröva att stämma av med din Alfresco administratör.&lt;/p&gt;&lt;p&gt;Om du försöker besöka din startsida och den inte längre finns, ändra startsida genom att klicka på ditt namn i menyn.&lt;/p&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Try deactivating then deleting one of the models.</seg>
       </tuv>
       <tuv lang="SV-SE" changeid="peter" changedate="20150906T080644Z">
@@ -72484,6 +72740,14 @@ Värdet {0} är ogiltigt för aktivitetens egenskap {1}.</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Upload to</seg>
+      </tuv>
+      <tuv lang="SV-SE" changeid="peter" changedate="20151006T082640Z">
+        <seg>Ladda upp dokument till</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Upload(s) cancelled; {0} file(s) uploaded</seg>
       </tuv>
       <tuv lang="SV-SE" changeid="peter" changedate="20110809T061032Z">
@@ -75153,6 +75417,14 @@ Värdet {0} är ogiltigt för aktivitetens egenskap {1}.</seg>
       </tuv>
       <tuv lang="SV-SE" changeid="peter" changedate="20150906T085109Z">
         <seg>Kunde inte uppdatera modell.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>We couldn't update the status.</seg>
+      </tuv>
+      <tuv lang="SV-SE" changeid="peter" changedate="20151006T082702Z">
+        <seg>Kunde inte uppdatera status.</seg>
       </tuv>
     </tu>
     <tu>
@@ -83173,6 +83445,14 @@ Vänligen kontakta din systemadministratör</seg>
       </tuv>
       <tuv lang="SV-SE">
         <seg>© 2005-2008.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>© 2005-2015 All rights reserved.</seg>
+      </tuv>
+      <tuv lang="SV-SE" changeid="peter" changedate="20151006T082533Z">
+        <seg>© 2005-2015 Alla rättigheter reserverade.</seg>
       </tuv>
     </tu>
     <tu>

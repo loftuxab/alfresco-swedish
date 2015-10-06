@@ -61,6 +61,7 @@ _translationstatus.txt
 *file-mapping.properties
 .DS_Store
 build/
+buildold/
 alfresco/sv_se/target/**
 !alfresco/sv_se/target/.empty
 !alfresco/sv_se/resources/**
