@@ -52,11 +52,6 @@
 	</target>
 
 	<target name="copytinymce" depends="mkdirs">
-		<copy todir="${alfresco.amp.dir}/web/scripts/tinymce">
-			<fileset dir="${project.dir}/resources/tinymce" defaultexcludes="false">
-				<include name="**/*.*" />
-			</fileset>
-		</copy>
 		<copy todir="${share.amp.dir}/modules/editors/tinymce">
 			<fileset dir="${project.dir}/resources/tinymce" defaultexcludes="false">
 				<include name="**/*.*" />
@@ -76,86 +71,90 @@
                  from="^([^_]*).properties.share$"
                  to="\1.properties"/>
 		</copy>
+
 		<copy todir="${share.amp.modules.dir}/modules">
-			<fileset dir="${project.dir}/target/slingshot/modules" defaultexcludes="false" />
+			<fileset dir="${project.dir}/target/share/modules" defaultexcludes="false" />
          	<mapper type="regexp"
                  from="^([^_]*).get_sv_SE.properties$"
                  to="\1.get_sv.properties"/>
 		</copy>
-<!--
-		<copy todir="${share.amp.dir}/config/alfresco/">
-			<fileset dir="${project.dir}/target/modules-share" defaultexcludes="false" />
-         	<mapper type="regexp"
-                 from="^([^_]*).get_sv_SE.properties$"
-                 to="\1.get_sv.properties"/>
-		</copy>
--->
+
 		<copy todir="${share.amp.modules.dir}/components">
-			<fileset dir="${project.dir}/target/slingshot/components" defaultexcludes="false" />
+			<fileset dir="${project.dir}/target/share/components" defaultexcludes="false" />
          	<mapper type="regexp"
                  from="^([^_]*).get_sv_SE.properties$"
                  to="\1.get_sv.properties"/>
 		</copy>
 		<copy todir="${share.amp.messages.dir}">
-			<fileset dir="${project.dir}/target/slingshot/messages" defaultexcludes="false" />
+			<fileset dir="${project.dir}/target/share/messages" defaultexcludes="false" />
          	<mapper type="regexp"
                  from="^([^_]*)_sv_SE.properties$"
                  to="\1_sv.properties"/>
 		</copy>
 		<copy todir="${share.amp.modules.dir}/share">
-			<fileset dir="${project.dir}/target/slingshot/share" defaultexcludes="false" />
+			<fileset dir="${project.dir}/target/share/share" defaultexcludes="false" />
          	<mapper type="regexp"
                  from="^([^_]*)_sv_SE.properties$"
                  to="\1_sv.properties"/>
 		</copy>
+
+		<copy todir="${share.amp.dir}/config/alfresco">
+			<fileset dir="${project.dir}/target/share/web-framework-commons" defaultexcludes="false" />
+         	<mapper type="regexp"
+                 from="^([^_]*)_sv_SE.properties$"
+                 to="\1_sv.properties"/>
+		</copy>
+
+		<copy todir="${share.amp.dir}/config/alfresco">
+			<fileset dir="${project.dir}/target/modules/GoogleDocs/share/alfresco" defaultexcludes="false" />
+			<mapper type="regexp"
+				 from="^([^_]*)_sv_SE.properties$"
+				 to="\1_sv.properties"/>
+		</copy>
+
 		<copy todir="${share.amp.dir}/">
 			<fileset dir="${project.dir}/target/aikau" defaultexcludes="false" />
          	<mapper type="regexp"
                  from="^([^_]*)_sv_SE.properties$"
                  to="\1_sv.properties"/>
 		</copy>
-		<copy todir="${share.amp.dir}/config/alfresco">
-			<fileset dir="${project.dir}/target/web-framework-commons" defaultexcludes="false" />
-         	<mapper type="regexp"
-                 from="^([^_]*)_sv_SE.properties$"
-                 to="\1_sv.properties"/>
+
+		<copy todir="${share.amp.modules.dir}/aikau">
+			<fileset dir="${project.dir}/target/share/aikau" defaultexcludes="false" />
+			<mapper type="regexp"
+				 from="^([^_]*)_sv_SE.properties$"
+				 to="\1_sv.properties"/>
 		</copy>
+
 	<!-- SHARE AMP END -->
 	<!-- SHARE JAR -->
 		<copy todir="${share.jar.dir}/alfresco/site-webscripts/org/alfresco/modules">
-			<fileset dir="${project.dir}/target/slingshot/modules" defaultexcludes="false" />
+			<fileset dir="${project.dir}/target/share/modules" defaultexcludes="false" />
          	<mapper type="regexp"
                  from="^([^_]*).get_sv_SE.properties$"
                  to="\1.get_sv.properties"/>
 		</copy>
 		<copy todir="${share.jar.dir}/alfresco/site-webscripts/org/alfresco/components">
-			<fileset dir="${project.dir}/target/slingshot/components" defaultexcludes="false" />
+			<fileset dir="${project.dir}/target/share/components" defaultexcludes="false" />
          	<mapper type="regexp"
                  from="^([^_]*).get_sv_SE.properties$"
                  to="\1.get_sv.properties"/>
 		</copy>
 		<copy todir="${share.jar.dir}/alfresco/site-webscripts/org/alfresco/share">
-			<fileset dir="${project.dir}/target/slingshot/share" defaultexcludes="false" />
+			<fileset dir="${project.dir}/target/share/share" defaultexcludes="false" />
          	<mapper type="regexp"
                  from="^([^_]*).get_sv_SE.properties$"
                  to="\1.get_sv.properties"/>
 		</copy>
-<!--
-		<copy todir="${share.jar.dir}/alfresco/">
-			<fileset dir="${project.dir}/target/modules-share" defaultexcludes="false" />
-         	<mapper type="regexp"
-                 from="^([^_]*).get_sv_SE.properties$"
-                 to="\1.get_sv.properties"/>
-		</copy>
--->
+
 		<copy todir="${share.jar.dir}/alfresco/messages">
-			<fileset dir="${project.dir}/target/slingshot/messages" defaultexcludes="false" />
+			<fileset dir="${project.dir}/target/share/messages" defaultexcludes="false" />
          	<mapper type="regexp"
                  from="^([^_]*)_sv_SE.properties$"
                  to="\1_sv.properties"/>
 		</copy>
 		<copy todir="${share.jar.dir}/alfresco/">
-			<fileset dir="${project.dir}/target/web-framework-commons" defaultexcludes="false" />
+			<fileset dir="${project.dir}/target/share/web-framework-commons" defaultexcludes="false" />
          	<mapper type="regexp"
                  from="^([^_]*)_sv_SE.properties$"
                  to="\1_sv.properties"/>
@@ -166,6 +165,20 @@
                  from="^([^_]*)_sv_SE.properties$"
                  to="\1_sv.properties"/>
 		</copy>
+		<copy todir="${share.jar.dir}/alfresco/site-webscripts/org/alfresco/aikau">
+			<fileset dir="${project.dir}/target/share/aikau" defaultexcludes="false" />
+			<mapper type="regexp"
+				 from="^([^_]*)_sv_SE.properties$"
+				 to="\1_sv.properties"/>
+		</copy>
+
+		<copy todir="${share.jar.dir}/config/alfresco">
+			<fileset dir="${project.dir}/target/modules/GoogleDocs/share/alfresco" defaultexcludes="false" />
+			<mapper type="regexp"
+				 from="^([^_]*)_sv_SE.properties$"
+				 to="\1_sv.properties"/>
+		</copy>
+
 		<!-- Copy also the Alfresco repo stuff to same jar -->
 		<copy todir="${share.jar.dir}/alfresco/messages">
 			<fileset dir="${project.dir}/target/repository" defaultexcludes="false" />
@@ -187,16 +200,24 @@
                  to="\1_sv.txt"/>
 		</copy>
 
+		<copy todir="${share.jar.dir}/alfresco/templates">
+			<fileset dir="${project.dir}/target/modules/GoogleDocs/repo" defaultexcludes="false" />
+			<mapper type="regexp"
+				 from="^([^_]*)_sv_SE.properties$"
+				 to="\1_sv.properties"/>
+		</copy>
+
+
 		<!-- web-framework-common already copied above in share section-->
 
 		<copy todir="${share.jar.dir}/alfresco/messages">
-			<fileset dir="${project.dir}/target/sharepoint" defaultexcludes="false" />
+			<fileset dir="${project.dir}/target/modules/sharepoint" defaultexcludes="false" />
          	<mapper type="regexp"
                  from="^([^_]*)_sv_SE.properties$"
                  to="\1_sv.properties"/>
 		</copy>
 		<copy todir="${share.jar.dir}/alfresco/workflow">
-			<fileset dir="${project.dir}/target/workflow" defaultexcludes="false" />
+			<fileset dir="${project.dir}/target/Repository/workflow" defaultexcludes="false" />
          	<mapper type="regexp"
                  from="^([^_]*)_sv_SE.properties$"
                  to="\1_sv.properties"/>
@@ -211,51 +232,52 @@
                  to="\1.properties"/>
 		</copy>
 		<copy todir="${alfresco.amp.alfresco.dir}">
-			<fileset dir="${project.dir}/target/repository-scripts" defaultexcludes="false" />
+			<fileset dir="${project.dir}/target/Repository/scripts" defaultexcludes="false" />
          	<mapper type="regexp"
                  from="^([^_]*)_sv_SE.properties$"
                  to="\1_sv.properties"/>
 		</copy>
 		<copy todir="${alfresco.amp.messages.dir}">
-			<fileset dir="${project.dir}/target/repository" defaultexcludes="false" />
+			<fileset dir="${project.dir}/target/Repository/messages" defaultexcludes="false" />
          	<mapper type="regexp"
                  from="^([^_]*)_sv_SE.properties$"
                  to="\1_sv.properties"/>
 		</copy>
-		<copy todir="${alfresco.amp.messages.dir}">
-			<fileset dir="${project.dir}/target/repository" defaultexcludes="false" />
-         	<mapper type="regexp"
-                 from="^([^_]*)_sv_SE.txt$"
-                 to="\1_sv.txt"/>
+		<copy todir="${alfresco.amp.alfresco.dir}/templates">
+			<fileset dir="${project.dir}/target/modules/GoogleDocs/repo" defaultexcludes="false" />
+			<mapper type="regexp"
+				 from="^([^_]*)_sv_SE.properties$"
+				 to="\1_sv.properties"/>
 		</copy>
+
 		<!-- By default, OmegaT doesnt append locale code to txt, and if so do this in the script -->
 		<copy todir="${alfresco.amp.messages.dir}">
-			<fileset dir="${project.dir}/target/repository" defaultexcludes="false" />
+			<fileset dir="${project.dir}/target/Repository/messages" defaultexcludes="false" />
          	<mapper type="regexp"
                  from="^([^_]*).txt$"
                  to="\1_sv.txt"/>
 		</copy>
 		<!-- Need the sv_SE variant for the consoles to work -->
 		<copy todir="${alfresco.amp.messages.dir}">
-			<fileset dir="${project.dir}/target/repository" defaultexcludes="false" />
+			<fileset dir="${project.dir}/target/Repository/messages" defaultexcludes="false" />
          	<mapper type="regexp"
                  from="^([^_]*).txt$"
                  to="\1_sv_SE.txt"/>
 		</copy>
 		<copy todir="${alfresco.amp.messages.dir}">
-			<fileset dir="${project.dir}/target/web-framework-commons/messages" defaultexcludes="false"/>
+			<fileset dir="${project.dir}/target/share/web-framework-commons/messages" defaultexcludes="false"/>
          	<mapper type="regexp"
                  from="^([^_]*)_sv_SE.properties$"
                  to="\1_sv.properties"/>
 		</copy>
 		<copy todir="${alfresco.amp.messages.dir}">
-			<fileset dir="${project.dir}/target/sharepoint" defaultexcludes="false" />
+			<fileset dir="${project.dir}/target/modules/sharepoint" defaultexcludes="false" />
          	<mapper type="regexp"
                  from="^([^_]*)_sv_SE.properties$"
                  to="\1_sv.properties"/>
 		</copy>
 		<copy todir="${alfresco.amp.workflow.dir}">
-			<fileset dir="${project.dir}/target/workflow" defaultexcludes="false" />
+			<fileset dir="${project.dir}/target/Repository/workflow" defaultexcludes="false" />
          	<mapper type="regexp"
                  from="^([^_]*)_sv_SE.properties$"
                  to="\1_sv.properties"/>
@@ -263,7 +285,7 @@
 
 		<!-- slingshot properties should also be in alfresco messages dir, overwrite dummy file -->
 		<copy todir="${alfresco.amp.messages.dir}" overwrite="true">
-			<fileset dir="${project.dir}/target/slingshot/messages" defaultexcludes="false" />
+			<fileset dir="${project.dir}/target/share/messages" defaultexcludes="false" />
          	<mapper type="regexp"
                  from="^([^_]*)_sv_SE.properties$"
                  to="\1_sv.properties"/>
@@ -335,8 +357,8 @@
 			</fileset>
 			<manifest>
 			<!-- Information about the program itself -->
-			<attribute name="Implementation-Vendor" value="https://code.google.com/p/alfresco-swedish/"/>
-			<attribute name="Implementation-Title" value="Alfresco Swedish"/>
+			<attribute name="Implementation-Vendor" value="https://github.com/loftuxab/alfresco-swedish"/>
+			<attribute name="Implementation-Title" value="Alfresco Swedish by Loftux AB"/>
 			<attribute name="Implementation-Version" value="${version}-${edition}"/>
 			</manifest>
     	</jar>
