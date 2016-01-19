@@ -4336,6 +4336,14 @@ RESULT:
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Adds the email templates for the add-direct invite flow</seg>
+      </tuv>
+      <tuv lang="SV-SE" changeid="peter" changedate="20151030T191910Z">
+        <seg>Adds the email templates for the add-direct invite flow</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Adds the remodelled cm:authority container to the spaces store</seg>
       </tuv>
       <tuv lang="SV-SE">
@@ -5412,6 +5420,14 @@ RESULT:
       </tuv>
       <tuv lang="SV-SE">
         <seg>Alla kriterier har uppfyllts</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>All custom types, aspects and properties in the model will also be deleted.</seg>
+      </tuv>
+      <tuv lang="SV-SE" changeid="peter" changedate="20151030T192035Z">
+        <seg>Alla anpassade typer, aspekter och egenskaper i modellen kommer också att raderas.</seg>
       </tuv>
     </tu>
     <tu>
@@ -29034,6 +29050,14 @@ RESULT:
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Forgot password?</seg>
+      </tuv>
+      <tuv lang="SV-SE" changeid="peter" changedate="20151030T191952Z">
+        <seg>Glömt lösenord?</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Form</seg>
       </tuv>
       <tuv lang="SV-SE">
@@ -41440,6 +41464,14 @@ RESULT:
       </tuv>
       <tuv lang="SV-SE">
         <seg>Ingen åtkomst</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>No Account?</seg>
+      </tuv>
+      <tuv lang="SV-SE" changeid="peter" changedate="20151030T191924Z">
+        <seg>Inget konto?</seg>
       </tuv>
     </tu>
     <tu>
@@ -56239,6 +56271,14 @@ RESULT:
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Sign up for free</seg>
+      </tuv>
+      <tuv lang="SV-SE" changeid="peter" changedate="20151030T191943Z">
+        <seg>Registrera dig kostnadsfritt</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Sign up today to claim your free network in the cloud.</seg>
       </tuv>
       <tuv lang="SV-SE" changeid="peter" changedate="20120810T143749Z">
@@ -69899,6 +69939,14 @@ Värdet {0} är ogiltigt för aktivitetens egenskap {1}.</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Try searching again</seg>
+      </tuv>
+      <tuv lang="SV-SE" changeid="peter" changedate="20151030T191903Z">
+        <seg>Pröva söka igen</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Try sharing the following details with your Alfresco administrator.</seg>
       </tuv>
       <tuv lang="SV-SE" changeid="peter" changedate="20150906T080536Z">
@@ -75449,6 +75497,14 @@ Värdet {0} är ogiltigt för aktivitetens egenskap {1}.</seg>
       </tuv>
       <tuv lang="SV-SE" changeid="peter" changedate="20150911T184913Z">
         <seg>Hittade ''{0}''.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>We hit a problem getting your search results.</seg>
+      </tuv>
+      <tuv lang="SV-SE" changeid="peter" changedate="20151030T191859Z">
+        <seg>Det uppstod ett problem när sökresultaten hämtades</seg>
       </tuv>
     </tu>
     <tu>
