@@ -26682,6 +26682,14 @@ RESULT:
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Failed to locate user to modify or permission denied.</seg>
+      </tuv>
+      <tuv lang="SV-SE" changeid="peter" changedate="20160119T073350Z">
+        <seg>Misslyckades hitta användare att ändra eller rättigheter saknades.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Failed to manipulate lock ''{0}'' using token ''{1}''.</seg>
       </tuv>
       <tuv lang="SV-SE">
@@ -44518,6 +44526,14 @@ RESULT:
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Only image files are allowed for user avatar.</seg>
+      </tuv>
+      <tuv lang="SV-SE" changeid="peter" changedate="20160119T073435Z">
+        <seg>Endst bildfiler tillåtet för användaravatar.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Only people added by a Site Manager can find and use this site.</seg>
       </tuv>
       <tuv lang="SV-SE" changeid="peter" changedate="20150905T143631Z">
@@ -44768,8 +44784,8 @@ RESULT:
       <tuv lang="EN-US">
         <seg>Optional</seg>
       </tuv>
-      <tuv lang="SV-SE" changeid="peter" changedate="20150915T120458Z">
-        <seg>Optional</seg>
+      <tuv lang="SV-SE" changeid="peter" changedate="20160119T073718Z">
+        <seg>Frivillig</seg>
       </tuv>
     </tu>
     <tu>
@@ -64233,6 +64249,14 @@ Identifikationen för en grupp kan inte ändras då den redan är fastställd. <
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>The indexing options available depend on which Data Type you''ve selected.</seg>
+      </tuv>
+      <tuv lang="SV-SE" changeid="peter" changedate="20160119T073522Z">
+        <seg>Indexeringsalternativen som är tillgängliga beror av vilken datatyp du valt.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>The indexing options available depend on which Data Type you've selected.</seg>
       </tuv>
       <tuv lang="SV-SE" changeid="peter" changedate="20150915T120451Z">
@@ -74452,6 +74476,14 @@ Värdet {0} är ogiltigt för aktivitetens egenskap {1}.</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Username parameter not supplied.</seg>
+      </tuv>
+      <tuv lang="SV-SE" changeid="peter" changedate="20160119T073412Z">
+        <seg>Parameter för användarnamn saknades.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Users</seg>
       </tuv>
       <tuv lang="SV-SE">
@@ -78473,6 +78505,14 @@ Värdet {0} är ogiltigt för aktivitetens egenskap {1}.</seg>
       </tuv>
       <tuv lang="SV-SE" changeid="peter" changedate="20150915T120923Z">
         <seg>Du kan välja från dessa alternativ så att när användaren söker så är egenskapen inkluderad som en del av sökningen.&lt;br /&gt;&lt;br /&gt;&lt;ul&gt;&lt;li&gt;Välj&lt;strong&gt;Ingen&lt;/strong&gt; för att stoppa egenskapen från att bli sökbar.&lt;/li&gt;&lt;li&gt;Välj &lt;strong&gt;Basic&lt;/strong&gt; eller &lt;strong&gt;Fritext&lt;/strong&gt; alternativet för att göra egenskapen sökbar.&lt;/li&gt;&lt;li&gt;Välj från andra alternativ för mer avancera indexeringsalternativ, såsom möjligheten att filtrera sökningar på dessa egenskaper.&lt;/li&gt;&lt;/ul&gt;&lt;br /&gt;Se &lt;a href="http://docs.alfresco.com/cmm/tasks/admintools-ct-properties-create.html" target="_blank"&gt;Creating a new property for custom types and aspects&lt;/a&gt; for more.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>You can select from these options so that when users perform a search, the property is included as part of the search.&lt;br /&gt;&lt;br /&gt;&lt;ul&gt;&lt;li&gt;Select &lt;strong&gt;None&lt;/strong&gt; to stop the property being searchable.&lt;/li&gt;&lt;li&gt;Select the &lt;strong&gt;Basic&lt;/strong&gt; or &lt;strong&gt;Free Text&lt;/strong&gt; option to make the property searchable.&lt;/li&gt;&lt;li&gt;Select from the other options for more advanced indexing options, including the ability to be able to filter searches using this property.&lt;/li&gt;&lt;/ul&gt;&lt;br /&gt;See &lt;a href="http://docs.alfresco.com/{0}/tasks/admintools-ct-properties-create.html" target="_blank"&gt;Creating a new property for custom types and aspects&lt;/a&gt; for more.</seg>
+      </tuv>
+      <tuv lang="SV-SE" changeid="peter" changedate="20160119T073701Z">
+        <seg>Du kan välja från dessa alternativ så att när användaren söker så är egenskapen inkluderad som en del av sökningen.&lt;br /&gt;&lt;br /&gt;&lt;ul&gt;&lt;li&gt;Välj&lt;strong&gt;Ingen&lt;/strong&gt; för att stoppa egenskapen från att bli sökbar.&lt;/li&gt;&lt;li&gt;Välj &lt;strong&gt;Basic&lt;/strong&gt; eller &lt;strong&gt;Fritext&lt;/strong&gt; alternativet för att göra egenskapen sökbar.&lt;/li&gt;&lt;li&gt;Välj från andra alternativ för mer avancera indexeringsalternativ, såsom möjligheten att filtrera sökningar på dessa egenskaper.&lt;/li&gt;&lt;/ul&gt;&lt;br /&gt;Se &lt;a href="http://docs.alfresco.com/{0}/tasks/admintools-ct-properties-create.html" target="_blank"&gt;Creating a new property for custom types and aspects&lt;/a&gt; för mer information.</seg>
       </tuv>
     </tu>
     <tu>
