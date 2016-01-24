@@ -2190,6 +2190,14 @@ RESULT:
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>A Smart Folder container node</seg>
+      </tuv>
+      <tuv lang="SV-SE" changeid="peter" changedate="20160124T101052Z">
+        <seg>En Smartmapp behållare-nod</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>A Smith jobtitle:engineer</seg>
       </tuv>
       <tuv lang="SV-SE">
@@ -2262,6 +2270,14 @@ RESULT:
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>A container Smart Folder</seg>
+      </tuv>
+      <tuv lang="SV-SE" changeid="peter" changedate="20160124T101154Z">
+        <seg>En behållare Smartmappar</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>A container type that holds a set of delivery channels</seg>
       </tuv>
       <tuv lang="SV-SE" changeid="peter" changedate="20110617T112723Z">
@@ -2308,6 +2324,14 @@ RESULT:
       </tuv>
       <tuv lang="SV-SE">
         <seg>En arbetskopia av filen ''{0}'' kommer att göras. </seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>A custom Smart Folder</seg>
+      </tuv>
+      <tuv lang="SV-SE" changeid="peter" changedate="20160124T101218Z">
+        <seg>En anpassad Smartmapp</seg>
       </tuv>
     </tu>
     <tu>
@@ -2412,6 +2436,14 @@ RESULT:
       </tuv>
       <tuv lang="SV-SE">
         <seg>En nyare version av denna sida existerar.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>A node entry in a Smart Folder container node</seg>
+      </tuv>
+      <tuv lang="SV-SE" changeid="peter" changedate="20160124T101107Z">
+        <seg>En nod-post i en Smartmapp behållarenod</seg>
       </tuv>
     </tu>
     <tu>
@@ -2556,6 +2588,14 @@ RESULT:
       </tuv>
       <tuv lang="SV-SE">
         <seg>En mapp som används av systemet för att lagra replikeringsaktiviteter.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>A system Smart Folder</seg>
+      </tuv>
+      <tuv lang="SV-SE" changeid="peter" changedate="20160124T101245Z">
+        <seg>En system Smartmapp</seg>
       </tuv>
     </tu>
     <tu>
@@ -4080,6 +4120,14 @@ RESULT:
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Adding surf-config children.</seg>
+      </tuv>
+      <tuv lang="SV-SE" changeid="peter" changedate="20160124T100605Z">
+        <seg>Adding surf-config children.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Adding user {0} to site {1}...</seg>
       </tuv>
       <tuv lang="SV-SE">
@@ -4228,6 +4276,14 @@ RESULT:
       </tuv>
       <tuv lang="SV-SE">
         <seg>Adds 'Workflow Definitions' folder to Data Dictionary.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Adds 'cm:extensions' and 'cm:module-deployments' folders into surf-config folder.</seg>
+      </tuv>
+      <tuv lang="SV-SE" changeid="peter" changedate="20160124T100608Z">
+        <seg>Adds 'cm:extensions' and 'cm:module-deployments' folders into surf-config folder.</seg>
       </tuv>
     </tu>
     <tu>
@@ -14434,6 +14490,14 @@ RESULT:
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Container Smart Folder</seg>
+      </tuv>
+      <tuv lang="SV-SE" changeid="peter" changedate="20160124T100943Z">
+        <seg>Behållare Smartmappar</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Container Virtualization</seg>
       </tuv>
       <tuv lang="SV-SE" changeid="peter" changedate="20160119T063808Z">
@@ -17950,6 +18014,14 @@ RESULT:
       </tuv>
       <tuv lang="SV-SE" changeid="peter" changedate="20150305T144752Z">
         <seg>Redan valda</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Custom Smart Folder</seg>
+      </tuv>
+      <tuv lang="SV-SE" changeid="peter" changedate="20160124T101210Z">
+        <seg>Anpassad Smartmappar</seg>
       </tuv>
     </tu>
     <tu>
@@ -36286,6 +36358,14 @@ RESULT:
       </tuv>
       <tuv lang="SV-SE">
         <seg>Bildbibliotek</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Library is visible for site members only</seg>
+      </tuv>
+      <tuv lang="SV-SE" changeid="peter" changedate="20160124T101451Z">
+        <seg>Bibliotek är endast synligt för webbplatsmedlemmar</seg>
       </tuv>
     </tu>
     <tu>
@@ -57815,6 +57895,14 @@ RESULT:
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Skipped ''{0}'' folders as they already exist, but set the required permissions for ''{1}'' folders.</seg>
+      </tuv>
+      <tuv lang="SV-SE" changeid="peter" changedate="20160124T100607Z">
+        <seg>Skipped ''{0}'' folders as they already exist, but set the required permissions for ''{1}'' folders.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Skipped background deletion of {0} (out of {1}) batches old version histories (delete incomplete) in {2} secs</seg>
       </tuv>
       <tuv lang="SV-SE">
@@ -57963,6 +58051,78 @@ RESULT:
       </tuv>
       <tuv lang="SV-SE">
         <seg>Slut</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Smart</seg>
+      </tuv>
+      <tuv lang="SV-SE" changeid="peter" changedate="20160124T101500Z">
+        <seg>Smart</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Smart Document</seg>
+      </tuv>
+      <tuv lang="SV-SE" changeid="peter" changedate="20160124T101056Z">
+        <seg>Smart-dokument</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Smart Folder</seg>
+      </tuv>
+      <tuv lang="SV-SE" changeid="peter" changedate="20160124T101114Z">
+        <seg>Smartmapp</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Smart Folder Downloads</seg>
+      </tuv>
+      <tuv lang="SV-SE" changeid="peter" changedate="20160124T101548Z">
+        <seg>Smartmappar nedladdningar</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Smart Folder Template</seg>
+      </tuv>
+      <tuv lang="SV-SE" changeid="peter" changedate="20160124T101227Z">
+        <seg>Smartmapper mall</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Smart Folder Template Sample</seg>
+      </tuv>
+      <tuv lang="SV-SE" changeid="peter" changedate="20160124T101523Z">
+        <seg>Smartmappar mallexempel</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Smart Folder Templates</seg>
+      </tuv>
+      <tuv lang="SV-SE" changeid="peter" changedate="20160124T101540Z">
+        <seg>Smartmappar mallar</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Smart Folder downloads temporary association data</seg>
+      </tuv>
+      <tuv lang="SV-SE" changeid="peter" changedate="20160124T101554Z">
+        <seg>Smartmappar nedladdningar temporära associationsdata</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Smart Folders Model</seg>
+      </tuv>
+      <tuv lang="SV-SE" changeid="peter" changedate="20160124T101134Z">
+        <seg>Smartmappar modell</seg>
       </tuv>
     </tu>
     <tu>
@@ -60119,6 +60279,14 @@ RESULT:
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Successfully added ''{0}'' folders and set the required permissions for ''{1}'' folders.</seg>
+      </tuv>
+      <tuv lang="SV-SE" changeid="peter" changedate="20160124T100606Z">
+        <seg>Successfully added ''{0}'' folders and set the required permissions for ''{1}'' folders.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Successfully added category</seg>
       </tuv>
       <tuv lang="SV-SE" changeid="peter" changedate="20120223T185533Z">
@@ -61331,6 +61499,14 @@ RESULT:
       </tuv>
       <tuv lang="SV-SE">
         <seg>Systemegenskaper</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>System Smart Folder</seg>
+      </tuv>
+      <tuv lang="SV-SE" changeid="peter" changedate="20160124T101236Z">
+        <seg>System Smartmappar</seg>
       </tuv>
     </tu>
     <tu>
@@ -70463,6 +70639,22 @@ Värdet {0} är ogiltigt för aktivitetens egenskap {1}.</seg>
       </tuv>
       <tuv lang="SV-SE" changeid="peter" changedate="20110511T131800Z">
         <seg>Transformator pdf2swf</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Transient Smart Folder Download Aspect</seg>
+      </tuv>
+      <tuv lang="SV-SE" changeid="peter" changedate="20160124T101350Z">
+        <seg>Temporär Smartmapp nedladdninsgsaspekt</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Transient Smart Folder download container</seg>
+      </tuv>
+      <tuv lang="SV-SE" changeid="peter" changedate="20160124T101404Z">
+        <seg>Temorär Smartmapp nedladdningsmapp</seg>
       </tuv>
     </tu>
     <tu>
@@ -80065,6 +80257,14 @@ Värdet {0} är ogiltigt för aktivitetens egenskap {1}.</seg>
       </tuv>
       <tuv lang="SV-SE" changeid="peter" changedate="20140914T095919Z">
         <seg>stäng</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>cm:surf-config folder is not present in '/app:company_home/st:sites'.</seg>
+      </tuv>
+      <tuv lang="SV-SE" changeid="peter" changedate="20160124T100606Z">
+        <seg>cm:surf-config folder is not present in '/app:company_home/st:sites'.</seg>
       </tuv>
     </tu>
     <tu>
