@@ -694,6 +694,22 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>&amp;copy; 2005-2016 Alfresco Software Inc.</seg>
+      </tuv>
+      <tuv lang="SV-SE" changeid="peter" changedate="20160119T085110Z">
+        <seg>&amp;copy; 2005-2016 Alfresco Software Inc.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>&amp;copy; 2005-2016 All rights reserved.</seg>
+      </tuv>
+      <tuv lang="SV-SE" changeid="peter" changedate="20160119T085117Z">
+        <seg>&amp;copy; 2005-2016 All rights reserved.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>&amp;copy; 2008 All rights reserved.</seg>
       </tuv>
       <tuv lang="SV-SE">
@@ -8130,6 +8146,14 @@ RESULT:
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Authentication Error</seg>
+      </tuv>
+      <tuv lang="SV-SE" changeid="peter" changedate="20160119T074540Z">
+        <seg>Autentiseringsfel</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Authentication error</seg>
       </tuv>
       <tuv lang="SV-SE" changeid="peter" changedate="20160119T064759Z">
@@ -10110,6 +10134,14 @@ RESULT:
       </tuv>
       <tuv lang="SV-SE">
         <seg>Avbryt utcheckningen av ett dokument och avvisa alla ändringar.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Cancel the update and reset to "{0}"</seg>
+      </tuv>
+      <tuv lang="SV-SE" changeid="peter" changedate="20160119T074510Z">
+        <seg>Avbryt uppdateringen och återställ till "{0}"</seg>
       </tuv>
     </tu>
     <tu>
@@ -34506,6 +34538,14 @@ RESULT:
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>It was not possible to create the Cloud sync</seg>
+      </tuv>
+      <tuv lang="SV-SE" changeid="peter" changedate="20160119T074630Z">
+        <seg>Det var inte möjligt att skapa molnsynkronisering</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>It was not possible to create the application type.</seg>
       </tuv>
       <tuv lang="SV-SE" changeid="peter" changedate="20140213T142035Z">
@@ -34526,6 +34566,14 @@ RESULT:
       </tuv>
       <tuv lang="SV-SE" changeid="peter" changedate="20120928T145133Z">
         <seg>Det var inte möjligt att hämta status för arkiveringsprocessen.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>It was not possible to initiate authentication</seg>
+      </tuv>
+      <tuv lang="SV-SE" changeid="peter" changedate="20160119T074558Z">
+        <seg>Kunde inte initiera autentiseringen</seg>
       </tuv>
     </tu>
     <tu>
@@ -70659,6 +70707,14 @@ Värdet {0} är ogiltigt för aktivitetens egenskap {1}.</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Try searching again.</seg>
+      </tuv>
+      <tuv lang="SV-SE" changeid="peter" changedate="20160119T074524Z">
+        <seg>Pröva söka igen.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Try sharing the following details with your Alfresco administrator.</seg>
       </tuv>
       <tuv lang="SV-SE" changeid="peter" changedate="20150906T080536Z">
@@ -73680,6 +73736,14 @@ Värdet {0} är ogiltigt för aktivitetens egenskap {1}.</seg>
       </tuv>
       <tuv lang="SV-SE">
         <seg>Använd standard</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Use Home Network</seg>
+      </tuv>
+      <tuv lang="SV-SE" changeid="peter" changedate="20160119T074609Z">
+        <seg>Använda hemnätverk</seg>
       </tuv>
     </tu>
     <tu>
@@ -84549,6 +84613,14 @@ Vänligen kontakta din systemadministratör</seg>
       </tuv>
       <tuv lang="SV-SE" changeid="peter" changedate="20151006T082533Z">
         <seg>© 2005-2015 Alla rättigheter reserverade.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>© 2005-2016 All rights reserved.</seg>
+      </tuv>
+      <tuv lang="SV-SE" changeid="peter" changedate="20160119T074656Z">
+        <seg>© 2005-2016 Alla rättigheter reserverade.</seg>
       </tuv>
     </tu>
     <tu>
