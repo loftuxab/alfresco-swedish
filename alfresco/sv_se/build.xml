@@ -270,6 +270,12 @@
                  from="^([^_]*)_sv_SE.properties$"
                  to="\1_sv.properties"/>
 		</copy>
+		<copy todir="${alfresco.amp.alfresco.dir}">
+			<fileset dir="${project.dir}/target/modules/AOS/repo" defaultexcludes="false"/>
+			<mapper type="regexp"
+				 from="^([^_]*)_sv_SE.properties$"
+				 to="\1_sv.properties"/>
+		</copy>
 		<copy todir="${alfresco.amp.messages.dir}">
 			<fileset dir="${project.dir}/target/modules/sharepoint" defaultexcludes="false" />
          	<mapper type="regexp"

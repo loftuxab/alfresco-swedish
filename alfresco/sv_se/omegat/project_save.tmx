@@ -11642,6 +11642,14 @@ RESULT:
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Checked Out By</seg>
+      </tuv>
+      <tuv lang="SV-SE" changeid="peter" changedate="20160124T093410Z">
+        <seg>Utcheckad av</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Checked Out To</seg>
       </tuv>
       <tuv lang="SV-SE">
@@ -58255,6 +58263,14 @@ RESULT:
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Sort by Checked Out By</seg>
+      </tuv>
+      <tuv lang="SV-SE" changeid="peter" changedate="20160124T093447Z">
+        <seg>Sortera efter Utchecka av</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Sort by Checked Out To</seg>
       </tuv>
       <tuv lang="SV-SE" changeid="peter" changedate="20120420T160612Z">
@@ -58265,32 +58281,32 @@ RESULT:
       <tuv lang="EN-US">
         <seg>Sort by Modified</seg>
       </tuv>
-      <tuv lang="SV-SE" changeid="peter" changedate="20120420T160608Z">
-        <seg>Sortera efter Ändringsdatum.</seg>
+      <tuv lang="SV-SE" changeid="peter" changedate="20160124T093429Z">
+        <seg>Sortera efter Ändringsdatum</seg>
       </tuv>
     </tu>
     <tu>
       <tuv lang="EN-US">
         <seg>Sort by Modified By</seg>
       </tuv>
-      <tuv lang="SV-SE" changeid="peter" changedate="20120420T160606Z">
-        <seg>Sortera efter Ändrad av.</seg>
+      <tuv lang="SV-SE" changeid="peter" changedate="20160124T093425Z">
+        <seg>Sortera efter Ändrad av</seg>
       </tuv>
     </tu>
     <tu>
       <tuv lang="EN-US">
         <seg>Sort by Name</seg>
       </tuv>
-      <tuv lang="SV-SE" changeid="peter" changedate="20120420T160603Z">
-        <seg>Sortera efter Namn.</seg>
+      <tuv lang="SV-SE" changeid="peter" changedate="20160124T093421Z">
+        <seg>Sortera efter Namn</seg>
       </tuv>
     </tu>
     <tu>
       <tuv lang="EN-US">
         <seg>Sort by Type</seg>
       </tuv>
-      <tuv lang="SV-SE" changeid="peter" changedate="20120420T160559Z">
-        <seg>Sortera efter Typ.</seg>
+      <tuv lang="SV-SE" changeid="peter" changedate="20160124T093417Z">
+        <seg>Sortera efter Typ</seg>
       </tuv>
     </tu>
     <tu>
