@@ -6,12 +6,14 @@ Här kan du ladda ner språkpaket för Alfresco Community Edition.
 Översatt:
 
 * Alfresco core repository inklusive datamodeller
-* Alfresco Explorer klient
 * Alfresco Share klient
 * Inkluderade Alfresco exempel arbetsflöden
-* Sharepoint Integrationsmodul
-* Väntar översättning
-* Modulen DOD5015
+* Alfresco Office Services (Sharepoint Integrationsmodul)
+
+Detta är översatt till 100% och inkluderar det som oftast används i Alfresco.
+
+**Väntar översättning**
+* Modulen Records Management
 * Modulen Alfresco Web Quick Start  
 
 > Översättning av Alfresco till Svenska sponsras av [Loftux AB](http://loftux.se)  
@@ -24,12 +26,14 @@ Here you can download the language pack for Alfresco Community Edition.
 Localized:
 
 * Alfresco core repository including data models
-* Alfresco Explorer client
 * Alfresco Share client
 * Included Alfresco sample Workflows
-* Sharepoint Integration module
-* Awaiting localization
-* Module DOD5015
+* Alfresco Office Services (Sharepoint Integration module)  
+
+This is localized to 100% and includes what is most often used with Alfresco.
+
+**Awaiting localization**
+* Module Records Management
 * Module Alfresco Web Quick Start
 
-> Localization of Alfresco to Swdish is sponsored by [Loftux AB](http://loftux.com)
+> Localization of Alfresco to Swedish is sponsored by [Loftux AB](http://loftux.com)

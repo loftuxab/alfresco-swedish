@@ -6,7 +6,8 @@ work with Alfresco Enterprise version.
 
 To make this release available, time and effort has been donated by
 Peter Löfgren, Loftux AB, http://loftux.se
-Redpill Linpro AB, http://www.redpill-linpro.se
+
+It also includes localization for modules Google Docs integration and Alfresco Office Services.
 
 In this package you will find two install options, one quick install with jar
 file, one with two amp-files plus supporting files.
@@ -16,7 +17,7 @@ a test environment before installing into production system.
 
 * InstallOption1 (preferred) *
 1. Copy the file share_sv_SE-@@version@@-@@edition@@.jar found in folder
-InstallOption1 to tomcat/shared/lib. If that folder does not exist, you can 
+InstallOption1 to tomcat/shared/lib. If that folder does not exist, you can
 create it.
 2. Restart Alfresco, and you should have Swedish available as a language option
 for both Alfresco Share and Alfresco Explorer.
@@ -41,8 +42,8 @@ please follow instructions below.
 
    <config evaluator="string-compare" condition="Languages" replace="true">
       <languages>
-	<language locale="sv_SE">Swedish</language>         
-	<language locale="en_US">English</language> 
+	<language locale="sv_SE">Swedish</language>
+	<language locale="en_US">English</language>
       </languages>
    </config>
 
@@ -59,10 +60,10 @@ set [sv] or [sv_SE] as your topmost preferred language.
 
 * Known issues *
 SHARE
-If your locale is non-english, ie you have in 
+If your locale is non-english, ie you have in
 JAVA_OPTS -Duser.language=sv -Duser.country=SE
 you will be unable to display the standard default english user interface.
-Workaround: Use -Duser.language=en -Duser.country=US in JAVA_OPTS or if you 
+Workaround: Use -Duser.language=en -Duser.country=US in JAVA_OPTS or if you
 need Swedish for Alfresco repository, install Alfresco Share on separate Tomcat.
 https://issues.alfresco.com/jira/browse/ALF-2921
 
@@ -70,22 +71,16 @@ TinyMCE not displayed in Swedish when used in forms
 http://issues.alfresco.com/jira/browse/ALF-5567
 
 Please report your findings in the issue tracker:
-http://code.google.com/p/alfresco-swedish/issues/list
+https://github.com/loftuxab/alfresco-swedish
 
 * Terminology and spelling *
 For the translation to be consistent a terminology file has been created.
 There may be inconsistencies, please report them if you find any.
-If you have other suggestions, or find spelling errors please feel free to 
-discuss the in the forum.
-
-* Customisation *
-If you need to adapt this translation for you speciall needs you can do so
-by editing using a text editor or follow this guide
-http://code.google.com/p/alfresco-swedish/w/list
+If you have other suggestions, or find spelling errors please feel free to
+report them in the issue tracker.
 
 * Current maintainers *
 Peter Löfgren		Loftux AB - http://loftux.se
-Niklas Ekman		Redpill Linpro AB - http://www.redpill-linpro.com
 
 Based on work in the Swedish translation project
 http://forge.alfresco.com/projects/languagesv/
@@ -95,6 +90,7 @@ Patrik Bergström	Monator
 Alexandra Larsson	RFSL
 Anders Nygårds		Cad-Q
 Johan Börjesson		Infomega
+Niklas Ekman		Redpill Linpro AB
 
 * TinyMCE translation *
 This release has translation files for TinyMCE Swedish (sv) included.
