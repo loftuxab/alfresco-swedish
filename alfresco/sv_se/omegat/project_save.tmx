@@ -12594,6 +12594,14 @@ RESULT:
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Click on a preview to go to the file or press Enter to go to the full search results where you can filter results.</seg>
+      </tuv>
+      <tuv lang="SV-SE" changeid="peter" changedate="20160809T123028Z">
+        <seg>Klicka på förhandsgransking för att gå till dokumentet eller tryck Retur för att gå till full sökning där du kan filtrera resultatet.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Click the ''Create Forum Space'' action to create a forum space or ''Create Forum'' action to create a forum.</seg>
       </tuv>
       <tuv lang="SV-SE">
@@ -12702,6 +12710,22 @@ RESULT:
       </tuv>
       <tuv lang="SV-SE">
         <seg>Klicka för att lägga till i listan</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Click to change the sort order to be ascending</seg>
+      </tuv>
+      <tuv lang="SV-SE" changeid="peter" changedate="20160809T123126Z">
+        <seg>Klicka för att öndra sorteringsordning till stigande</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Click to change the sort order to be descending</seg>
+      </tuv>
+      <tuv lang="SV-SE" changeid="peter" changedate="20160809T123136Z">
+        <seg>Klicka för att öndra sorteringsordning till fallande</seg>
       </tuv>
     </tu>
     <tu>
@@ -13094,6 +13118,22 @@ RESULT:
       </tuv>
       <tuv lang="SV-SE" changeid="peter" changedate="20120421T100925Z">
         <seg>Klicka för att sortera fallande</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Click to sort the list by {0} in ascending order</seg>
+      </tuv>
+      <tuv lang="SV-SE" changeid="peter" changedate="20160809T123200Z">
+        <seg>Klicka för att sortera listan {0} i stigande ordning</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Click to sort the list by {0} in descending order</seg>
+      </tuv>
+      <tuv lang="SV-SE" changeid="peter" changedate="20160809T123211Z">
+        <seg>Klicka för att sortera listan {0} i fallande ordning</seg>
       </tuv>
     </tu>
     <tu>
@@ -40484,6 +40524,14 @@ RESULT:
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Modified {0}</seg>
+      </tuv>
+      <tuv lang="SV-SE" changeid="peter" changedate="20160809T122904Z">
+        <seg>Ändrad {0}</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Modified {0} by {1}</seg>
       </tuv>
       <tuv lang="SV-SE" changeid="peter" changedate="20110511T133645Z">
@@ -54002,6 +54050,14 @@ RESULT:
       </tuv>
       <tuv lang="SV-SE">
         <seg>Sök</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Search ''{0}''</seg>
+      </tuv>
+      <tuv lang="SV-SE" changeid="peter" changedate="20160809T122912Z">
+        <seg>Sök ''{0}''</seg>
       </tuv>
     </tu>
     <tu>
@@ -72107,6 +72163,22 @@ Värdet {0} är ogiltigt för aktivitetens egenskap {1}.</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Type into the search box to search for files in Alfresco.</seg>
+      </tuv>
+      <tuv lang="SV-SE" changeid="peter" changedate="20160809T123056Z">
+        <seg>Skriv i sökrutan för att söka dokument i Alfresco.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Type into the search box to search for files in the site.</seg>
+      </tuv>
+      <tuv lang="SV-SE" changeid="peter" changedate="20160809T123047Z">
+        <seg>Skriv i sökrutan för att söka filer i webbplatsen.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Type name</seg>
       </tuv>
       <tuv lang="SV-SE" changeid="peter" changedate="20150915T114749Z">
@@ -85101,6 +85173,14 @@ Vänligen kontakta din systemadministratör</seg>
       </tuv>
       <tuv lang="SV-SE">
         <seg>{0} hittades inte i {1}.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>{0} of {1}</seg>
+      </tuv>
+      <tuv lang="SV-SE" changeid="peter" changedate="20160809T122852Z">
+        <seg>{0} av {1}</seg>
       </tuv>
     </tu>
     <tu>
