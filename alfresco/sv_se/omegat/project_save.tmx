@@ -1862,6 +1862,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>&lt;div id="deauth-confirm" style="padding: 1em; "&gt;&amp;nbsp;&amp;nbsp;You can't &lt;a href="http://docs.alfresco.com/{0}/tasks/license-deauthorize.html" target="_blank"&gt; &lt;font color="blue"&gt;reauthorize a deauthorized user.&lt;/font&gt;&lt;/a&gt;</seg>
+      </tuv>
+      <tuv lang="SV-SE" changeid="peter" changedate="20160809T125701Z">
+        <seg>&lt;div id="deauth-confirm" style="padding: 1em; "&gt;&amp;nbsp;&amp;nbsp;You can't &lt;a href="http://docs.alfresco.com/{0}/tasks/license-deauthorize.html" target="_blank"&gt; &lt;font color="blue"&gt;återauktorisera en avauktoriserad användare.&lt;/font&gt;&lt;/a&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>&lt;engine&gt; workflow engine name (eg.</seg>
       </tuv>
       <tuv lang="SV-SE" changeid="peter" changedate="20110430T070015Z">
@@ -2612,6 +2620,22 @@ RESULT:
       </tuv>
       <tuv lang="SV-SE" changeid="peter" changedate="20120420T164731Z">
         <seg>En webbplats är en projektarea där du kan dela och diskutera innehåll med andra medlemmar i webbplatsen.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>A site manager has switched off all the features of this site.&lt;br/&gt;Click the Settings icon &lt;span class="alf-configure-icon"&gt;&amp;nbsp;&lt;/span&gt; and select Customize Site to add one or more site features.</seg>
+      </tuv>
+      <tuv lang="SV-SE" changeid="peter" changedate="20160809T125856Z">
+        <seg>En webbplatsansvarig har slagit av alla funktioner för webbplatsen.&lt;br/&gt;Klicka inställningsikonen &lt;span class="alf-configure-icon"&gt;&amp;nbsp;&lt;/span&gt; och välj anpassa för att lägga till en eller flera funktioner.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>A site manager has switched off all the features of this site.&lt;br/&gt;Look at the Site Members to find a site manager who can add features to the site.</seg>
+      </tuv>
+      <tuv lang="SV-SE" changeid="peter" changedate="20160809T125942Z">
+        <seg>En webbplatsansvarig har slagit av alla funktioner för webbplatsen.&lt;br/&gt;Titta i listan över webbplatsmedlemmar för att hitta en Webbplatsansvarig som kan lägga till funktioner till webbplatsen.</seg>
       </tuv>
     </tu>
     <tu>
@@ -6262,6 +6286,14 @@ RESULT:
       </tuv>
       <tuv lang="SV-SE" changeid="peter" changedate="20130821T095103Z">
         <seg>Ett ogiltigt argument mottogs {0}</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>An invalid {1} query was received.</seg>
+      </tuv>
+      <tuv lang="SV-SE" changeid="peter" changedate="20160809T124304Z">
+        <seg>En ogiltig {1} sökning mottogs.</seg>
       </tuv>
     </tu>
     <tu>
@@ -15234,6 +15266,14 @@ RESULT:
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Content storage quota exceeded</seg>
+      </tuv>
+      <tuv lang="SV-SE" changeid="peter" changedate="20160809T124342Z">
+        <seg>Lagringskvotan överkskriden</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Content that has or can expire</seg>
       </tuv>
       <tuv lang="SV-SE" changeid="peter" changedate="20110805T085122Z">
@@ -18250,6 +18290,14 @@ RESULT:
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Current File</seg>
+      </tuv>
+      <tuv lang="SV-SE" changeid="peter" changedate="20160809T125708Z">
+        <seg>Nuvarande fil</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Current Layout:</seg>
       </tuv>
       <tuv lang="SV-SE">
@@ -18350,6 +18398,14 @@ RESULT:
       </tuv>
       <tuv lang="SV-SE">
         <seg>Nuvarande layout</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Current version</seg>
+      </tuv>
+      <tuv lang="SV-SE" changeid="peter" changedate="20160809T125725Z">
+        <seg>Aktuell version</seg>
       </tuv>
     </tu>
     <tu>
@@ -28682,6 +28738,14 @@ RESULT:
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Filename</seg>
+      </tuv>
+      <tuv lang="SV-SE" changeid="peter" changedate="20160809T125729Z">
+        <seg>Filnamn</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Filename Pattern</seg>
       </tuv>
       <tuv lang="SV-SE" changeid="peter" changedate="20110805T084359Z">
@@ -29938,6 +30002,14 @@ RESULT:
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>For security reasons the stack trace is no longer displayed, but the property is kept for previous versions.</seg>
+      </tuv>
+      <tuv lang="SV-SE" changeid="peter" changedate="20160809T124433Z">
+        <seg>Av säkerhetskäl visas inte längre stack tracen, men egenskapen finns kvar för tidigare versionen.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Forbidden</seg>
       </tuv>
       <tuv lang="SV-SE">
@@ -30526,6 +30598,14 @@ RESULT:
       </tuv>
       <tuv lang="SV-SE">
         <seg>Fullskärm</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Further information about the Repository Administration Console can be found in the &lt;a href="http://docs.alfresco.com/{0}/concepts/at-adminconsole.html" target="new"&gt;Alfresco Documentation&lt;/a&gt;.</seg>
+      </tuv>
+      <tuv lang="SV-SE" changeid="peter" changedate="20160809T125326Z">
+        <seg>Ytterligare information om Arkiv Administrationskonsoll kan hittas i &lt;a href="http://docs.alfresco.com/{0}/concepts/at-adminconsole.html" target="new"&gt;Alfresco dokumentation (Engelska)&lt;/a&gt;.</seg>
       </tuv>
     </tu>
     <tu>
@@ -33394,6 +33474,14 @@ RESULT:
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>In this version of the REST API resource {0} has been deleted</seg>
+      </tuv>
+      <tuv lang="SV-SE" changeid="peter" changedate="20160809T124318Z">
+        <seg>I denna version av REST API resursen {0} har tagits bort</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>In {0}</seg>
       </tuv>
       <tuv lang="SV-SE">
@@ -33854,6 +33942,14 @@ RESULT:
       </tuv>
       <tuv lang="SV-SE" changeid="peter" changedate="20150313T120050Z">
         <seg>Information om widget {0}</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Information is currently unavailable</seg>
+      </tuv>
+      <tuv lang="SV-SE" changeid="peter" changedate="20160809T124217Z">
+        <seg>Informationen är för närvarande inte tillgänglig</seg>
       </tuv>
     </tu>
     <tu>
@@ -36446,6 +36542,14 @@ RESULT:
       </tuv>
       <tuv lang="SV-SE" changeid="peter" changedate="20120420T163830Z">
         <seg>Senaste jobbet lyckades.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Last modified</seg>
+      </tuv>
+      <tuv lang="SV-SE" changeid="peter" changedate="20160809T125736Z">
+        <seg>Senast ändrad</seg>
       </tuv>
     </tu>
     <tu>
@@ -39048,6 +39152,14 @@ RESULT:
       </tuv>
       <tuv lang="SV-SE" changeid="peter" changedate="20160119T064125Z">
         <seg>Många av verktygen som tidigare fanns i Share Administrationskonsol har ny flyttats till den nya &lt;a href="http://docs.alfresco.com/{0}/concepts/at-adminconsole.html" target="new"&gt;Repository Administrationskonsol&lt;/a&gt;.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Many of the tools previously found in the Share Administration Console have now been moved to the new &lt;a href="{0}/proxy/alfresco/enterprise/admin/admin-systemsummary" target="new"&gt;Repository Administration Console&lt;/a&gt;.</seg>
+      </tuv>
+      <tuv lang="SV-SE" changeid="peter" changedate="20160809T125231Z">
+        <seg>Flera av verktygen som tidigare återfanns i Share Administratisonkonsol har ny flyttats till den nyea &lt;a href="{0}/proxy/alfresco/enterprise/admin/admin-systemsummary" target="new"&gt;Arkiv Administrationskonsoll&lt;/a&gt;.</seg>
       </tuv>
     </tu>
     <tu>
@@ -42212,6 +42324,14 @@ RESULT:
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>New File</seg>
+      </tuv>
+      <tuv lang="SV-SE" changeid="peter" changedate="20160809T125711Z">
+        <seg>Ny fil</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>New Folder</seg>
       </tuv>
       <tuv lang="SV-SE">
@@ -42376,6 +42496,14 @@ RESULT:
       </tuv>
       <tuv lang="SV-SE">
         <seg>Guide för att skapa en ny användare</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>New Version Information</seg>
+      </tuv>
+      <tuv lang="SV-SE" changeid="peter" changedate="20160809T125718Z">
+        <seg>Ny versionsinformation</seg>
       </tuv>
     </tu>
     <tu>
@@ -46650,6 +46778,14 @@ RESULT:
       </tuv>
       <tuv lang="SV-SE" changeid="peter" changedate="20111216T203656Z">
         <seg>Patch successful.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Patch that redeploys activitiInvitationNominatedAddDirect workflow after upgrade, needed for tenants created before 5.1</seg>
+      </tuv>
+      <tuv lang="SV-SE" changeid="peter" changedate="20160809T123925Z">
+        <seg>Patch that redeploys activitiInvitationNominatedAddDirect workflow after upgrade, needed for tenants created before 5.1</seg>
       </tuv>
     </tu>
     <tu>
@@ -51910,6 +52046,14 @@ RESULT:
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Request entity too large</seg>
+      </tuv>
+      <tuv lang="SV-SE" changeid="peter" changedate="20160809T124326Z">
+        <seg>Begäranenhet för stor</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Request failed due to error.</seg>
       </tuv>
       <tuv lang="SV-SE" changeid="peter" changedate="20150313T120320Z">
@@ -54129,6 +54273,14 @@ RESULT:
         <seg>Search Manager</seg>
       </tuv>
       <tuv lang="SV-SE" changeid="peter" changedate="20110809T061609Z">
+        <seg>Sökhantering</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Search Manager Tool</seg>
+      </tuv>
+      <tuv lang="SV-SE" changeid="peter" changedate="20160809T125334Z">
         <seg>Sökhantering</seg>
       </tuv>
     </tu>
@@ -61583,6 +61735,14 @@ RESULT:
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Successfully removed password2 property for ''{0}''.</seg>
+      </tuv>
+      <tuv lang="SV-SE" changeid="peter" changedate="20160809T123942Z">
+        <seg>Successfully removed password2 property for ''{0}''.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Successfully removed permissions.</seg>
       </tuv>
       <tuv lang="SV-SE" changeid="peter" changedate="20150915T113130Z">
@@ -64108,6 +64268,14 @@ Identifikationen för en grupp kan inte ändras då den redan är fastställd. <
       </tuv>
       <tuv lang="SV-SE" changeid="peter" changedate="20130822T170843Z">
         <seg>Dialogen för att återuppta redigering kunde inte öppnas.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>The Search Manager is accessed from the search results screen, or click</seg>
+      </tuv>
+      <tuv lang="SV-SE" changeid="peter" changedate="20160809T125610Z">
+        <seg>Sökhanteraren kan kommas åt från sökresultatsidan eller klicka</seg>
       </tuv>
     </tu>
     <tu>
@@ -70829,8 +70997,8 @@ Värdet {0} är ogiltigt för aktivitetens egenskap {1}.</seg>
       <tuv lang="EN-US">
         <seg>To search user profiles (by location, job title, or organization) include the profile property you're searching by, for example, "location:London", "organization:Alfresco", or "jobtitle:Manager".</seg>
       </tuv>
-      <tuv lang="SV-SE" changeid="peter" changedate="20140922T074546Z">
-        <seg>För att söka användarprofile (efter plats, jobbtitel eller organisation) inkludera profilegenskapen du vill söka efter, till exempel, "location:Vittangi", "organization:Loftux", eller "jobtitle:Chef".</seg>
+      <tuv lang="SV-SE" changeid="peter" changedate="20160810T133205Z">
+        <seg>För att söka användarprofil (efter plats, jobbtitel eller organisation) inkludera profilegenskapen du vill söka efter, till exempel, "location:Vittangi", "organization:Loftux", eller "jobtitle:Chef".</seg>
       </tuv>
     </tu>
     <tu>
@@ -74120,6 +74288,22 @@ Värdet {0} är ogiltigt för aktivitetens egenskap {1}.</seg>
       </tuv>
       <tuv lang="SV-SE" changeid="peter" changedate="20150209T064836Z">
         <seg>Update Activiti tables.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Update Admin User SHA256 When default</seg>
+      </tuv>
+      <tuv lang="SV-SE" changeid="peter" changedate="20160809T123938Z">
+        <seg>Update Admin User SHA256 When default</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Update Admin User by removing the default SHA256 and falling back to the MD4 (please consider using BCRYPT instead)</seg>
+      </tuv>
+      <tuv lang="SV-SE" changeid="peter" changedate="20160809T123936Z">
+        <seg>Update Admin User by removing the default SHA256 and falling back to the MD4 (please consider using BCRYPT instead)</seg>
       </tuv>
     </tu>
     <tu>
@@ -77605,6 +77789,14 @@ Värdet {0} är ogiltigt för aktivitetens egenskap {1}.</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>We couldn't complete the request.</seg>
+      </tuv>
+      <tuv lang="SV-SE" changeid="peter" changedate="20160809T124236Z">
+        <seg>Kunde inte färdigställa begäran</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>We couldn't create a download node.</seg>
       </tuv>
       <tuv lang="SV-SE" changeid="peter" changedate="20150906T081557Z">
@@ -78841,6 +79033,14 @@ Värdet {0} är ogiltigt för aktivitetens egenskap {1}.</seg>
       </tuv>
       <tuv lang="SV-SE">
         <seg>Med innehåll</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>With the Search Manager you can see details of existing search filters and create new filters.&amp;nbsp; The Search Manager is available to users in the ALFRESCO_ADMINISTRATORS and ALFRESCO_SEARCH_ADMINISTRATORS permissions groups.</seg>
+      </tuv>
+      <tuv lang="SV-SE" changeid="peter" changedate="20160809T125536Z">
+        <seg>Med sökhantering kan du se alla detaljer kring existerande sökfilter och skapa nya.&amp;nbsp; Sökhantering är tillgänglig för användare i grupperna ALFRESCO_ADMINISTRATORS och ALFRESCO_SEARCH_ADMINISTRATORS.</seg>
       </tuv>
     </tu>
     <tu>
@@ -85333,6 +85533,14 @@ Vänligen kontakta din systemadministratör</seg>
       </tuv>
       <tuv lang="SV-SE">
         <seg>{0} {1} har avböjt att bli medlem av webbplatsen {2}.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>{0} {1} shared {2} with you</seg>
+      </tuv>
+      <tuv lang="SV-SE" changeid="peter" changedate="20160809T124008Z">
+        <seg>{0} {1} delade {2} med dig</seg>
       </tuv>
     </tu>
     <tu>
