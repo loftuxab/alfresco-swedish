@@ -1,5 +1,9 @@
-Svenskt språkpaket för Alfresco
-====
+
+![](https://loftux.com/files/static/images/swedish_language_pack_logo.png)
+
+
+#Svenskt språkpaket för Alfresco
+
 Här kan du ladda ner språkpaket för Alfresco Community Edition.
 
 **Vad finns på Svenska?**  
@@ -36,4 +40,5 @@ This is localized to 100% and includes what is most often used with Alfresco.
 * Module Records Management
 * Module Alfresco Web Quick Start
 
-> Localization of Alfresco to Swedish is sponsored by [Loftux AB](http://loftux.com)
+###About 
+Localization of Alfresco to Swedish is sponsored by [Loftux AB](http://loftux.com)
