@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE tmx SYSTEM "tmx11.dtd">
 <tmx version="1.1">
-  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="OmegaT-4.0.1" segtype="sentence" srclang="EN-US"/>
+  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="OmegaT-4.1.0" segtype="sentence" srclang="EN-US"/>
   <body>
 <!-- Default translations -->
     <tu>
@@ -274,6 +274,14 @@
       </tuv>
       <tuv lang="SV-SE" changeid="peter" changedate="20120223T185734Z">
         <seg>"imap:nonSubscribed" aspect was successfully removed from unsubscribed folders.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>"{0} has been deactivated and can''t be invited"</seg>
+      </tuv>
+      <tuv lang="SV-SE" changeid="peter" changedate="20170206T091350Z" creationid="peter" creationdate="20170206T091350Z">
+        <seg>"{0} har inaktiverats och kan inte bjudas in"</seg>
       </tuv>
     </tu>
     <tu>
@@ -710,6 +718,22 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>&amp;copy; 2005-2017 Alfresco Software Inc.</seg>
+      </tuv>
+      <tuv lang="SV-SE" changeid="peter" changedate="20170206T102207Z" creationid="peter" creationdate="20170206T102207Z">
+        <seg>&amp;copy; 2005-2017 Alfresco Software Inc.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>&amp;copy; 2005-2017 All rights reserved.</seg>
+      </tuv>
+      <tuv lang="SV-SE" changeid="peter" changedate="20170206T101852Z" creationid="peter" creationdate="20170206T101852Z">
+        <seg>&amp;copy; 2005-2017 Alla rättigheter reserverade.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>&amp;copy; 2008 All rights reserved.</seg>
       </tuv>
       <tuv lang="SV-SE">
@@ -842,6 +866,14 @@
       </tuv>
       <tuv lang="SV-SE" changeid="peter" changedate="20121128T142939Z">
         <seg>''valueType'' känns inte igen {0}</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>''{0}''</seg>
+      </tuv>
+      <tuv lang="SV-SE" changeid="peter" changedate="20170206T100404Z" creationid="peter" creationdate="20170206T100404Z">
+        <seg>''{0}''</seg>
       </tuv>
     </tu>
     <tu>
@@ -1846,6 +1878,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>&lt;div class="alf-confirmation-panel-text"&gt;   You can always show it again later by using the option in the Customize User Dashboard screen.&lt;/div&gt;   &lt;p&gt;Select the Settings icon &lt;span class="alf-configure-icon alfresco-menus-AlfMenuItemIconMixin alf-hide-confirmation"&gt;&amp;nbsp;&lt;/span&gt; on your dashboard to get there.&lt;/p&gt;</seg>
+      </tuv>
+      <tuv lang="SV-SE" changeid="peter" changedate="20170206T100814Z" creationid="peter" creationdate="20170206T100814Z">
+        <seg>&lt;div class="alf-confirmation-panel-text"&gt;Du kan alltid visa den igen genom att senare via sidan för anpassning av användaranslagstavlan.&lt;/div&gt;&lt;p&gt;Välj inställningsikonen &lt;span class="alf-configure-icon alfresco-menus-AlfMenuItemIconMixin alf-hide-confirmation"&gt;&amp;nbsp;&lt;/span&gt; på din anslagstavla för att komma dit.&lt;/p&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>&lt;div class="alf-confirmation-panel-text"&gt;You can always show it again later by using the option in the Customize User Dashboard screen.&lt;/div&gt;&lt;p&gt;Select the Settings icon &lt;span class="alf-configure-icon alf-hide-confirmation"&gt;&amp;nbsp;&lt;/span&gt; on your dashboard to get there.&lt;/p&gt;</seg>
       </tuv>
       <tuv lang="SV-SE" changeid="peter" changedate="20150905T142727Z">
@@ -1950,6 +1990,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>&lt;p&gt;A Document Workspace is a type of site that is created outside of Alfresco Content Services.</seg>
+      </tuv>
+      <tuv lang="SV-SE" changeid="peter" changedate="20170206T101158Z" creationid="peter" creationdate="20170206T101158Z">
+        <seg>&lt;p&gt;En Mötesarbetsyta är en webbplats som är skapad utanför Alfresco Content Services.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>&lt;p&gt;A Document Workspace is a type of site that is created outside of Alfresco Team.</seg>
       </tuv>
       <tuv lang="SV-SE" changeid="peter" changedate="20110412T173908Z">
@@ -1966,6 +2014,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>&lt;p&gt;A Meeting Workspace is a type of site that is created outside of Alfresco Content Services.</seg>
+      </tuv>
+      <tuv lang="SV-SE" changeid="peter" changedate="20170206T101038Z" creationid="peter" creationdate="20170206T101038Z">
+        <seg>&lt;p&gt;En Mötesarbetsyta är en webbplats som är skapad utanför Alfresco Content Services.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>&lt;p&gt;A Meeting Workspace is a type of site that is created outside of Alfresco Team.</seg>
       </tuv>
       <tuv lang="SV-SE" changeid="peter" changedate="20110531T062945Z">
@@ -1978,6 +2034,14 @@
       </tuv>
       <tuv lang="SV-SE" changeid="peter" changedate="20111207T075005Z">
         <seg>&lt;p&gt;En Mötesarbetsyta är en typ av webbplats som skapats med annat verktyg än Alfresco.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>&lt;p&gt;Discussion Forum dashlet.&lt;/p&gt;   &lt;p&gt;View your latest posts on the Discussion Forum.&lt;/p&gt;</seg>
+      </tuv>
+      <tuv lang="SV-SE" changeid="peter" changedate="20170206T100925Z" creationid="peter" creationdate="20170206T100925Z">
+        <seg>&lt;p&gt;Diskussionsforum dashlet.&lt;/p&gt;&lt;p&gt;Visa dina senaste inlägg i diskussionsforumet.&lt;/p&gt;</seg>
       </tuv>
     </tu>
     <tu>
@@ -2046,6 +2110,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>&lt;p&gt;This dashlet shows a page selected from the site's wiki.&lt;/p&gt; &lt;p&gt;Navigate to the wiki to see all related content.&lt;/p&gt;</seg>
+      </tuv>
+      <tuv lang="SV-SE" changeid="peter" changedate="20170206T101735Z" creationid="peter" creationdate="20170206T101735Z">
+        <seg>&lt;p&gt;Den här dashleten visar en sida vald från webbplatsens wiki.&lt;/p&gt;&lt;p&gt;Navigera till wiki för att se allt relaterat innehåll.&lt;/p&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>&lt;p&gt;This dashlet shows a page selected from the site's wiki.&lt;/p&gt;&lt;p&gt;Navigate to the wiki to see all related content.&lt;/p&gt;</seg>
       </tuv>
       <tuv lang="SV-SE" changeid="peter" changedate="20110531T063130Z">
@@ -2058,6 +2130,14 @@
       </tuv>
       <tuv lang="SV-SE" changeid="peter" changedate="20110531T063121Z">
         <seg>&lt;p&gt;Den här dashleten visar en webbsida som du själv väljer.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>&lt;p&gt;Use this dashlet to perform a site search and view the results.&lt;/p&gt; &lt;p&gt;Clicking the item name takes you to the details page so you can preview or work with the item.&lt;/p&gt;</seg>
+      </tuv>
+      <tuv lang="SV-SE" changeid="peter" changedate="20170206T101715Z" creationid="peter" creationdate="20170206T101715Z">
+        <seg>&lt;p&gt;Använd denna dashlet för att visa resultatet av en webbplatssökning.&lt;/p&gt;&lt;p&gt;Klicka på namnet för att komma till sidan med detaljinformation där du kan förhandsgranska eller arbeta med dokumentet.&lt;/p&gt;</seg>
       </tuv>
     </tu>
     <tu>
@@ -2086,6 +2166,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>&lt;p&gt;Use this dashlet to set up a search and view the results.&lt;/p&gt;   &lt;p&gt;Configure the dashlet to save the search and set the title text of the dashlet.&lt;/p&gt;   &lt;p&gt;Only a Site Manager can configure the search and title - this dashlet is ideal for generating report views in a site.&lt;/p&gt;</seg>
+      </tuv>
+      <tuv lang="SV-SE" changeid="peter" changedate="20170206T101631Z" creationid="peter" creationdate="20170206T101631Z">
+        <seg>&lt;p&gt;Använd denna dashlet för att skapa en sökning och visa resultatet.&lt;/p&gt;&lt;p&gt;Konfigurera dashleten för att spara sökningen och sätta titel på dsahleten.&lt;/p&gt;&lt;p&gt;Endast en webbplatsansvarig kan konfigurera sökning och titel - dashleten är utmärkt för att skapa raportvyer in webbplats.&lt;/p&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>&lt;p&gt;Use this dashlet to set up a search and view the results.&lt;/p&gt;&lt;p&gt;Configure the dashlet to save the search and set the title text of the dashlet.&lt;/p&gt;&lt;p&gt;Only a Site Manager can configure the search and title - this dashlet is ideal for generating report views in a site.&lt;/p&gt;</seg>
       </tuv>
       <tuv lang="SV-SE" changeid="peter" changedate="20120808T164800Z">
@@ -2094,10 +2182,26 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>&lt;p&gt;We may have hit an error or something might have been removed or deleted, so check that the URL is correct.&lt;/p&gt; &lt;p&gt;Alternatively you might not have permission to view the page (it could be on a private site) or there could have been an internal error.</seg>
+      </tuv>
+      <tuv lang="SV-SE" changeid="peter" changedate="20170206T102337Z" creationid="peter" creationdate="20170206T102337Z">
+        <seg>&lt;p&gt;Ett tillfälligt fel kan ha inträffat eller så har något tagits bort så kontrollera den URL du angett är riktig.&lt;/p&gt;&lt;p&gt;Alternativt saknar du rättigheter att se den sida du försöker visa (den kan vara i en privat webbplats) eller så har ett internt fel inträffat.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>&lt;p&gt;We may have hit an error or something might have been removed or deleted, so check that the URL is correct.&lt;/p&gt;&lt;p&gt;Alternatively you might not have permission to view the page (it could be on a private site) or there could have been an internal error.</seg>
       </tuv>
       <tuv lang="SV-SE" changeid="peter" changedate="20151006T083357Z">
         <seg>&lt;p&gt;Ett tillfälligt fel kan ha inträffat eller så har något tagits bort så kontrollera den URL du angett är riktig.&lt;/p&gt;&lt;p&gt;Alternativt saknar du rättigheter att se den sida du försöker visa(den kan vara i en privat webbplats) eller så har ett internt fel inträffat.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>&lt;p&gt;You can also drag and drop files from your desktop into the Document Library.&lt;/p&gt; &lt;p&gt;To use drag and drop instead, close the uploader below.&lt;/p&gt;</seg>
+      </tuv>
+      <tuv lang="SV-SE" changeid="peter" changedate="20170206T101812Z" creationid="peter" creationdate="20170206T101812Z">
+        <seg>&lt;p&gt;Du kan också dra och släppa filer från ditt skrivbort till dokumentbibliotek.&lt;/p&gt;&lt;p&gt;För att dra och släppa filer istället, stäng uppladdningsdialogen nedan.&lt;/p&gt;</seg>
       </tuv>
     </tu>
     <tu>
@@ -3428,6 +3532,22 @@ RESULT:
       </tuv>
       <tuv lang="SV-SE" changeid="peter" changedate="20110511T131827Z">
         <seg>Aktivitetsflöden</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Activities Site Feed for {0}</seg>
+      </tuv>
+      <tuv lang="SV-SE" changeid="peter" changedate="20170206T090616Z" creationid="peter" creationdate="20170206T090616Z">
+        <seg>Aktivitetsflöde för webbplats {0}</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Activities User Feed for {0}</seg>
+      </tuv>
+      <tuv lang="SV-SE" changeid="peter" changedate="20170206T090627Z" creationid="peter" creationdate="20170206T090627Z">
+        <seg>Flöde för användare {0}</seg>
       </tuv>
     </tu>
     <tu>
@@ -5064,6 +5184,14 @@ RESULT:
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Alfresco Community Edition</seg>
+      </tuv>
+      <tuv lang="SV-SE" changeid="peter" changedate="20170206T102117Z" creationid="peter" creationdate="20170206T102117Z">
+        <seg>Alfresco Community Edition</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Alfresco Community by &lt;a href='https://loftux.com/alfresco/support?ref=share' target='_blank'&gt;&lt;b&gt;Loftux AB&lt;/b&gt;&lt;/a&gt;&lt;br /&gt;Alfresco Software Inc.</seg>
       </tuv>
       <tuv lang="SV-SE" changeid="peter" changedate="20141023T074109Z">
@@ -5084,6 +5212,86 @@ RESULT:
       </tuv>
       <tuv lang="SV-SE">
         <seg>Alfresco innehållsarkiv</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Alfresco Content Services</seg>
+      </tuv>
+      <tuv lang="SV-SE" changeid="peter" changedate="20170206T102106Z" creationid="peter" creationdate="20170206T102106Z">
+        <seg>Alfresco Content Services</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Alfresco Content Services System Model</seg>
+      </tuv>
+      <tuv lang="SV-SE" changeid="peter" changedate="20170206T093312Z" creationid="peter" creationdate="20170206T093312Z">
+        <seg>Alfresco Content Services Systemmodel</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Alfresco Content Services Transfer Application Model</seg>
+      </tuv>
+      <tuv lang="SV-SE" changeid="peter" changedate="20170206T093412Z" creationid="peter" creationdate="20170206T093412Z">
+        <seg>Alfresco Content Services applikationsmodell för överföringar</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Alfresco Content Services Tutorial</seg>
+      </tuv>
+      <tuv lang="SV-SE" changeid="peter" changedate="20170206T090823Z" creationid="peter" creationdate="20170206T090823Z">
+        <seg>Alfresco Content Services användarguide</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Alfresco Content Services database schema number.</seg>
+      </tuv>
+      <tuv lang="SV-SE" changeid="peter" changedate="20170206T095339Z" creationid="peter" creationdate="20170206T095339Z">
+        <seg>Alfresco Content Services databas schema-number.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Alfresco Content Services is currently in read-only mode.</seg>
+      </tuv>
+      <tuv lang="SV-SE" changeid="peter" changedate="20170206T093242Z" creationid="peter" creationdate="20170206T093242Z">
+        <seg>Alfresco Content Services är för närvarande i skrivskyddat läge.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Alfresco Content Services is starting with errors.</seg>
+      </tuv>
+      <tuv lang="SV-SE" changeid="peter" changedate="20170206T091600Z" creationid="peter" creationdate="20170206T091600Z">
+        <seg>Alfresco Content Services startar med fel.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Alfresco Content Services started ({0}{1}{2}).</seg>
+      </tuv>
+      <tuv lang="SV-SE" changeid="peter" changedate="20170206T093226Z" creationid="peter" creationdate="20170206T093226Z">
+        <seg>Alfresco Content Services startardes ({0}{1}{2}).</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Alfresco Content Services version and build number.</seg>
+      </tuv>
+      <tuv lang="SV-SE" changeid="peter" changedate="20170206T095324Z" creationid="peter" creationdate="20170206T095324Z">
+        <seg>Alfresco Content Services version och bygg-nummer.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Alfresco Content Services will be unable to connect to the cloud on your behalf (for example to sync documents) if you proceed.</seg>
+      </tuv>
+      <tuv lang="SV-SE" changeid="peter" changedate="20170206T102034Z" creationid="peter" creationdate="20170206T102034Z">
+        <seg>Alfresco  Content Services kommer inte kunna ansluta till molnet för din räkning (för att synkronisera dokument) om du fortsätter.</seg>
       </tuv>
     </tu>
     <tu>
@@ -5204,6 +5412,14 @@ RESULT:
       </tuv>
       <tuv lang="SV-SE" changeid="peter" changedate="20140526T075109Z">
         <seg>Alfresco sökadminstratörsrättigheter krävs</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Alfresco Share</seg>
+      </tuv>
+      <tuv lang="SV-SE" changeid="peter" changedate="20170206T102105Z" creationid="peter" creationdate="20170206T102105Z">
+        <seg>Alfresco Share</seg>
       </tuv>
     </tu>
     <tu>
@@ -7146,6 +7362,14 @@ RESULT:
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Are you sure you want to deauthorize &lt;b&gt;''{0}''&lt;/b&gt;?</seg>
+      </tuv>
+      <tuv lang="SV-SE" changeid="peter" changedate="20170206T100022Z" creationid="peter" creationdate="20170206T100022Z">
+        <seg>Är du säker på att du vill deauktorisera &lt;b&gt;"{0}"&lt;/b&gt;?</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Are you sure you want to delete "{0}" and all its contents?</seg>
       </tuv>
       <tuv lang="SV-SE">
@@ -7250,6 +7474,14 @@ RESULT:
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Are you sure you want to delete aspect ''{0}''?</seg>
+      </tuv>
+      <tuv lang="SV-SE" changeid="peter" changedate="20170206T090409Z" creationid="peter" creationdate="20170206T090409Z">
+        <seg>Är du säker på att du vill radera aspekten ''{0}''?</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Are you sure you want to delete aspect '{0}'?</seg>
       </tuv>
       <tuv lang="SV-SE" changeid="peter" changedate="20150915T121150Z">
@@ -7262,6 +7494,14 @@ RESULT:
       </tuv>
       <tuv lang="SV-SE">
         <seg>Är du säker på att du vill ta bort kategorin ''{0}'' och alla underkategorier?</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Are you sure you want to delete custom type ''{0}''?</seg>
+      </tuv>
+      <tuv lang="SV-SE" changeid="peter" changedate="20170206T090350Z" creationid="peter" creationdate="20170206T090350Z">
+        <seg>Är du säker på att du vill radera anpassad typ ''{0}''?</seg>
       </tuv>
     </tu>
     <tu>
@@ -7290,10 +7530,26 @@ RESULT:
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Are you sure you want to delete model ''{0}''?</seg>
+      </tuv>
+      <tuv lang="SV-SE" changeid="peter" changedate="20170206T090338Z" creationid="peter" creationdate="20170206T090338Z">
+        <seg>Är du säker på att du vill radera modell ''{0}''?</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Are you sure you want to delete model '{0}'?</seg>
       </tuv>
       <tuv lang="SV-SE" changeid="peter" changedate="20150915T121026Z">
         <seg>Är du säker på att du vill radera modell '{0}'?</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Are you sure you want to delete property ''{0}''?</seg>
+      </tuv>
+      <tuv lang="SV-SE" changeid="peter" changedate="20170206T090417Z" creationid="peter" creationdate="20170206T090417Z">
+        <seg>Är du säker på att du vill radera egenskapen ''{0}''?</seg>
       </tuv>
     </tu>
     <tu>
@@ -9962,6 +10218,14 @@ RESULT:
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>By connecting to Alfresco Content Services in the Cloud your content can be synced</seg>
+      </tuv>
+      <tuv lang="SV-SE" changeid="peter" changedate="20170206T101948Z" creationid="peter" creationdate="20170206T101948Z">
+        <seg>Genom att ansluta till Alfresco Content Services i molnet kan dokument synkroniseras</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>By connecting to Alfresco in the cloud your content can be synced</seg>
       </tuv>
       <tuv lang="SV-SE" changeid="peter" changedate="20120810T150006Z">
@@ -10062,6 +10326,14 @@ RESULT:
       </tuv>
       <tuv lang="SV-SE">
         <seg>INNEHÅLL INTEGRITETSFEL: Systeminnehåll hittas inte i innhållets datalager.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>CONTENT INTEGRITY ERROR: System content not found in content store: ''{0}''</seg>
+      </tuv>
+      <tuv lang="SV-SE" changeid="peter" changedate="20170206T091535Z" creationid="peter" creationdate="20170206T091535Z">
+        <seg>INNEHÅLL INTEGRITETSFEL: Systeminnehåll hittas inte i innhållets datalager ''{0}''.</seg>
       </tuv>
     </tu>
     <tu>
@@ -11914,6 +12186,14 @@ RESULT:
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Check your license.</seg>
+      </tuv>
+      <tuv lang="SV-SE" changeid="peter" changedate="20170206T093259Z" creationid="peter" creationdate="20170206T093259Z">
+        <seg>Kontrollera din licens.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Check your spelling.</seg>
       </tuv>
       <tuv lang="SV-SE" changeid="peter" changedate="20140526T072151Z">
@@ -12554,6 +12834,14 @@ RESULT:
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Click Delete User to remove this user.</seg>
+      </tuv>
+      <tuv lang="SV-SE" changeid="peter" changedate="20170206T100433Z" creationid="peter" creationdate="20170206T100433Z">
+        <seg>Klicka Radera för att ta bort användaren.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Click OK to delete site {0}</seg>
       </tuv>
       <tuv lang="SV-SE">
@@ -12574,6 +12862,14 @@ RESULT:
       </tuv>
       <tuv lang="SV-SE">
         <seg>Klicka OK för att publicera ändringarna i sandlådan till din allokerade testserver.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Click Request Sync to try again.</seg>
+      </tuv>
+      <tuv lang="SV-SE" changeid="peter" changedate="20170206T102656Z" creationid="peter" creationdate="20170206T102656Z">
+        <seg>Klicka Synkronisering för att försöka igen.</seg>
       </tuv>
     </tu>
     <tu>
@@ -12802,6 +13098,14 @@ RESULT:
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Click the edit icon on the dashlet to change the web address.&lt;/p&gt;   &lt;p&gt;Clicking the dashlet title opens the website in a separate window.&lt;/p&gt;</seg>
+      </tuv>
+      <tuv lang="SV-SE" changeid="peter" changedate="20170206T101727Z" creationid="peter" creationdate="20170206T101727Z">
+        <seg>Klicka redigera ikonen i dashleten för att ändra webadress.&lt;/p&gt;&lt;p&gt;Genom att klicka titeln på dashleten öppnas webbsidan i separat fönster.&lt;/p&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Click the edit icon on the dashlet to change the web address.&lt;/p&gt;&lt;p&gt;Clicking the dashlet title opens the website in a separate window.&lt;/p&gt;</seg>
       </tuv>
       <tuv lang="SV-SE" changeid="peter" changedate="20110430T071213Z">
@@ -12878,6 +13182,14 @@ RESULT:
       </tuv>
       <tuv lang="SV-SE" changeid="peter" changedate="20140914T100031Z">
         <seg>Klicka för att konfigurera sökning</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Click to delete ''{0}''</seg>
+      </tuv>
+      <tuv lang="SV-SE" changeid="peter" changedate="20170206T090448Z" creationid="peter" creationdate="20170206T090448Z">
+        <seg>Klicka för att radera ''{0}''</seg>
       </tuv>
     </tu>
     <tu>
@@ -13350,6 +13662,14 @@ RESULT:
       </tuv>
       <tuv lang="SV-SE" changeid="peter" changedate="20120601T144922Z">
         <seg>Genom att klicka på en miniatyrbild öppnas bilden i det aktuella fönstret.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Clicking the item name or thumbnail takes you to the details page so you can preview or work with the item.&lt;/p&gt;   &lt;p&gt;There are two views for this dashlet.</seg>
+      </tuv>
+      <tuv lang="SV-SE" changeid="peter" changedate="20170206T100647Z" creationid="peter" creationdate="20170206T100647Z">
+        <seg>Klicka på ett namn eller miniatyrbild som kommer du till sidan med detaljinformation där du kan förhandsgranska eller arbeta med dokumentet.&lt;/p&gt;   &lt;p&gt;Det finns två vyer för denna dashlet.</seg>
       </tuv>
     </tu>
     <tu>
@@ -15190,6 +15510,14 @@ RESULT:
       </tuv>
       <tuv lang="SV-SE" changeid="peter" changedate="20111014T174704Z">
         <seg>Innehållspublicering</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Content Repository</seg>
+      </tuv>
+      <tuv lang="SV-SE" changeid="peter" changedate="20170206T095214Z" creationid="peter" creationdate="20170206T095214Z">
+        <seg>Innehållsarkiv</seg>
       </tuv>
     </tu>
     <tu>
@@ -20994,6 +21322,14 @@ RESULT:
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Discussions Topics</seg>
+      </tuv>
+      <tuv lang="SV-SE" changeid="peter" changedate="20170206T102729Z" creationid="peter" creationdate="20170206T102720Z">
+        <seg>Diskussionsämnen</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Discussions: display topic detail view</seg>
       </tuv>
       <tuv lang="SV-SE">
@@ -21430,6 +21766,14 @@ RESULT:
       </tuv>
       <tuv lang="SV-SE" changeid="peter" changedate="20121010T191021Z">
         <seg>Vill du fortsätta?</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Do you want to disconnect from Alfresco Content Services in the Cloud?</seg>
+      </tuv>
+      <tuv lang="SV-SE" changeid="peter" changedate="20170206T102017Z" creationid="peter" creationdate="20170206T102017Z">
+        <seg>Vill du koppla ifrån Alfresco Content Services i molnet?</seg>
       </tuv>
     </tu>
     <tu>
@@ -22530,6 +22874,14 @@ RESULT:
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Duplicate isn''t allowed.</seg>
+      </tuv>
+      <tuv lang="SV-SE" changeid="peter" changedate="20170206T091210Z" creationid="peter" creationdate="20170206T091210Z">
+        <seg>Dubbletter tillåts inte.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Duplicate isn't allowed.</seg>
       </tuv>
       <tuv lang="SV-SE" changeid="peter" changedate="20121024T060647Z">
@@ -23394,6 +23746,14 @@ RESULT:
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Edit in Alfresco Share</seg>
+      </tuv>
+      <tuv lang="SV-SE" changeid="peter" changedate="20170206T102236Z" creationid="peter" creationdate="20170206T102236Z">
+        <seg>Redigera i Alfresco Share</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Edit in Google Docs™</seg>
       </tuv>
       <tuv lang="SV-SE" changeid="peter" changedate="20121010T191508Z">
@@ -23518,6 +23878,14 @@ RESULT:
       </tuv>
       <tuv lang="SV-SE" changeid="peter" changedate="20151006T083108Z">
         <seg>Redigera textfiler i Alfresco</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Edit text files in Alfresco Share</seg>
+      </tuv>
+      <tuv lang="SV-SE" changeid="peter" changedate="20170206T102243Z" creationid="peter" creationdate="20170206T102243Z">
+        <seg>Redigera textfiler i Alfresco Share</seg>
       </tuv>
     </tu>
     <tu>
@@ -24170,6 +24538,14 @@ RESULT:
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Email template used to generate the "multipart/alternative" IMAP message body ("text/html" part) for Alfresco Share</seg>
+      </tuv>
+      <tuv lang="SV-SE" changeid="peter" changedate="20170206T090748Z" creationid="peter" creationdate="20170206T090748Z">
+        <seg>Epostmall för att skapa "multipart/alternative" IMAP meddelande text ("text/html" delen) för Alfresco Share</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Email template used to generate the "multipart/alternative" IMAP message body ("text/html" part) for Share</seg>
       </tuv>
       <tuv lang="SV-SE" changeid="peter" changedate="20160119T063202Z">
@@ -24198,6 +24574,14 @@ RESULT:
       </tuv>
       <tuv lang="SV-SE" changeid="peter" changedate="20160119T063121Z">
         <seg>Epostmall för att skapa "multipart/alternative" IMAP meddelande text ("text/plain" delen) för Alfresco</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Email template used to generate the "multipart/alternative" IMAP message body ("text/plain" part) for Alfresco Share</seg>
+      </tuv>
+      <tuv lang="SV-SE" changeid="peter" changedate="20170206T090721Z" creationid="peter" creationdate="20170206T090721Z">
+        <seg>Epostmall för att skapa "multipart/alternative" IMAP meddelande text ("text/plain" delen) för Alfresco Share</seg>
       </tuv>
     </tu>
     <tu>
@@ -25502,6 +25886,14 @@ RESULT:
       </tuv>
       <tuv lang="SV-SE" changeid="peter" changedate="20130822T170109Z">
         <seg>Fel vid laddning av redigeringsprogrammet</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Error disconnecting from Alfresco Content Services in the Cloud</seg>
+      </tuv>
+      <tuv lang="SV-SE" changeid="peter" changedate="20170206T102008Z" creationid="peter" creationdate="20170206T102008Z">
+        <seg>Misslyckades koppla ifrån Alfresco Content Services i molnet</seg>
       </tuv>
     </tu>
     <tu>
@@ -28194,6 +28586,14 @@ RESULT:
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Failed to signal transition on task {0}, the task doesn''t exist.</seg>
+      </tuv>
+      <tuv lang="SV-SE" changeid="peter" changedate="20170206T090548Z" creationid="peter" creationdate="20170206T090548Z">
+        <seg>Misslyckades signalera övergång till uppgift {0}, uppgiften existerar inte.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Failed to signal transition on task {0}, the task doesn't exist.</seg>
       </tuv>
       <tuv lang="SV-SE" changeid="peter" changedate="20110412T112608Z">
@@ -28438,6 +28838,14 @@ RESULT:
       </tuv>
       <tuv lang="SV-SE" changeid="peter" changedate="20161024T141610Z">
         <seg>Misslyckades uppdatera uppgiften {0} i flödet, start uppgiften kan inte uppdateras i Activiti.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Failed to update workflow task {0}, the task doesn''t exist.</seg>
+      </tuv>
+      <tuv lang="SV-SE" changeid="peter" changedate="20170206T090537Z" creationid="peter" creationdate="20170206T090537Z">
+        <seg>Misslyckades uppdatera uppgiften {0} i flödet, uppgiften existerar inte.</seg>
       </tuv>
     </tu>
     <tu>
@@ -28738,6 +29146,14 @@ RESULT:
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>File Shared from Alfresco Content Services</seg>
+      </tuv>
+      <tuv lang="SV-SE" changeid="peter" changedate="20170206T102500Z" creationid="peter" creationdate="20170206T102500Z">
+        <seg>Dokumentet delat via Alfresco Content Services</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>File Transfer Target</seg>
       </tuv>
       <tuv lang="SV-SE" changeid="peter" changedate="20110914T054131Z">
@@ -28926,6 +29342,22 @@ RESULT:
       </tuv>
       <tuv lang="SV-SE" changeid="peter" changedate="20120918T175752Z">
         <seg>Dokument {1} delat från Alfresco</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>File {1} shared from Alfresco Content Services</seg>
+      </tuv>
+      <tuv lang="SV-SE" changeid="peter" changedate="20170206T102528Z" creationid="peter" creationdate="20170206T102528Z">
+        <seg>Dokument {1} delat från Alfresco Content Service</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>File {1} shared from Alfresco Content Services, look at it here: {0}</seg>
+      </tuv>
+      <tuv lang="SV-SE" changeid="peter" changedate="20170206T102511Z" creationid="peter" creationdate="20170206T102511Z">
+        <seg>Dokument {1} delat från Alfresco Content Services, titta på det här: {0}</seg>
       </tuv>
     </tu>
     <tu>
@@ -29302,6 +29734,14 @@ RESULT:
       </tuv>
       <tuv lang="SV-SE" changeid="peter" changedate="20150905T143229Z">
         <seg>Sök fram och välj användare, välj en roll och lägga till dem till webbplatsen.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Find more information about the Admin Console in the &lt;a href=""http://docs.alfresco.com/{0}/concepts/at-adminconsole.html"" target=""new""&gt;Alfresco Documentation&lt;/a&gt;."</seg>
+      </tuv>
+      <tuv lang="SV-SE" changeid="peter" changedate="20170206T095818Z" creationid="peter" creationdate="20170206T095818Z">
+        <seg>Ytterligare information om Administrationskonsollen kan hittas i &lt;a href="http://docs.alfresco.com/{0}/concepts/at-adminconsole.html" target="new"&gt;Alfresco dokumentation (Engelska)&lt;/a&gt;.</seg>
       </tuv>
     </tu>
     <tu>
@@ -32154,6 +32594,14 @@ RESULT:
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Have a look at the sites already in Alfresco Content Services.</seg>
+      </tuv>
+      <tuv lang="SV-SE" changeid="peter" changedate="20170206T100849Z" creationid="peter" creationdate="20170206T100849Z">
+        <seg>Bekanta dig med de webbplatser som redan finns i Alfresco Content Services.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Have a look at the sites already in Alfresco Team.</seg>
       </tuv>
       <tuv lang="SV-SE" changeid="peter" changedate="20110412T180502Z">
@@ -33190,6 +33638,14 @@ RESULT:
       </tuv>
       <tuv lang="SV-SE" changeid="peter" changedate="20121010T190839Z">
         <seg>Om problemet fortsätter, vänligen kontakta din systemadministratör.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>If the new layout has less columns than the current layout,  columns are removed from right side.</seg>
+      </tuv>
+      <tuv lang="SV-SE" changeid="peter" changedate="20170206T100443Z" creationid="peter" creationdate="20170206T100443Z">
+        <seg>Om den nya layouten har färre kolumner än den nuvarande kommer kolumnerna tas bort från höger sida.</seg>
       </tuv>
     </tu>
     <tu>
@@ -36602,6 +37058,30 @@ RESULT:
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>LXCommunity ECM</seg>
+      </tuv>
+      <tuv lang="SV-SE" changeid="peter" changedate="20170206T102119Z" creationid="peter" creationdate="20170206T102119Z">
+        <seg>LXCommunity ECM</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>LXCommunity ECM by &lt;a href='https://loftux.com/alfresco/support?ref=share' target='_blank'&gt;&lt;b&gt;Loftux AB&lt;/b&gt;&lt;/a&gt;&lt;br /&gt;&amp;copy; 2005-2017 Alfresco Software Inc.</seg>
+      </tuv>
+      <tuv lang="SV-SE" changeid="peter" changedate="20170206T101913Z" creationid="peter" creationdate="20170206T101913Z">
+        <seg>LXCommunity ECM av &lt;a href='https://loftux.com/alfresco/support?ref=share' target='_blank'&gt;&lt;b&gt;Loftux AB&lt;/b&gt;&lt;/a&gt;&lt;br /&gt;&amp;copy; 2005-2017 Alfresco Software Inc.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>LXCommunity ECM by &lt;a href='https://loftux.com/alfresco/support?ref=share' target='_blank'&gt;Loftux AB&lt;/a&gt;</seg>
+      </tuv>
+      <tuv lang="SV-SE" changeid="peter" changedate="20170206T102224Z" creationid="peter" creationdate="20170206T102224Z">
+        <seg>LXCommunity ECM av &lt;a href='https://loftux.com/alfresco/support?ref=share' target='_blank'&gt;Loftux AB&lt;/a&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Label</seg>
       </tuv>
       <tuv lang="SV-SE">
@@ -38720,6 +39200,14 @@ RESULT:
       </tuv>
       <tuv lang="SV-SE" changeid="peter" changedate="20110809T061553Z">
         <seg>Lucene</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Lucene Search</seg>
+      </tuv>
+      <tuv lang="SV-SE" changeid="peter" changedate="20170206T090639Z" creationid="peter" creationdate="20170206T090639Z">
+        <seg>Lucene sökning</seg>
       </tuv>
     </tu>
     <tu>
@@ -49886,6 +50374,14 @@ RESULT:
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Publishing Content Model</seg>
+      </tuv>
+      <tuv lang="SV-SE" changeid="peter" changedate="20170206T091425Z" creationid="peter" creationdate="20170206T091425Z">
+        <seg>Publicering innehållsmodell</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Publishing Environment</seg>
       </tuv>
       <tuv lang="SV-SE" changeid="peter" changedate="20110617T112532Z">
@@ -50529,6 +51025,14 @@ RESULT:
         <seg>Reauthorize user "{0}"</seg>
       </tuv>
       <tuv lang="SV-SE" changeid="peter" changedate="20160119T065729Z">
+        <seg>Reauktorisera användare "{0}"</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Reauthorize user ''{0}''</seg>
+      </tuv>
+      <tuv lang="SV-SE" changeid="peter" changedate="20170206T100038Z" creationid="peter" creationdate="20170206T100038Z">
         <seg>Reauktorisera användare "{0}"</seg>
       </tuv>
     </tu>
@@ -51402,6 +51906,14 @@ RESULT:
       </tuv>
       <tuv lang="SV-SE" changeid="peter" changedate="20120810T175102Z">
         <seg>Ta bort ''{0}'' och dess innehåll från molnet.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Remove ''{0}'' as default for this folder</seg>
+      </tuv>
+      <tuv lang="SV-SE" changeid="peter" changedate="20170206T101835Z" creationid="peter" creationdate="20170206T101835Z">
+        <seg>Ta bort "{0}" som standard för denna mapp</seg>
       </tuv>
     </tu>
     <tu>
@@ -52346,6 +52858,22 @@ RESULT:
       </tuv>
       <tuv lang="SV-SE">
         <seg>Repository descriptor updated</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Repository export of store ''{0}''.</seg>
+      </tuv>
+      <tuv lang="SV-SE" changeid="peter" changedate="20170206T090503Z" creationid="peter" creationdate="20170206T090503Z">
+        <seg>Arkivexport för lagringsplats ''{0}''</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Repository export.</seg>
+      </tuv>
+      <tuv lang="SV-SE" changeid="peter" changedate="20170206T090513Z" creationid="peter" creationdate="20170206T090513Z">
+        <seg>Arkivexport.</seg>
       </tuv>
     </tu>
     <tu>
@@ -54630,6 +55158,14 @@ RESULT:
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Search Administrator Permissions Required</seg>
+      </tuv>
+      <tuv lang="SV-SE" changeid="peter" changedate="20170206T090439Z" creationid="peter" creationdate="20170206T090439Z">
+        <seg>Sökadminstratörsrättigheter krävs</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Search Advanced Settings</seg>
       </tuv>
       <tuv lang="SV-SE" changeid="peter" changedate="20150313T132518Z">
@@ -54750,6 +55286,14 @@ RESULT:
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Search all content</seg>
+      </tuv>
+      <tuv lang="SV-SE" changeid="peter" changedate="20170206T105338Z" creationid="peter" creationdate="20170206T105338Z">
+        <seg>Sök bland alla dokument</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Search all sites</seg>
       </tuv>
       <tuv lang="SV-SE">
@@ -54770,6 +55314,14 @@ RESULT:
       </tuv>
       <tuv lang="SV-SE">
         <seg>Sök och logga alla dokument med text LiveCycle</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Search and log all docs containing text</seg>
+      </tuv>
+      <tuv lang="SV-SE" changeid="peter" changedate="20170206T090653Z" creationid="peter" creationdate="20170206T090653Z">
+        <seg>Sök och logga alla filer som innehåller text</seg>
       </tuv>
     </tu>
     <tu>
@@ -54918,6 +55470,38 @@ RESULT:
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Search for ''{0}'' - {1} results found.</seg>
+      </tuv>
+      <tuv lang="SV-SE" changeid="peter" changedate="20170206T095911Z" creationid="peter" creationdate="20170206T095911Z">
+        <seg>Sök efter "{0}" - {1} resultat hittades.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Search for ''{0}'' found over {1} results (search took {2}).</seg>
+      </tuv>
+      <tuv lang="SV-SE" changeid="peter" changedate="20170206T095849Z" creationid="peter" creationdate="20170206T095849Z">
+        <seg>Sökning efter "{0}" hittade mer än {1} resultat (sökningen tog {2})</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Search for ''{0}'' found {1} results (search took {2})</seg>
+      </tuv>
+      <tuv lang="SV-SE" changeid="peter" changedate="20170206T095844Z" creationid="peter" creationdate="20170206T095844Z">
+        <seg>Sökning efter "{0}" hittade {1} resultat (sökningen tog {2})</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Search for ''{0}'' found {1} results.</seg>
+      </tuv>
+      <tuv lang="SV-SE" changeid="peter" changedate="20170206T095900Z" creationid="peter" creationdate="20170206T095900Z">
+        <seg>Sökning efter ''{0}'' gav {1} träffar.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Search for ''{0}'' in {1} returned {2} results</seg>
       </tuv>
       <tuv lang="SV-SE">
@@ -55058,6 +55642,14 @@ RESULT:
       </tuv>
       <tuv lang="SV-SE">
         <seg>Sökning har begränsats till att visa de första {0} resultaten.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Search in site ''{0}''</seg>
+      </tuv>
+      <tuv lang="SV-SE" changeid="peter" changedate="20170206T105355Z" creationid="peter" creationdate="20170206T105355Z">
+        <seg>Sök i webbplats ''{0}''</seg>
       </tuv>
     </tu>
     <tu>
@@ -55306,6 +55898,14 @@ RESULT:
       </tuv>
       <tuv lang="SV-SE" changeid="peter" changedate="20150905T144224Z">
         <seg>Se mer</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>See what you can do with Alfresco Share by watching a video tutorial.</seg>
+      </tuv>
+      <tuv lang="SV-SE" changeid="peter" changedate="20170206T100835Z" creationid="peter" creationdate="20170206T100835Z">
+        <seg>Se vad du kan göra med Alfresco Share genom att titta på en video-genomgång.</seg>
       </tuv>
     </tu>
     <tu>
@@ -57095,6 +57695,14 @@ RESULT:
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Set ''{0}'' as default for this folder</seg>
+      </tuv>
+      <tuv lang="SV-SE" changeid="peter" changedate="20170206T101827Z" creationid="peter" creationdate="20170206T101827Z">
+        <seg>Sätt "{0}" som standard för denna mapp</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Set All Roles to</seg>
       </tuv>
       <tuv lang="SV-SE">
@@ -58327,6 +58935,14 @@ RESULT:
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Sign In</seg>
+      </tuv>
+      <tuv lang="SV-SE" changeid="peter" changedate="20170206T102136Z" creationid="peter" creationdate="20170206T102136Z">
+        <seg>Logga in</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Sign in to Alfresco in the Cloud</seg>
       </tuv>
       <tuv lang="SV-SE" changeid="peter" changedate="20160502T115529Z">
@@ -58531,6 +59147,14 @@ RESULT:
       </tuv>
       <tuv lang="SV-SE">
         <seg>Webbplats</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Site ''{0}'' does not exist or you don''t have permissions to access it.</seg>
+      </tuv>
+      <tuv lang="SV-SE" changeid="peter" changedate="20170206T095733Z" creationid="peter" creationdate="20170206T095733Z">
+        <seg>Webbplats ''{0}'' finns inte eller du saknar behörighet för åtkomst.</seg>
       </tuv>
     </tu>
     <tu>
@@ -61191,6 +61815,14 @@ RESULT:
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Step by step guide to the Alfresco Content Services application</seg>
+      </tuv>
+      <tuv lang="SV-SE" changeid="peter" changedate="20170206T091134Z" creationid="peter" creationdate="20170206T091134Z">
+        <seg>Steg-för-steg-guide för Alfresco Content Services</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Step by step guide to the Alfresco application</seg>
       </tuv>
       <tuv lang="SV-SE">
@@ -62519,6 +63151,14 @@ RESULT:
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Summary of general system information</seg>
+      </tuv>
+      <tuv lang="SV-SE" changeid="peter" changedate="20170206T095307Z" creationid="peter" creationdate="20170206T095307Z">
+        <seg>Summering av övergripande systeminformation</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Sun,Mon,Tue,Wed,Thu,Fri,Sat</seg>
       </tuv>
       <tuv lang="SV-SE">
@@ -62883,6 +63523,14 @@ RESULT:
       </tuv>
       <tuv lang="SV-SE">
         <seg>Synkroniserar med extern blogg...</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Syncing will resume once Alfresco Content Services is able to communicate with the cloud again.</seg>
+      </tuv>
+      <tuv lang="SV-SE" changeid="peter" changedate="20170206T102550Z" creationid="peter" creationdate="20170206T102550Z">
+        <seg>Synkronisering återupptas när Alfresco Content Services kan återställa kommunikationen med molnet.</seg>
       </tuv>
     </tu>
     <tu>
@@ -63275,6 +63923,14 @@ RESULT:
       </tuv>
       <tuv lang="SV-SE">
         <seg>Share guide</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Take a quick tour of Alfresco Share or learn about advanced features.</seg>
+      </tuv>
+      <tuv lang="SV-SE" changeid="peter" changedate="20170206T100737Z" creationid="peter" creationdate="20170206T100737Z">
+        <seg>Ta en snabb genomgång av Alfresco Share eller lär dig om de avancerade funktionerna</seg>
       </tuv>
     </tu>
     <tu>
@@ -64279,6 +64935,14 @@ RESULT:
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>The ''dir.root'' property is set to a relative path ''{0}''.</seg>
+      </tuv>
+      <tuv lang="SV-SE" changeid="peter" changedate="20170206T091443Z" creationid="peter" creationdate="20170206T091443Z">
+        <seg>Egenskapen ''dir.root'' är satt till den relativa sökvägen ''{0}''.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>The ''from'' email address was not recognised: {0}.</seg>
       </tuv>
       <tuv lang="SV-SE" changeid="peter" changedate="20161024T141651Z">
@@ -64355,6 +65019,30 @@ RESULT:
       </tuv>
       <tuv lang="SV-SE">
         <seg>Alfresco ''dir.root'' är satt till den relativa sökvägen ''{0}''.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>The Alfresco Content Services license has been reloaded.</seg>
+      </tuv>
+      <tuv lang="SV-SE" changeid="peter" changedate="20170206T093151Z" creationid="peter" creationdate="20170206T093151Z">
+        <seg>Alfresco Content Services licensen har laddats in igen.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>The Alfresco Content Services license has expired.</seg>
+      </tuv>
+      <tuv lang="SV-SE" changeid="peter" changedate="20170206T091740Z" creationid="peter" creationdate="20170206T091740Z">
+        <seg>Alfresco Content Services licensen har löpt ut.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>The Alfresco Content Services license will expire in {0} days.</seg>
+      </tuv>
+      <tuv lang="SV-SE" changeid="peter" changedate="20170206T091727Z" creationid="peter" creationdate="20170206T091727Z">
+        <seg>Alfresco Content Services licensen löper ut om {0} dagar.</seg>
       </tuv>
     </tu>
     <tu>
@@ -65500,6 +66188,14 @@ Identifikationen för en grupp kan inte ändras då den redan är fastställd. <
       </tuv>
       <tuv lang="SV-SE" changeid="peter" changedate="20110617T112844Z">
         <seg>Leveransserver associerad med distributionskanalen</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>The detailed view lets you:&lt;ul&gt;      &lt;li&gt;Mark an item as a favorite so it appears in Favorites lists for easy access&lt;/li&gt;      &lt;li&gt;Like (and unlike) an item&lt;/li&gt;      &lt;li&gt;Jump to the item details page to leave a comment&lt;/li&gt;&lt;/ul&gt;&lt;/p&gt;</seg>
+      </tuv>
+      <tuv lang="SV-SE" changeid="peter" changedate="20170206T100724Z" creationid="peter" creationdate="20170206T100724Z">
+        <seg>Detaljvyn låter dig:&lt;ul&gt;&lt;li&gt;Markera ett dokument som favorit så det återfinns i favoritlistan&lt;/li&gt;&lt;li&gt;Gilla (och sluta gilla) ett dokument&lt;/li&gt;&lt;li&gt;Navigera till sidan för detaljinformation för att lämna en kommentar.&lt;/li&gt;&lt;/ul&gt;&lt;/p&gt;</seg>
       </tuv>
     </tu>
     <tu>
@@ -67465,6 +68161,14 @@ Identifikationen för en grupp kan inte ändras då den redan är fastställd. <
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>The root data directory (''dir.root'') is: {0}</seg>
+      </tuv>
+      <tuv lang="SV-SE" changeid="peter" changedate="20170206T091500Z" creationid="peter" creationdate="20170206T091500Z">
+        <seg>Rotdatakatalog (''dir.root'') är: {0}</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>The root of the contentstore directory can be optionally specified, otherwise</seg>
       </tuv>
       <tuv lang="SV-SE">
@@ -67645,6 +68349,14 @@ Identifikationen för en grupp kan inte ändras då den redan är fastställd. <
       </tuv>
       <tuv lang="SV-SE">
         <seg>Server byter protokoll enligt Upgrade header</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>The server isn't configured to accept inbound emails.</seg>
+      </tuv>
+      <tuv lang="SV-SE" changeid="peter" changedate="20170206T091336Z" creationid="peter" creationdate="20170206T091336Z">
+        <seg>Servern är inte konfigurerad för att mottaga inkommande e-post</seg>
       </tuv>
     </tu>
     <tu>
@@ -69019,6 +69731,14 @@ Värdet {0} är ogiltigt för aktivitetens egenskap {1}.</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>This content no longer exists on Alfresco Content Services in the Cloud.</seg>
+      </tuv>
+      <tuv lang="SV-SE" changeid="peter" changedate="20170206T102609Z" creationid="peter" creationdate="20170206T102609Z">
+        <seg>Dokumentet finns inte längre i Alfresco Content Services i molnet.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>This content no longer exists on Alfresco in the cloud.</seg>
       </tuv>
       <tuv lang="SV-SE" changeid="peter" changedate="20120810T175253Z">
@@ -69067,10 +69787,26 @@ Värdet {0} är ogiltigt för aktivitetens egenskap {1}.</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>This dashlet lists all of your Document Workspace sites.&lt;/p&gt; &lt;p&gt;From here you can navigate to a Document Workspace site.</seg>
+      </tuv>
+      <tuv lang="SV-SE" changeid="peter" changedate="20170206T101213Z" creationid="peter" creationdate="20170206T101213Z">
+        <seg>Den här dashleten listar alla dina webbplatser som är Dokumentarbetsytor.&lt;/p&gt;&lt;p&gt;Härifrån kan du navigera till en webbplats som är Dokumentarbetsyta.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>This dashlet lists all of your Document Workspace sites.&lt;/p&gt;&lt;p&gt;From here you can navigate to a Document Workspace site.</seg>
       </tuv>
       <tuv lang="SV-SE" changeid="peter" changedate="20110412T174046Z">
         <seg>Den här dashleten listar alla dina webbplatser som är Dokumentarbetsytor.&lt;/p&gt;&lt;p&gt;FHärifrån kan du navigera till en webbplats som är Dokumentarbetsyta.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>This dashlet lists all of your Meeting Workspace sites.&lt;/p&gt; &lt;p&gt;From here you can navigate to a Meeting Workspace site.</seg>
+      </tuv>
+      <tuv lang="SV-SE" changeid="peter" changedate="20170206T101052Z" creationid="peter" creationdate="20170206T101052Z">
+        <seg>Den här dashleten listar alla dina webbplatser som är Mötesarbetsytor.&lt;/p&gt;&lt;p&gt;Härifrån kan du navigera till en webbplats som är en Mötesarbetsyta.</seg>
       </tuv>
     </tu>
     <tu>
@@ -69727,6 +70463,14 @@ Värdet {0} är ogiltigt för aktivitetens egenskap {1}.</seg>
       </tuv>
       <tuv lang="SV-SE">
         <seg>Det här är bara rekommenderat för HTML eller textdokument</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>This is part of the address of the site.&lt;br/&gt; Do not use spaces or special characters.</seg>
+      </tuv>
+      <tuv lang="SV-SE" changeid="peter" changedate="20170206T102710Z" creationid="peter" creationdate="20170206T102710Z">
+        <seg>Detta är en del av adressen till webbplatsen.&lt;br/&gt;Använd inte mellanslag eller specialtecken.</seg>
       </tuv>
     </tu>
     <tu>
@@ -71267,6 +72011,14 @@ Värdet {0} är ogiltigt för aktivitetens egenskap {1}.</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>To find out more about Alfresco Content Services {0} visit &lt;a href="http://www.alfresco.com"&gt;http://www.alfresco.com&lt;/a&gt;</seg>
+      </tuv>
+      <tuv lang="SV-SE" changeid="peter" changedate="20170206T093353Z" creationid="peter" creationdate="20170206T093353Z">
+        <seg>För mer information om Alfresco Content Services {0} besök &lt;a href="http://www.alfresco.com"&gt;http://www.alfresco.com&lt;/a&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>To find out more about Alfresco {0} visit &lt;a href="http://www.alfresco.com"&gt;http://www.alfresco.com&lt;/a&gt;</seg>
       </tuv>
       <tuv lang="SV-SE" changeid="peter" changedate="20150906T084845Z">
@@ -72683,6 +73435,14 @@ Värdet {0} är ogiltigt för aktivitetens egenskap {1}.</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Try checking with your IT team.&lt;/p&gt; &lt;p&gt;If you're trying to get to your home page and it's no longer available you should change it by clicking your name on the toolbar.&lt;/p&gt;</seg>
+      </tuv>
+      <tuv lang="SV-SE" changeid="peter" changedate="20170206T102401Z" creationid="peter" creationdate="20170206T102401Z">
+        <seg>Pröva att stämma av med din IT-administratör.&lt;/p&gt;&lt;p&gt;Om du försöker besöka din startsida och den inte längre finns, ändra startsida genom att klicka på ditt namn i menyn.&lt;/p&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Try copying and sharing the following details with IT:</seg>
       </tuv>
       <tuv lang="SV-SE" changeid="peter" changedate="20161024T143755Z" creationid="peter" creationdate="20161024T143755Z">
@@ -72751,6 +73511,14 @@ Värdet {0} är ogiltigt för aktivitetens egenskap {1}.</seg>
       </tuv>
       <tuv lang="SV-SE" changeid="peter" changedate="20150906T080536Z">
         <seg>Pröva att ge följande detaljer till din Alfresco-administratör</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Try sharing the following details with your IT team.</seg>
+      </tuv>
+      <tuv lang="SV-SE" changeid="peter" changedate="20170206T091204Z" creationid="peter" creationdate="20170206T091204Z">
+        <seg>Pröva att ge följande detaljer till din IT-administratör</seg>
       </tuv>
     </tu>
     <tu>
@@ -73375,6 +74143,14 @@ Värdet {0} är ogiltigt för aktivitetens egenskap {1}.</seg>
       </tuv>
       <tuv lang="SV-SE">
         <seg>Misslyckades konvertera jBPM värde {0} till Alfresco värde då det inte kan serialiseras.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Unable to convert value {0} to Alfresco Content Services value as it isn''t serializable.</seg>
+      </tuv>
+      <tuv lang="SV-SE" changeid="peter" changedate="20170206T090601Z" creationid="peter" creationdate="20170206T090601Z">
+        <seg>Misslyckades konvertera Activiti värde {0} till Alfresco värde då det inte kan serialiseras</seg>
       </tuv>
     </tu>
     <tu>
@@ -76044,6 +76820,14 @@ Värdet {0} är ogiltigt för aktivitetens egenskap {1}.</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Use the Layout Designer to define how properties you create are displayed.</seg>
+      </tuv>
+      <tuv lang="SV-SE" changeid="peter" changedate="20170206T090310Z" creationid="peter" creationdate="20170206T090310Z">
+        <seg>Använda Layout-designer för att definiera hur egenskaper du skapat visas.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Use the Search to find deleted items by name or content and use the filters to reduce the list.</seg>
       </tuv>
       <tuv lang="SV-SE">
@@ -76064,6 +76848,14 @@ Värdet {0} är ogiltigt för aktivitetens egenskap {1}.</seg>
       </tuv>
       <tuv lang="SV-SE" changeid="peter" changedate="20150222T152535Z">
         <seg>Använd piltangenterna för att flytta vald dashlet.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Use the filter to easily find what you're looking for.&lt;/p&gt;   &lt;p&gt;There are two views for this dashlet.</seg>
+      </tuv>
+      <tuv lang="SV-SE" changeid="peter" changedate="20170206T101021Z" creationid="peter" creationdate="20170206T101021Z">
+        <seg>Använd filtret för att enkelt hitta vad du söker.&lt;/p&gt;&lt;p&gt;Det finns två vyer för denna dashlet.</seg>
       </tuv>
     </tu>
     <tu>
@@ -76152,6 +76944,14 @@ Värdet {0} är ogiltigt för aktivitetens egenskap {1}.</seg>
       </tuv>
       <tuv lang="SV-SE">
         <seg>Använd den här sidan för att hantera flerspråkiga dokument.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Use this to explore the features in Alfresco Content Services.</seg>
+      </tuv>
+      <tuv lang="SV-SE" changeid="peter" changedate="20170206T101110Z" creationid="peter" creationdate="20170206T101110Z">
+        <seg>Använd den för att utforska funktioner i Alfresco Content Services.</seg>
       </tuv>
     </tu>
     <tu>
@@ -79685,6 +80485,14 @@ Värdet {0} är ogiltigt för aktivitetens egenskap {1}.</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Wiki Page - Recent Changes</seg>
+      </tuv>
+      <tuv lang="SV-SE" changeid="peter" changedate="20170206T090250Z" creationid="peter" creationdate="20170206T090250Z">
+        <seg>Wiki-sida - nyligen ändrat</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Wiki Page List</seg>
       </tuv>
       <tuv lang="SV-SE">
@@ -80709,6 +81517,14 @@ Värdet {0} är ogiltigt för aktivitetens egenskap {1}.</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>You can also see who is joining and leaving the site.&lt;/p&gt; &lt;p&gt;Filters let you view activities by time period and ownership.&lt;/p&gt; &lt;p&gt;If you don't see the full list of activities for the time period or owner that you select then your IT team may have put a limit on the number of activities displayed.</seg>
+      </tuv>
+      <tuv lang="SV-SE" changeid="peter" changedate="20170206T101659Z" creationid="peter" creationdate="20170206T101659Z">
+        <seg>Du kan också se vem som ansluter eller lämnar webbplatser.&lt;/p&gt;&lt;p&gt;Filter låter dig se aktiviteter per tidsperiod och ägarskap.&lt;/p&gt;&lt;p&gt;Om du inte ser en full lista av aktiviteter för en tidsperiod eller ägare som du valt kan en IT-administratör satt en begränsning på antalet aktiviteter som visas.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>You can also see who is joining and leaving the site.&lt;/p&gt;&lt;p&gt;Filters let you view activities by time period and ownership.&lt;/p&gt;</seg>
       </tuv>
       <tuv lang="SV-SE" changeid="peter" changedate="20110412T174704Z">
@@ -80729,6 +81545,14 @@ Värdet {0} är ogiltigt för aktivitetens egenskap {1}.</seg>
       </tuv>
       <tuv lang="SV-SE" changeid="peter" changedate="20110412T181218Z">
         <seg>Du kan också se vem som ansluter sig och lämnar dina webbplatser.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>You can also see who is joining and leaving your sites.&lt;/p&gt; &lt;p&gt;Filters let you view activities by time period and ownership.&lt;/p&gt; &lt;p&gt;If you don't see the full list of activities for the time period or owner that you select then your IT team may have put a limit on the number of activities displayed.</seg>
+      </tuv>
+      <tuv lang="SV-SE" changeid="peter" changedate="20170206T101005Z" creationid="peter" creationdate="20170206T101005Z">
+        <seg>Du kan också set vem som ansluter eller lämnar webbplatser.&lt;/p&gt;&lt;p&gt;Filter låter dig se aktiviteter per tidsperiod och ägarskap.&lt;/p&gt;&lt;p&gt;Om du inte ser en full lista av aktiviteter för en tidsperiod eller ägare som du valt kan en IT-administratör satt enb begränsning på antalet aktiviteter som visas.</seg>
       </tuv>
     </tu>
     <tu>
@@ -80789,6 +81613,14 @@ Värdet {0} är ogiltigt för aktivitetens egenskap {1}.</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>You can click their name to view their profile and get to know them.&lt;/p&gt;   &lt;p&gt;Clicking All Members lets you see everyone in this site.</seg>
+      </tuv>
+      <tuv lang="SV-SE" changeid="peter" changedate="20170206T100525Z" creationid="peter" creationdate="20170206T100525Z">
+        <seg>Du kan klicka på deras namn för att se deras profil och bekanta dig med dem.&lt;/p&gt;   &lt;p&gt;Klicka Alla medlemmar så får du se alla medlemmar i den här webbplatsen.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>You can click their name to view their profile and get to know them.&lt;/p&gt;&lt;p&gt;Clicking All Members lets you see everyone in this site.</seg>
       </tuv>
       <tuv lang="SV-SE" changeid="peter" changedate="20110412T145916Z">
@@ -80813,6 +81645,14 @@ Värdet {0} är ogiltigt för aktivitetens egenskap {1}.</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>You can download the latest version of Flash Player from the   &lt;a href="http://www.adobe.com/go/getflashplayer"&gt;Adobe Flash Player Download Center&lt;/a&gt;.</seg>
+      </tuv>
+      <tuv lang="SV-SE" changeid="peter" changedate="20170206T102102Z" creationid="peter" creationdate="20170206T102102Z">
+        <seg>Du kan ladda ner senaste versionen av Flash Player från &lt;a href="http://www.adobe.com/go/getflashplayer"&gt;Adobe Flash Player Download Center&lt;/a&gt;.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>You can download the latest version of Flash Player from the &lt;a href="http://www.adobe.com/go/getflashplayer"&gt;Adobe Flash Player Download Center&lt;/a&gt;.</seg>
       </tuv>
       <tuv lang="SV-SE">
@@ -80829,10 +81669,26 @@ Värdet {0} är ogiltigt för aktivitetens egenskap {1}.</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>You can filter the list to view different types of tasks.&lt;/p&gt;   &lt;p&gt;From here you can:&lt;ul&gt;      &lt;li&gt;Edit a task to manage it&lt;/li&gt;      &lt;li&gt;View a single task&lt;/li&gt;      &lt;li&gt;Open the My Tasks page to manage all of your tasks&lt;/li&gt;      &lt;li&gt;Start a workflow to create tasks for others or yourself&lt;/li&gt;&lt;/ul&gt;&lt;/p&gt;</seg>
+      </tuv>
+      <tuv lang="SV-SE" changeid="peter" changedate="20170206T101141Z" creationid="peter" creationdate="20170206T101141Z">
+        <seg>Du kan filtera vyn för att visa olika typer av uppgifter.&lt;/p&gt;&lt;p&gt;Härifrån kan du:&lt;ul&gt;&lt;li&gt;Redigera en uppgift för att hantera den&lt;/li&gt;&lt;li&gt;Visa enskild uppgift&lt;/li&gt;&lt;li&gt;Öppna sidan Mina uppgifter för att hantera alla dina uppgifter&lt;/li&gt;&lt;li&gt;Starta ett arbetsflöde för andra eller dig själv.&lt;/li&gt;&lt;/ul&gt;&lt;/p&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>You can filter the list to view different types of tasks.&lt;/p&gt;&lt;p&gt;From here you can:&lt;ul&gt;&lt;li&gt;Edit a task to manage it&lt;/li&gt;&lt;li&gt;View a single task&lt;/li&gt;&lt;li&gt;Open the My Tasks page to manage all of your tasks&lt;/li&gt;&lt;li&gt;Start a workflow to create tasks for others or yourself&lt;/li&gt;&lt;/ul&gt;&lt;/p&gt;</seg>
       </tuv>
       <tuv lang="SV-SE" changeid="peter" changedate="20110412T173823Z">
         <seg>Du kan filtera vyn för att visa olika typer av uppgifter.&lt;/p&gt;&lt;p&gt;Härifrån kan du:&lt;ul&gt;&lt;li&gt;Redigera en uppgift för att hantera den&lt;/li&gt;&lt;li&gt;Visa enskild uppgift&lt;/li&gt;&lt;li&gt;Öppna sidan Mina uppgifter för att hantera alla dina uppgifter&lt;/li&gt;&lt;li&gt;Starta ett arbetsflöde för andra eller dig själv.&lt;/li&gt;&lt;/ul&gt;&lt;/p&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>You can filter this list to show only your favorite sites.&lt;/p&gt;   &lt;p&gt;From here you can:&lt;ul&gt;      &lt;li&gt;Navigate to a site&lt;/li&gt;      &lt;li&gt;Create a new site&lt;/li&gt;      &lt;li&gt;Delete a site if you are the site manager&lt;/li&gt;      &lt;li&gt;Mark a site as a favorite so that it shows in the Sites menu for easy access&lt;/li&gt;&lt;/ul&gt;&lt;/p&gt;</seg>
+      </tuv>
+      <tuv lang="SV-SE" changeid="peter" changedate="20170206T101121Z" creationid="peter" creationdate="20170206T101121Z">
+        <seg>Du kan filtera den här listan så den bara visar dina favoritwebbplatser.&lt;/p&gt;&lt;p&gt;Härifrån kan du:&lt;ul&gt;&lt;li&gt;Navigera till en webbplats&lt;/li&gt;&lt;li&gt;Skapa ny webbplats&lt;/li&gt;&lt;li&gt;Radera en webbplats (om du är webbplatsansvarig&lt;/li&gt;&lt;li&gt;Markera en webbplats som favorit så listas den i meny för webbplatser för snabb åtkomst.&lt;/li&gt;&lt;/ul&gt;&lt;/p&gt;</seg>
       </tuv>
     </tu>
     <tu>
@@ -80997,10 +81853,26 @@ Värdet {0} är ogiltigt för aktivitetens egenskap {1}.</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>You can view the space through the Alfresco Content Services client</seg>
+      </tuv>
+      <tuv lang="SV-SE" changeid="peter" changedate="20170206T093330Z" creationid="peter" creationdate="20170206T093330Z">
+        <seg>Du kan visa mappen genom Alfresco Content Services klienten</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>You can view the space through the Alfresco client</seg>
       </tuv>
       <tuv lang="SV-SE" changeid="peter" changedate="20110805T082358Z">
         <seg>Du kan visa mappen genom Alfresco klienten</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>You can visit public sites and join them immediately.</seg>
+      </tuv>
+      <tuv lang="SV-SE" changeid="peter" changedate="20170206T100903Z" creationid="peter" creationdate="20170206T100903Z">
+        <seg>Du kan besöka publika webbplatser och bli medlem direkt.</seg>
       </tuv>
     </tu>
     <tu>
@@ -81405,6 +82277,14 @@ Värdet {0} är ogiltigt för aktivitetens egenskap {1}.</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>You don''t have permission to delete the link with name ''{0}''</seg>
+      </tuv>
+      <tuv lang="SV-SE" changeid="peter" changedate="20170206T095349Z" creationid="peter" creationdate="20170206T095349Z">
+        <seg>Du saknar behörighet att radera länk med namn ''{0}''</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>You don't have permission to create a link</seg>
       </tuv>
       <tuv lang="SV-SE" changeid="peter" changedate="20121128T143842Z">
@@ -81757,6 +82637,14 @@ Värdet {0} är ogiltigt för aktivitetens egenskap {1}.</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>You''ll become the owner of ''{0}'' and the previous owner may have their permissions restricted.</seg>
+      </tuv>
+      <tuv lang="SV-SE" changeid="peter" changedate="20170206T102450Z" creationid="peter" creationdate="20170206T102450Z">
+        <seg>Du kommer bli ägare av ''{0}'' vilket kan innebära att tidigare ägare får rättigheter begränsade.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>You'll become the owner of ''{0}'' and the previous owner may have their permissions restricted.</seg>
       </tuv>
       <tuv lang="SV-SE" changeid="peter" changedate="20150905T144328Z">
@@ -81801,6 +82689,14 @@ Värdet {0} är ogiltigt för aktivitetens egenskap {1}.</seg>
       </tuv>
       <tuv lang="SV-SE" changeid="peter" changedate="20140914T095654Z">
         <seg>Du använder en version av Microsoft Office som inte stöds av Alfresco.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>You're using a Microsoft Office version that isn't supported.</seg>
+      </tuv>
+      <tuv lang="SV-SE" changeid="peter" changedate="20170206T102420Z" creationid="peter" creationdate="20170206T102420Z">
+        <seg>Du använder en version av Microsoft Office som inte stöds.</seg>
       </tuv>
     </tu>
     <tu>
@@ -81857,6 +82753,14 @@ Värdet {0} är ogiltigt för aktivitetens egenskap {1}.</seg>
       </tuv>
       <tuv lang="SV-SE" changeid="peter" changedate="20130807T063155Z">
         <seg>Dina autentiseringsuppgifter känns inte igen eller så är Alfresco inte tillgängligt för tillfället.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Your authentication details haven't been recognized or Alfresco Content Services may not be available at this time.</seg>
+      </tuv>
+      <tuv lang="SV-SE" changeid="peter" changedate="20170206T102203Z" creationid="peter" creationdate="20170206T102203Z">
+        <seg>Dina autentiseringsuppgifter känns inte igen eller så är Alfresco Content Services inte tillgängligt för tillfället.</seg>
       </tuv>
     </tu>
     <tu>
@@ -86197,6 +87101,14 @@ Vänligen kontakta din systemadministratör</seg>
       </tuv>
       <tuv lang="SV-SE" changeid="peter" changedate="20130821T093553Z">
         <seg>{0} användare och {1} grupp(er) processade</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>{0} user(s) couldn''t be added</seg>
+      </tuv>
+      <tuv lang="SV-SE" changeid="peter" changedate="20170206T101929Z" creationid="peter" creationdate="20170206T101929Z">
+        <seg>{0} kunde inte läggas till</seg>
       </tuv>
     </tu>
     <tu>

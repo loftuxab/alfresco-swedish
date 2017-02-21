@@ -1,0 +1,10 @@
+2017-02-06 11:33
+               	Segment	  Ord	Tecken (utan mellanslag)	Tecken (med mellanslag)	
+Upprepningar:  	      0	    0	                       0	                      0	
+Exakta träffar:	  11552	48251	                  254943	                 290812	
+95 %–100 %:    	      0	    0	                       0	                      0	
+85 %–94 %:     	      0	    0	                       0	                      0	
+75 %–84 %:     	      0	    0	                       0	                      0	
+50 %–74 %:     	      0	    0	                       0	                      0	
+Ingen träff:   	      0	    0	                       0	                      0	
+Total:         	  11552	48251	                  254943	                 290812	

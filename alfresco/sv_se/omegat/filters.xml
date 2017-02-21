@@ -187,4 +187,7 @@
     <filter className="net.sf.okapi.lib.omegat.JSONFilter" enabled="true">
         <files sourceFilenameMask="*.json" targetFilenamePattern="${filename}"/>
     </filter>
+    <filter className="org.omegat.filters3.xml.relaxng.RelaxNGFilter" enabled="true">
+        <files sourceFilenameMask="*.rng" targetFilenamePattern="${filename}"/>
+    </filter>
 </filters>
