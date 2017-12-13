@@ -5864,6 +5864,14 @@ RESULT:
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>All Rights Reserved.</seg>
+      </tuv>
+      <tuv lang="SV-SE" changeid="peter" changedate="20170801T082923Z" creationid="peter" creationdate="20170801T082923Z">
+        <seg>Alla rättigheter reserverade.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>All Rows</seg>
       </tuv>
       <tuv lang="SV-SE">
@@ -12882,6 +12890,14 @@ RESULT:
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Click Unsync from Cloud to cancel the sync.</seg>
+      </tuv>
+      <tuv lang="SV-SE" changeid="peter" changedate="20170801T082911Z" creationid="peter" creationdate="20170801T082911Z">
+        <seg>Klicka Avsynkronisera från molnet för att avbryta synkronisering.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Click an element or property header to edit it.</seg>
       </tuv>
       <tuv lang="SV-SE" changeid="peter" changedate="20150915T121414Z">
@@ -15298,6 +15314,14 @@ RESULT:
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Contact Us</seg>
+      </tuv>
+      <tuv lang="SV-SE" changeid="peter" changedate="20170801T082935Z" creationid="peter" creationdate="20170801T082935Z">
+        <seg>Kontakta oss</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Contacts list including first name, last name, full name, email, job title, phone (office), phone (mobile).</seg>
       </tuv>
       <tuv lang="SV-SE">
@@ -15650,6 +15674,14 @@ RESULT:
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Content already synced from another location.</seg>
+      </tuv>
+      <tuv lang="SV-SE" changeid="peter" changedate="20170801T082405Z" creationid="peter" creationdate="20170801T082405Z">
+        <seg>Innehåller redan synkroniserat till annan plats.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Content can be deleted on cloud</seg>
       </tuv>
       <tuv lang="SV-SE" changeid="peter" changedate="20140902T084535Z">
@@ -15662,6 +15694,38 @@ RESULT:
       </tuv>
       <tuv lang="SV-SE" changeid="peter" changedate="20120928T144815Z">
         <seg>Innehåll som publicerats via en WCM publiceringsmiljö</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Content not synced as the authentication details aren't valid.</seg>
+      </tuv>
+      <tuv lang="SV-SE" changeid="peter" changedate="20170801T082707Z" creationid="peter" creationdate="20170801T082707Z">
+        <seg>Innehållet inte synkroniserat då inloggningsuppgifterna inte är korrekta.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Content not synced as the authentication details for {0} aren't valid.</seg>
+      </tuv>
+      <tuv lang="SV-SE" changeid="peter" changedate="20170801T082727Z" creationid="peter" creationdate="20170801T082727Z">
+        <seg>Innehållet inte synkroniserat då inloggningsuppgifterna för {0} inte är korrekta.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Content not synced because the owner has been removed or deleted.</seg>
+      </tuv>
+      <tuv lang="SV-SE" changeid="peter" changedate="20170801T082816Z" creationid="peter" creationdate="20170801T082816Z">
+        <seg>Innehållet inte synkroniserat då ägaren har flyttats eller tagits bort.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Content not synced.</seg>
+      </tuv>
+      <tuv lang="SV-SE" changeid="peter" changedate="20170801T082522Z" creationid="peter" creationdate="20170801T082522Z">
+        <seg>Innehållet inte synkroniserat.</seg>
       </tuv>
     </tu>
     <tu>
@@ -15726,6 +15790,14 @@ RESULT:
       </tuv>
       <tuv lang="SV-SE" changeid="peter" changedate="20120810T175120Z">
         <seg>Dokument med samma namn finns redan i målmappen.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Content with this name already exists in the target folder.</seg>
+      </tuv>
+      <tuv lang="SV-SE" changeid="peter" changedate="20170801T082313Z" creationid="peter" creationdate="20170801T082313Z">
+        <seg>Innehåll med samma namn existerar redan i målmappen.</seg>
       </tuv>
     </tu>
     <tu>
@@ -19220,8 +19292,8 @@ RESULT:
       <tuv lang="EN-US">
         <seg>DD/MM/YYYY</seg>
       </tuv>
-      <tuv lang="SV-SE" changeid="peter" changedate="20120415T080852Z">
-        <seg>DD/MM YYYY</seg>
+      <tuv lang="SV-SE" changeid="peter" changedate="20170821T111823Z">
+        <seg>DD/MM/YYYY</seg>
       </tuv>
     </tu>
     <tu>
@@ -22330,6 +22402,14 @@ RESULT:
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Documents for review and approval</seg>
+      </tuv>
+      <tuv lang="SV-SE" changeid="peter" changedate="20170801T082954Z" creationid="peter" creationdate="20170801T082954Z">
+        <seg>Dokument för granskning och godkännande</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Documents in {0}</seg>
       </tuv>
       <tuv lang="SV-SE">
@@ -24230,6 +24310,14 @@ RESULT:
       </tuv>
       <tuv lang="SV-SE" changeid="peter" changedate="20150911T181348Z">
         <seg>Egypten</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Either click the Reset Password button, or copy and paste the following address into your web browser:</seg>
+      </tuv>
+      <tuv lang="SV-SE" changeid="peter" changedate="20170801T082200Z" creationid="peter" creationdate="20170801T082200Z">
+        <seg>Du kan klicka knappen 'Återställ lösenord' eller välja att kopiera och klistra in följande adress i din webbläsare:</seg>
       </tuv>
     </tu>
     <tu>
@@ -29746,6 +29834,14 @@ RESULT:
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Find more information about the Admin Console in the &lt;a href="http://docs.alfresco.com/{0}/concepts/at-adminconsole.html" target="new"&gt;Alfresco Documentation&lt;/a&gt;.</seg>
+      </tuv>
+      <tuv lang="SV-SE" changeid="peter" changedate="20170801T083123Z" creationid="peter" creationdate="20170801T083123Z">
+        <seg>Läs mer information om administatörskonsollen på &lt;a href="http://docs.alfresco.com/{0}/concepts/at-adminconsole.html" target="new"&gt;Alfresco dokumentation (på engelska)&lt;/a&gt;.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Find out what content has been added to the site by browsing the document library.</seg>
       </tuv>
       <tuv lang="SV-SE" changeid="peter" changedate="20110412T180922Z">
@@ -33746,6 +33842,22 @@ RESULT:
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>If you didn't request a password reset or you don't want to change it, you can ignore and delete this message, and your account will remain secure.</seg>
+      </tuv>
+      <tuv lang="SV-SE" changeid="peter" changedate="20170801T082043Z" creationid="peter" creationdate="20170801T082043Z">
+        <seg>Om du inte begärde en återställning av lösenordet eller om du inte vill ändra ditt lösenord kan du ignorera detta meddelande. Ditt kontoi kommer vara fortsatt säkert.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>If you didn't request a password reset, then contact your IT Team immediately.</seg>
+      </tuv>
+      <tuv lang="SV-SE" changeid="peter" changedate="20170801T082253Z" creationid="peter" creationdate="20170801T082253Z">
+        <seg>Om du inte begärde en återställning av lösenord, kontakta din IT Administratör direkt.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>If you do not have Alfresco Mobile installed you will be directed to the App Store&amp;trade; where you can download it for free.</seg>
       </tuv>
       <tuv lang="SV-SE" changeid="peter" changedate="20161024T142620Z">
@@ -36804,8 +36916,8 @@ RESULT:
       <tuv lang="EN-US">
         <seg>KB</seg>
       </tuv>
-      <tuv lang="SV-SE">
-        <seg>kB</seg>
+      <tuv lang="SV-SE" changeid="peter" changedate="20170308T082620Z">
+        <seg>KB</seg>
       </tuv>
     </tu>
     <tu>
@@ -39230,8 +39342,8 @@ RESULT:
       <tuv lang="EN-US">
         <seg>MB</seg>
       </tuv>
-      <tuv lang="SV-SE">
-        <seg>Mb</seg>
+      <tuv lang="SV-SE" changeid="peter" changedate="20170308T082616Z">
+        <seg>MB</seg>
       </tuv>
     </tu>
     <tu>
@@ -45992,7 +46104,7 @@ RESULT:
       <tuv lang="EN-US">
         <seg>OK</seg>
       </tuv>
-      <tuv lang="SV-SE">
+      <tuv lang="SV-SE" changeid="peter" changedate="20170308T082632Z">
         <seg>OK</seg>
       </tuv>
     </tu>
@@ -47514,6 +47626,14 @@ RESULT:
       </tuv>
       <tuv lang="SV-SE" changeid="peter" changedate="20150222T152203Z">
         <seg>Lösenord krävs</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Password reset successful</seg>
+      </tuv>
+      <tuv lang="SV-SE" changeid="peter" changedate="20170801T081934Z" creationid="peter" creationdate="20170801T081934Z">
+        <seg>Återställningen av lösenord lyckades</seg>
       </tuv>
     </tu>
     <tu>
@@ -51366,6 +51486,14 @@ RESULT:
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Redeploy invitation moderated workflow.</seg>
+      </tuv>
+      <tuv lang="SV-SE" changeid="peter" changedate="20170801T081842Z" creationid="peter" creationdate="20170801T081842Z">
+        <seg>Redeploy invitation moderated workflow.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Redeploy nominated invitation workflow</seg>
       </tuv>
       <tuv lang="SV-SE">
@@ -52918,6 +53046,14 @@ RESULT:
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Request Password Reset.</seg>
+      </tuv>
+      <tuv lang="SV-SE" changeid="peter" changedate="20170801T083010Z" creationid="peter" creationdate="20170801T083010Z">
+        <seg>Begär lösenordsåterställning.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Request Sent</seg>
       </tuv>
       <tuv lang="SV-SE" changeid="peter" changedate="20150915T132318Z">
@@ -53334,10 +53470,26 @@ RESULT:
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Reset password</seg>
+      </tuv>
+      <tuv lang="SV-SE" changeid="peter" changedate="20170801T082206Z" creationid="peter" creationdate="20170801T082206Z">
+        <seg>Återställ lösenord</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Reset permissions</seg>
       </tuv>
       <tuv lang="SV-SE">
         <seg>Återställ rättigheter</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Reset your password</seg>
+      </tuv>
+      <tuv lang="SV-SE" changeid="peter" changedate="20170801T081923Z" creationid="peter" creationdate="20170801T081923Z">
+        <seg>Återställ ditt lösenord</seg>
       </tuv>
     </tu>
     <tu>
@@ -63375,6 +63527,14 @@ RESULT:
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Sync folder not found.</seg>
+      </tuv>
+      <tuv lang="SV-SE" changeid="peter" changedate="20170801T082337Z" creationid="peter" creationdate="20170801T082337Z">
+        <seg>Synkroniseringmapp hittades inte.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Sync has been removed</seg>
       </tuv>
       <tuv lang="SV-SE" changeid="peter" changedate="20120810T174339Z">
@@ -67465,6 +67625,14 @@ Identifikationen för en grupp kan inte ändras då den redan är fastställd. <
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>The password for your Alfresco account was recently changed.</seg>
+      </tuv>
+      <tuv lang="SV-SE" changeid="peter" changedate="20170801T082224Z" creationid="peter" creationdate="20170801T082224Z">
+        <seg>Lösenordet för ditt Alfresco-konto ändrades nyligen.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>The passwords entered are not the same</seg>
       </tuv>
       <tuv lang="SV-SE" changeid="peter" changedate="20161024T143943Z" creationid="peter" creationdate="20161024T143943Z">
@@ -69339,6 +69507,14 @@ Värdet {0} är ogiltigt för aktivitetens egenskap {1}.</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>There isn't enough free space to sync.</seg>
+      </tuv>
+      <tuv lang="SV-SE" changeid="peter" changedate="20170801T082638Z" creationid="peter" creationdate="20170801T082638Z">
+        <seg>Det finns inte tillräckligt med fritt utrymme för att synkronisera.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>There must be at least one Site Manager for a site.</seg>
       </tuv>
       <tuv lang="SV-SE">
@@ -70331,6 +70507,14 @@ Värdet {0} är ogiltigt för aktivitetens egenskap {1}.</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>This file is to large to sync.</seg>
+      </tuv>
+      <tuv lang="SV-SE" changeid="peter" changedate="20170801T082616Z" creationid="peter" creationdate="20170801T082616Z">
+        <seg>Denna fil är för stor att synkronisera.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>This filter ID has already been used.</seg>
       </tuv>
       <tuv lang="SV-SE" changeid="peter" changedate="20140914T165405Z">
@@ -71135,6 +71319,14 @@ Värdet {0} är ogiltigt för aktivitetens egenskap {1}.</seg>
       </tuv>
       <tuv lang="SV-SE">
         <seg>Den här vyn visa dig alla regler som tillämpas till dokument i denna mapp. </seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>This was synced by {0}, who has been removed.</seg>
+      </tuv>
+      <tuv lang="SV-SE" changeid="peter" changedate="20170801T082843Z" creationid="peter" creationdate="20170801T082843Z">
+        <seg>Detta synkroniserades av {0}, som har blivit borttagen.</seg>
       </tuv>
     </tu>
     <tu>
@@ -73387,6 +73579,14 @@ Värdet {0} är ogiltigt för aktivitetens egenskap {1}.</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Try again or check with your IT Team.</seg>
+      </tuv>
+      <tuv lang="SV-SE" changeid="peter" changedate="20170801T082351Z" creationid="peter" creationdate="20170801T082351Z">
+        <seg>Försök igen eller kontakta din IT-Administratör.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Try again or continue previewing the file here.</seg>
       </tuv>
       <tuv lang="SV-SE" changeid="peter" changedate="20161021T142613Z" creationid="peter" creationdate="20161021T142613Z">
@@ -73415,6 +73615,14 @@ Värdet {0} är ogiltigt för aktivitetens egenskap {1}.</seg>
       </tuv>
       <tuv lang="SV-SE" changeid="peter" changedate="20161024T144306Z" creationid="peter" creationdate="20161024T144306Z">
         <seg>Försök igen, eller kontrollera med IT-support.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Try again, or share the following details with your IT Team {0}.</seg>
+      </tuv>
+      <tuv lang="SV-SE" changeid="peter" changedate="20170801T082512Z" creationid="peter" creationdate="20170801T082512Z">
+        <seg>Försök igen, eller dela följande detaljer med din IT-Administratör {0}.</seg>
       </tuv>
     </tu>
     <tu>
@@ -77052,6 +77260,14 @@ Värdet {0} är ogiltigt för aktivitetens egenskap {1}.</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Used by users to request to reset their password.</seg>
+      </tuv>
+      <tuv lang="SV-SE" changeid="peter" changedate="20170801T083029Z" creationid="peter" creationdate="20170801T083029Z">
+        <seg>Används av användare för att återställa lösenordet.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Useful</seg>
       </tuv>
       <tuv lang="SV-SE" changeid="peter" changedate="20130821T132409Z">
@@ -79637,6 +79853,14 @@ Värdet {0} är ogiltigt för aktivitetens egenskap {1}.</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>We hit a problem during sync.</seg>
+      </tuv>
+      <tuv lang="SV-SE" changeid="peter" changedate="20170801T082436Z" creationid="peter" creationdate="20170801T082436Z">
+        <seg>Vi stötte på ett problem under synkronisering.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>We hit a problem during the search - no results found.</seg>
       </tuv>
       <tuv lang="SV-SE" changeid="peter" changedate="20160119T064858Z">
@@ -79672,6 +79896,14 @@ Värdet {0} är ogiltigt för aktivitetens egenskap {1}.</seg>
         <seg>We hit a problem, please try again.</seg>
       </tuv>
       <tuv lang="SV-SE" changeid="peter" changedate="20160119T073010Z">
+        <seg>Vi stötte på ett problem, försök igen.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>We hit a problem, try again.</seg>
+      </tuv>
+      <tuv lang="SV-SE" changeid="peter" changedate="20170801T082419Z" creationid="peter" creationdate="20170801T082419Z">
         <seg>Vi stötte på ett problem, försök igen.</seg>
       </tuv>
     </tu>
@@ -82285,6 +82517,22 @@ Värdet {0} är ogiltigt för aktivitetens egenskap {1}.</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>You don't have access to the source file, ask your IT Team for access.</seg>
+      </tuv>
+      <tuv lang="SV-SE" changeid="peter" changedate="20170801T082604Z" creationid="peter" creationdate="20170801T082604Z">
+        <seg>Du saknar åtkomst till källfilen, kontakta ansvarig för åtkomst.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>You don't have access to the target file, ask your IT Team for access.</seg>
+      </tuv>
+      <tuv lang="SV-SE" changeid="peter" changedate="20170801T082550Z" creationid="peter" creationdate="20170801T082550Z">
+        <seg>Du saknar åtkomst till målfilen, kontakta ansvarig för åtkomst.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>You don't have permission to create a link</seg>
       </tuv>
       <tuv lang="SV-SE" changeid="peter" changedate="20121128T143842Z">
@@ -82549,6 +82797,14 @@ Värdet {0} är ogiltigt för aktivitetens egenskap {1}.</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>You need to change the name to sync it.</seg>
+      </tuv>
+      <tuv lang="SV-SE" changeid="peter" changedate="20170801T082326Z" creationid="peter" creationdate="20170801T082326Z">
+        <seg>Du måste ändra namnet för att synkronisera det.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>You need to deactivate the model first.</seg>
       </tuv>
       <tuv lang="SV-SE" changeid="peter" changedate="20150906T081208Z">
@@ -82569,6 +82825,14 @@ Värdet {0} är ogiltigt för aktivitetens egenskap {1}.</seg>
       </tuv>
       <tuv lang="SV-SE" changeid="peter" changedate="20121010T191340Z">
         <seg>Du har inte längre tillgång till denna webbplats.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>You recently requested to change the password for your account.</seg>
+      </tuv>
+      <tuv lang="SV-SE" changeid="peter" changedate="20170801T081956Z" creationid="peter" creationdate="20170801T081956Z">
+        <seg>Du begärde nyligen en återställning av lösenordet för ditt konto.</seg>
       </tuv>
     </tu>
     <tu>
@@ -83599,16 +83863,16 @@ Värdet {0} är ogiltigt för aktivitetens egenskap {1}.</seg>
       <tuv lang="EN-US">
         <seg>d/M/yyyy</seg>
       </tuv>
-      <tuv lang="SV-SE" changeid="peter" changedate="20120415T080753Z">
-        <seg>d/M yyyy</seg>
+      <tuv lang="SV-SE" changeid="peter" changedate="20170821T111910Z">
+        <seg>d/M/yyyy</seg>
       </tuv>
     </tu>
     <tu>
       <tuv lang="EN-US">
         <seg>d/m/yy</seg>
       </tuv>
-      <tuv lang="SV-SE" changeid="peter" changedate="20120415T081342Z">
-        <seg>d/m yyyy</seg>
+      <tuv lang="SV-SE" changeid="peter" changedate="20170821T111620Z">
+        <seg>d/m/yyyy</seg>
       </tuv>
     </tu>
     <tu>
@@ -87097,6 +87361,14 @@ Vänligen kontakta din systemadministratör</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>{0} shared with you</seg>
+      </tuv>
+      <tuv lang="SV-SE" changeid="peter" changedate="20170801T081855Z" creationid="peter" creationdate="20170801T081855Z">
+        <seg>{0} delade med dig</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>{0} user(s) and {1} group(s) processed</seg>
       </tuv>
       <tuv lang="SV-SE" changeid="peter" changedate="20130821T093553Z">
@@ -87197,6 +87469,14 @@ Vänligen kontakta din systemadministratör</seg>
       </tuv>
       <tuv lang="SV-SE">
         <seg>{0} {1} har avböjt att bli medlem av webbplatsen {2}.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>{0} {1} has shared &lt;a href="{2}"&gt;{3}&lt;/a&gt; with you.</seg>
+      </tuv>
+      <tuv lang="SV-SE" changeid="peter" changedate="20170801T081912Z" creationid="peter" creationdate="20170801T081912Z">
+        <seg>{0} {1} har delat &lt;a href="{2}"&gt;{3}&lt;/a&gt; med dig.</seg>
       </tuv>
     </tu>
     <tu>
